@@ -1,0 +1,549 @@
+{
+  "title": "Lojas Virtuais do Brasil",
+  "subtitle": "63,974 Brazilian online stores: platform, SSL, Reclame Aqui, GPT pages",
+  "description": "**Lojas virtuais do Brasil**: 63.974 lojas virtuais brasileiras com plataforma, certificado SSL e reputa\u00e7\u00e3o no Reclame Aqui, o censo de e-commerce de 2022 e 63.933 p\u00e1ginas escritas pelo GPT-3.5. **Brazilian online stores**: platform, SSL, Reclame Aqui and the 2022 e-commerce census.\n\n![Brazilian online stores](https://raw.githubusercontent.com/CaiqueDourado/lojas-virtuais-brasil/main/docs/img/cover.png)\n\n63,974 Brazilian online stores found and checked in April 2023, with three tests of the e-commerce platform (declared, names in the HTML, a feed path that answered), catalog size from the feed, SSL certificate and the Reclame Aqui profile chosen among the search results. With them, the 2022 census of 81,018 e-commerce domains and their product feeds.\n\n![Stores per platform](https://raw.githubusercontent.com/CaiqueDourado/lojas-virtuais-brasil/main/docs/img/platforms.png)\n\n**About `textos_gpt`.** The author's site had one page per store, \"A loja X \u00e9 confi\u00e1vel?\", written by GPT-3.5 from the store name alone. 63,538 of the 63,542 pages with a readable answer say the store is reliable, including all 360 about stores Reclame Aqui does not recommend, and most invent a founding year, a city or a reputation. They are published as a record of model output next to real reputation data, **not as facts about the stores**.\n\n![GPT x Reclame Aqui](https://raw.githubusercontent.com/CaiqueDourado/lojas-virtuais-brasil/main/docs/img/gpt-vs-reclame-aqui.png)\n\n## Files\n\n- `lojas.parquet`: 63,974 stores: domain, name, platform, HTML signs, products in the feed, SSL, Reclame Aqui status and score.\n- `plataformas.parquet`: 13 platforms of the author's feed reader.\n- `reclame_aqui.parquet`: the Reclame Aqui profile linked to each store.\n- `reclame_aqui_candidatos.parquet`: every profile the search returned, with the one chosen.\n- `textos_gpt.parquet`: 63,933 synthetic pages by GPT-3.5 (12 April 2023).\n- `censo_2022.parquet`: 81,018 domains, declared platform, two online checks, feed, Mercado Shops id.\n- `censo_2022_feeds.parquet`: feeds tested and products read.\n- `feeds_importados.parquet`: 13,804 feeds imported into the author's crawler.\n\n## How it was collected\n\n![Sources and tables](https://raw.githubusercontent.com/CaiqueDourado/lojas-virtuais-brasil/main/docs/img/flow.png)\n\nPartners, contact lists, raw WHOIS, the CNPJ/CPF field of Reclame Aqui profiles and author meta tags were never exported. The data quality report lists every fix and every known limit, including how to check a Reclame Aqui match.\n\nMethodology, data quality report, data dictionary (EN and PT), scripts and a sample: **https://github.com/CaiqueDourado/lojas-virtuais-brasil**\n\n## Related\n\n- [Cat\u00e1logo de produtos do e-commerce brasileiro](https://www.kaggle.com/datasets/caiquedourado/catalogo-produtos-ecommerce-brasil)\n- [Reviews de produtos (pt-BR)](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)\n- [BrCommerceKit](https://github.com/CaiqueDourado/BrCommerceKit): platform detection and feed reading\n\nLicense: CC BY 4.0 for the compilation and derived columns; Reclame Aqui data from reclameaqui.com.br; GPT texts are synthetic. Version 1.0.0. Author: Caique Dourado.\n",
+  "id": "caiquedourado/lojas-virtuais-brasil",
+  "licenses": [
+    {
+      "name": "Attribution 4.0 International (CC BY 4.0)"
+    }
+  ],
+  "keywords": [
+    "brazil",
+    "e-commerce services",
+    "retail and shopping",
+    "nlp"
+  ],
+  "isPrivate": false,
+  "resources": [
+    {
+      "path": "lojas.parquet",
+      "description": "63,974 Brazilian online stores with a confirmed name (April 2023): platform, catalog size, SSL certificate, Reclame Aqui summary.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id_loja",
+            "description": "Store id in the author's database. Primary key.",
+            "type": "integer"
+          },
+          {
+            "name": "dominio",
+            "description": "Domain without www, lower case.",
+            "type": "string"
+          },
+          {
+            "name": "nome",
+            "description": "Store name inferred from the page (title and meta tags), HTML entities and mojibake fixed.",
+            "type": "string"
+          },
+          {
+            "name": "slug",
+            "description": "URL slug of the store page on the author's site Tudo Sobre Lojas.",
+            "type": "string"
+          },
+          {
+            "name": "plataforma",
+            "description": "E-commerce platform, with spellings unified (Nuvem Shop and NuvemShop -> NuvemShop; Loja Integrada PRO -> Loja Integrada). Empty when not detected.",
+            "type": "string"
+          },
+          {
+            "name": "plataforma_original",
+            "description": "Platform as stored by the crawler.",
+            "type": "string"
+          },
+          {
+            "name": "sinais_no_html",
+            "description": "Platform names found as text in the page's HTML (one test of three). 'Jet' is often a false positive (the substring 'jet').",
+            "type": "string"
+          },
+          {
+            "name": "protocolo",
+            "description": "http or https.",
+            "type": "string"
+          },
+          {
+            "name": "tld",
+            "description": "Top-level domain (.com.br, .com...).",
+            "type": "string"
+          },
+          {
+            "name": "total_produtos",
+            "description": "Products found in the store's feed; empty when no feed was read.",
+            "type": "integer"
+          },
+          {
+            "name": "titulo_pagina",
+            "description": "Title of the home page.",
+            "type": "string"
+          },
+          {
+            "name": "og_site_name",
+            "description": "og:site_name meta tag.",
+            "type": "string"
+          },
+          {
+            "name": "certificado_dominio",
+            "description": "Domain the SSL certificate was issued to (can differ: shared hosting).",
+            "type": "string"
+          },
+          {
+            "name": "certificado_emissor",
+            "description": "Certificate authority (Let's Encrypt, GlobalSign...).",
+            "type": "string"
+          },
+          {
+            "name": "certificado_validade",
+            "description": "Certificate expiry date at collection (April 2023).",
+            "type": "string"
+          },
+          {
+            "name": "certificado_com_erro",
+            "description": "True when reading the certificate failed (no HTTPS, timeout...).",
+            "type": "boolean"
+          },
+          {
+            "name": "fontes_no_crawler",
+            "description": "How many sources (stores) of the author's product crawler point to this domain; 0 = the store is not one of them.",
+            "type": "integer"
+          },
+          {
+            "name": "reclame_aqui_status",
+            "description": "Reclame Aqui reputation of the linked profile: RA1000, GREAT, GOOD, REGULAR, BAD, NOT_RECOMMENDED, NO_INDEX (too few complaints), UNDER_REVIEW. Empty: no profile found.",
+            "type": "string"
+          },
+          {
+            "name": "reclame_aqui_nota",
+            "description": "Reclame Aqui score (0-10) of the linked profile.",
+            "type": "number"
+          },
+          {
+            "name": "reclame_aqui_perfil",
+            "description": "Profile slug on Reclame Aqui (reclameaqui.com.br/empresa/<slug>).",
+            "type": "string"
+          },
+          {
+            "name": "tem_texto_gpt",
+            "description": "True when a GPT page was written about the store (table textos_gpt).",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "path": "plataformas.parquet",
+      "description": "The 13 platforms of the author's product feed reader.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id_plataforma",
+            "description": "Platform id of the author's feed reader.",
+            "type": "integer"
+          },
+          {
+            "name": "nome",
+            "description": "Platform name.",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "reclame_aqui.parquet",
+      "description": "Reclame Aqui profile(s) linked to each store: status, score, complaints, share solved.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "description": "Row id. Primary key.",
+            "type": "integer"
+          },
+          {
+            "name": "id_loja",
+            "description": "Store (lojas.id_loja).",
+            "type": "integer"
+          },
+          {
+            "name": "nome",
+            "description": "Profile name on Reclame Aqui.",
+            "type": "string"
+          },
+          {
+            "name": "nome_fantasia",
+            "description": "Trade name.",
+            "type": "string"
+          },
+          {
+            "name": "razao_social",
+            "description": "Company name as registered on Reclame Aqui.",
+            "type": "string"
+          },
+          {
+            "name": "shortname",
+            "description": "Profile slug.",
+            "type": "string"
+          },
+          {
+            "name": "url",
+            "description": "Website registered in the Reclame Aqui profile (as typed by the company).",
+            "type": "string"
+          },
+          {
+            "name": "logo",
+            "description": "Logo URL on Reclame Aqui.",
+            "type": "string"
+          },
+          {
+            "name": "acronym",
+            "description": "Acronym.",
+            "type": "string"
+          },
+          {
+            "name": "nota",
+            "description": "Score 0-10 (empty for NO_INDEX).",
+            "type": "number"
+          },
+          {
+            "name": "reclamacoes",
+            "description": "Complaint count shown by the search.",
+            "type": "integer"
+          },
+          {
+            "name": "percentual_resolvido",
+            "description": "Share of complaints solved, %.",
+            "type": "number"
+          },
+          {
+            "name": "status",
+            "description": "Reputation status (see lojas.reclame_aqui_status).",
+            "type": "string"
+          },
+          {
+            "name": "segmento",
+            "description": "Segment.",
+            "type": "string"
+          },
+          {
+            "name": "ra_id",
+            "description": "Reclame Aqui company id.",
+            "type": "string"
+          },
+          {
+            "name": "marcas",
+            "description": "Brands listed in the profile.",
+            "type": "string"
+          },
+          {
+            "name": "nomes_anteriores",
+            "description": "Previous names.",
+            "type": "string"
+          },
+          {
+            "name": "principal",
+            "description": "The profile chosen for the store when there is more than one.",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "path": "reclame_aqui_candidatos.parquet",
+      "description": "Every profile the Reclame Aqui search returned for each store, with the one chosen.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "description": "Row id. Primary key.",
+            "type": "integer"
+          },
+          {
+            "name": "id_loja",
+            "description": "Store searched (lojas.id_loja).",
+            "type": "integer"
+          },
+          {
+            "name": "nome",
+            "description": "Profile name returned by the search.",
+            "type": "string"
+          },
+          {
+            "name": "razao_social",
+            "description": "Company name.",
+            "type": "string"
+          },
+          {
+            "name": "shortname",
+            "description": "Profile slug.",
+            "type": "string"
+          },
+          {
+            "name": "url",
+            "description": "Website registered in the Reclame Aqui profile (as typed by the company).",
+            "type": "string"
+          },
+          {
+            "name": "nota",
+            "description": "Score 0-10.",
+            "type": "number"
+          },
+          {
+            "name": "reclamacoes",
+            "description": "Complaint count.",
+            "type": "integer"
+          },
+          {
+            "name": "status",
+            "description": "Reputation status.",
+            "type": "string"
+          },
+          {
+            "name": "segmento",
+            "description": "Segment.",
+            "type": "string"
+          },
+          {
+            "name": "ra_id",
+            "description": "Reclame Aqui company id.",
+            "type": "string"
+          },
+          {
+            "name": "escolhido",
+            "description": "True when this candidate became the store's profile in reclame_aqui.",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "path": "textos_gpt.parquet",
+      "description": "63,933 SYNTHETIC pages 'A loja X \u00e9 confi\u00e1vel?' written by GPT-3.5 on 12 April 2023. Not facts.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "description": "Post id on the author's site. Primary key.",
+            "type": "integer"
+          },
+          {
+            "name": "id_loja",
+            "description": "Store (lojas.id_loja), matched by name.",
+            "type": "integer"
+          },
+          {
+            "name": "nome_loja",
+            "description": "Store name used in the prompt.",
+            "type": "string"
+          },
+          {
+            "name": "titulo",
+            "description": "Page title as published, typo 'conf\u00e1vel' included.",
+            "type": "string"
+          },
+          {
+            "name": "meta_description",
+            "description": "Meta description of the page.",
+            "type": "string"
+          },
+          {
+            "name": "texto",
+            "description": "HTML text written by the model. SYNTHETIC: says every store is reliable and invents founding years, cities and reputation.",
+            "type": "string"
+          },
+          {
+            "name": "data",
+            "description": "Generation date.",
+            "type": "string"
+          },
+          {
+            "name": "modelo",
+            "description": "Model that wrote the text.",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "censo_2022.parquet",
+      "description": "2022 census of 81,018 Brazilian e-commerce domains: platform, two online checks, feed and Mercado Shops id.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "description": "Census row id. Primary key.",
+            "type": "integer"
+          },
+          {
+            "name": "dominio",
+            "description": "Domain without www.",
+            "type": "string"
+          },
+          {
+            "name": "protocolo",
+            "description": "Protocol of the first check.",
+            "type": "string"
+          },
+          {
+            "name": "plataforma",
+            "description": "Platform from the source list, spellings unified.",
+            "type": "string"
+          },
+          {
+            "name": "plataforma_verificada",
+            "description": "Platform confirmed by the checks, when filled.",
+            "type": "string"
+          },
+          {
+            "name": "online",
+            "description": "Result of the first check (OK, Erro, redirect codes).",
+            "type": "string"
+          },
+          {
+            "name": "online_msg",
+            "description": "Error message of the first check.",
+            "type": "string"
+          },
+          {
+            "name": "redirecionado_para",
+            "description": "Where the domain redirected in the first check.",
+            "type": "string"
+          },
+          {
+            "name": "online_check_2",
+            "description": "Result of the second check.",
+            "type": "string"
+          },
+          {
+            "name": "online_msg_check_2",
+            "description": "Error message of the second check.",
+            "type": "string"
+          },
+          {
+            "name": "redirecionado_para_check_2",
+            "description": "Redirect in the second check.",
+            "type": "string"
+          },
+          {
+            "name": "url_feed",
+            "description": "Product feed URL(s) found, comma separated.",
+            "type": "string"
+          },
+          {
+            "name": "plataforma_feed",
+            "description": "Platform implied by the feed path.",
+            "type": "string"
+          },
+          {
+            "name": "texto_plataforma",
+            "description": "Platform name found in the HTML.",
+            "type": "string"
+          },
+          {
+            "name": "id_mercado_shops",
+            "description": "Mercado Shops store id taken from the HTML.",
+            "type": "string"
+          },
+          {
+            "name": "id_loja",
+            "description": "Store (lojas.id_loja) with the same domain, when it is among the 63,974.",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "path": "censo_2022_feeds.parquet",
+      "description": "Product feeds tested for the census domains, with products read.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "description": "Feed row id. Primary key.",
+            "type": "integer"
+          },
+          {
+            "name": "id_censo",
+            "description": "Census domain (censo_2022.id).",
+            "type": "integer"
+          },
+          {
+            "name": "url",
+            "description": "Feed URL tested.",
+            "type": "string"
+          },
+          {
+            "name": "plataformas_testadas",
+            "description": "Platform feed paths tried for this domain.",
+            "type": "string"
+          },
+          {
+            "name": "produtos",
+            "description": "Products read from the feed.",
+            "type": "integer"
+          },
+          {
+            "name": "paginas",
+            "description": "Pages read.",
+            "type": "integer"
+          },
+          {
+            "name": "checado",
+            "description": "Feed was checked.",
+            "type": "boolean"
+          },
+          {
+            "name": "status",
+            "description": "sucesso or erro.",
+            "type": "string"
+          },
+          {
+            "name": "erro",
+            "description": "Error message (first 400 characters).",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "feeds_importados.parquet",
+      "description": "13,804 store feeds imported into the author's product crawler, by platform.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "description": "Row id. Primary key.",
+            "type": "integer"
+          },
+          {
+            "name": "plataforma",
+            "description": "Platform of the feed.",
+            "type": "string"
+          },
+          {
+            "name": "id_plataforma",
+            "description": "plataformas.id_plataforma.",
+            "type": "integer"
+          },
+          {
+            "name": "dominio",
+            "description": "Store domain.",
+            "type": "string"
+          },
+          {
+            "name": "url",
+            "description": "Feed URL.",
+            "type": "string"
+          },
+          {
+            "name": "produtos",
+            "description": "Products in the feed when imported.",
+            "type": "integer"
+          },
+          {
+            "name": "id_loja",
+            "description": "Store (lojas.id_loja) with the same domain, when present.",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ]
+}

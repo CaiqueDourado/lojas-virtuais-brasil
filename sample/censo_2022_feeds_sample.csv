@@ -1,0 +1,1001 @@
+id,id_censo,url,plataformas_testadas,produtos,paginas,checado,status,erro
+20618,149,https://www.comprevaz.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 60, posição 70."
+20672,420,https://classecouro.com.br/products.json,Shopify,304,11,true,sucesso,
+20687,465,https://www.casamind.com.br/XMLData/googleshopping.xml,Vtex,71,0,true,sucesso,
+20688,465,https://www.casamind.com.br/XMLData/facebook.xml,Vtex,71,0,true,sucesso,
+20700,520,https://www.systemcard-rs.com.br/FILES/_xml/facebook.xml,EzCommerce/Lynx,100,0,true,sucesso,
+20715,601,https://www.sestini.com.br/XMLData/googleshopping.xml,Vtex,702,0,true,sucesso,
+20728,679,https://www.acuo.com.br/XMLData/facebook.xml,Vtex,663,0,true,sucesso,
+20744,761,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/028/301/themes/common/fb_catalog.xml?version=1434,NuvemShop,170,0,true,sucesso,
+20749,791,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/415/746/themes/common/fb_catalog.xml?version=815,NuvemShop,508,0,true,sucesso,
+20784,914,https://www.santonucci.com.br/XMLData/facebook.xml,Jet,436,0,true,sucesso,
+20825,1088,https://www.mercadoshops.com.br/darwin/rss/545970124/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+20830,1124,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/607/929/themes/common/fb_catalog.xml?version=2070,NuvemShop,271,0,true,sucesso,
+20846,1173,https://www.gatabakana.com.br/XMLData/googleshopping.xml,Vtex,1993,0,true,sucesso,
+20922,1560,https://www.mercadoshops.com.br/darwin/rss/54832481/gshopping,mercado shops,5521,0,true,sucesso,
+20934,1588,https://www.dentalshop.com.br/products.json,"Vtex,Shopify",0,1,true,erro,"Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
+20942,1665,https://www.pluscherry.com.br/products.json,Shopify,48,2,true,sucesso,
+20955,1769,https://www.especifarma.com.br/FILES/_xml/google.xml,EzCommerce/Lynx,335,0,true,sucesso,
+20966,1791,https://rainhadascortinas.com.br/google_shopping.xml/,NuvemShop,6,0,true,sucesso,
+20969,1796,https://www.legombrinq.com.br/XMLData/facebook.xml,Vtex,609,0,true,sucesso,
+20974,1810,https://www.oticasdiniz.com.br/XMLData/googleshopping.xml,Vtex,580,0,true,sucesso,
+21051,2167,https://izzibox.com.br/google_shopping.xml/,NuvemShop,35,0,true,sucesso,
+21061,2231,https://www.lojadello.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 53, posição 70."
+21074,2287,https://www.dressto.com.br/XMLData/facebook.xml,Vtex,2498,0,true,sucesso,
+21081,2307,https://clickestoque.com.br/google_shopping.xml/,NuvemShop,809,0,true,sucesso,
+21082,2312,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/192/996/themes/common/fb_catalog.xml?version=658,NuvemShop,93,0,true,sucesso,
+21094,2384,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/895/331/themes/common/fb_catalog.xml?version=2332,NuvemShop,769,0,true,sucesso,
+21167,2880,https://www.lojaseletropolo.com.br/XMLData/googleshopping.xml,Vtex,1398,0,true,sucesso,
+21200,3017,https://www.dipollini.com.br/XMLData/googleshopping.xml,Vtex,167,0,true,sucesso,
+21218,3106,https://www.mosquiteirosguanambi.com.br/XMLData/googleshopping.xml,Jet,169,0,true,sucesso,
+21254,3228,https://www.osmoze.com.br/google_shopping.xml/,NuvemShop,11035,0,true,sucesso,
+21267,3272,https://www.shopjoss.com.br/XMLData/googleshopping.xml,Vtex,508,0,true,sucesso,
+21277,3325,https://www.mercadoshops.com.br/darwin/rss/2690611/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+21305,3496,https://viavila.com.br/google_shopping.xml/,NuvemShop,1091,0,true,sucesso,
+21368,3823,https://vivianfestas.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+21376,3864,https://www.pegrande.com.br/FILES/_xml/google.xml,EzCommerce/Lynx,1497,0,true,sucesso,
+21397,3987,https://www.lojasrede.com.br/media/amfeed/feeds/google.xml,Magento,0,0,true,erro,"Erro durante a análise de EntityName. Linha 64, posição 70."
+21428,4181,https://www.giga1.com.br/XMLData/facebook.xml,Jet,11,0,true,sucesso,
+21434,4189,https://mimootoys.com.br/google_shopping.xml/,NuvemShop,1463,0,true,sucesso,
+21437,4218,https://www.intermezzo.com.br/XMLData/googleshopping.xml,Vtex,536,0,true,sucesso,
+21439,4224,https://www.makenji.com.br/XMLData/facebook.xml,Vtex,300,0,true,sucesso,
+21456,4325,https://www.shopinfo.com.br/XMLData/facebook.xml,Vtex,894,0,true,sucesso,
+21460,4365,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/019/013/themes/common/fb_catalog.xml?version=662,NuvemShop,111,0,true,sucesso,
+21498,4693,https://www.superlegalbrinquedos.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 168, posição 70."
+21547,4931,https://www.natuclin.com.br/XMLData/googleshopping.xml,Vtex,115,0,true,sucesso,
+21568,5030,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/134/246/themes/common/fb_catalog.xml?version=2069,NuvemShop,0,0,true,erro,"'', valor hexadecimal 0x1F, é um caractere inválido. Linha 1, posição 1."
+21589,5113,https://dveras.com.br/google_shopping.xml/,NuvemShop,302,0,true,sucesso,
+21644,5380,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/375/516/themes/common/fb_catalog.xml?version=746,NuvemShop,26,0,true,sucesso,
+21670,5470,https://www.mercadoshops.com.br/darwin/rss/206843451/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+21699,5569,https://www.mercadoshops.com.br/darwin/rss/768843052/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+21704,5603,https://www.worldview.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 47, posição 70."
+21711,5633,https://www.mercadoshops.com.br/darwin/rss/246990488/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+21759,5958,https://www.novidadesaudavel.com.br:443/XMLData/googleshopping.xml,"Vtex,Magento",0,0,true,sucesso,
+21783,6100,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/084/594/themes/common/fb_catalog.xml?version=1288,NuvemShop,116,0,true,sucesso,
+21822,6387,https://nobrevie.com.br/google_shopping.xml/,NuvemShop,36,0,true,sucesso,
+21871,6732,https://camamuadventure.com.br/products.json,Shopify,7,1,true,sucesso,
+21881,6826,https://tupygua.myshopify.com/products.json,Shopify,6,1,true,sucesso,
+21885,6843,https://www.crisbarros.com.br/XMLData/googleshopping.xml,Vtex,59,0,true,sucesso,
+21891,6863,https://angelicalcestas.com.br/google_shopping.xml/,NuvemShop,39,0,true,sucesso,
+21898,6903,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/184/399/themes/common/fb_catalog.xml?version=11375,NuvemShop,679,0,true,sucesso,
+21904,6914,https://www.joiaurbana.com.br/FILES/_xml/google.xml,"Vtex,Magento,EzCommerce/Lynx,Moovin",0,0,true,erro,"A marca de início 'link' na linha 50 posição 2 não corresponde à marca de fim de 'head'. Linha 52, posição 3."
+21907,6919,https://www.mercadoshops.com.br/darwin/rss/169272362/gshopping,mercado shops,0,0,true,sucesso,
+21912,6938,https://www.espacosantahelena.com.br/media/amfeed/feeds/google.xml,Magento,0,0,true,erro,"Erro durante a análise de EntityName. Linha 52, posição 70."
+21920,7008,https://icooler.com.br/products.json,Shopify,2,1,true,sucesso,
+21923,7039,https://www.franciscone.com.br/XMLData/facebook.xml,Jet,158,0,true,sucesso,
+21925,7057,https://www.oticabliss.com.br/XMLData/googleshopping.xml,Vtex,779,0,true,sucesso,
+21933,7087,https://vondutchoriginals.com.br/google_shopping.xml/,NuvemShop,37,0,true,sucesso,
+21948,7161,http://pedroejulia.com.br/XMLData/googleshopping.xml/,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"'/' é um símbolo inesperado. O símbolo esperado é '='. Linha 14, posição 69."
+21950,7161,http://pedroejulia.com.br/media/amfeed/feeds/google.xml/,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"'/' é um símbolo inesperado. O símbolo esperado é '='. Linha 14, posição 69."
+21966,7231,https://www.cirurgicaalbinos.com.br/XMLData/googleshopping.xml,"Vtex,Magento",0,0,true,sucesso,
+22055,7749,https://lojasapinhocambios.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+22064,7834,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/649/290/themes/common/fb_catalog.xml?version=82,NuvemShop,0,0,true,sucesso,
+22119,8087,https://www.brincasa.com.br/XMLData/facebook.xml,"Vtex,Magento",0,0,true,erro,O servidor remoto retornou um erro: (504) Tempo Limite de Gateway.
+22124,8110,https://www.amobeleza.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 109, posição 70."
+22161,8299,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/617/378/themes/common/fb_catalog.xml?version=131,NuvemShop,119,0,true,sucesso,
+22171,8346,https://www.gamingmaster.com.br/XMLData/facebook.xml,Jet,53,0,true,sucesso,
+22173,8360,https://www.balai.com.br/XMLData/googleshopping.xml,Vtex,794,0,true,sucesso,
+22189,8432,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/387/012/themes/common/fb_catalog.xml?version=365,NuvemShop,400,0,true,sucesso,
+22191,8433,https://tunell.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+22242,8618,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/682/717/themes/common/fb_catalog.xml?version=1625,NuvemShop,483,0,true,sucesso,
+22245,8640,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/694/618/themes/common/fb_catalog.xml?version=715,NuvemShop,578,0,true,sucesso,
+22249,8657,https://www.campinasluzled.com.br/XMLData/facebook.xml,Jet,279,0,true,sucesso,
+22273,8779,https://zuckerdesign.com.br/products.json,Shopify,234,8,true,sucesso,
+22289,8834,https://www.masculina.com.br/FILES/_xml/google.xml,"Vtex,Magento,EzCommerce/Lynx,Moovin",0,0,true,erro,"Caractere inválido na codificação fornecida. Linha 16, posição 43."
+22295,8876,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/135/435/themes/common/fb_catalog.xml?version=706,NuvemShop,755,0,true,sucesso,
+22297,8881,https://www.mercadoshops.com.br/darwin/rss/99766947/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+22309,8923,https://www.commerce-center.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento,EzCommerce/Lynx,Moovin",0,0,true,erro,"Caractere inválido na codificação fornecida. Linha 11, posição 11."
+22310,8923,https://www.commerce-center.com.br/FILES/_xml/facebook.xml,EzCommerce/Lynx,2178,0,true,sucesso,
+22319,8963,https://facasmedeiros.com.br/products.json,Shopify,24,1,true,sucesso,
+22327,9002,https://brasildetectores.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+22334,9048,https://www.mercadoshops.com.br/darwin/rss/471262474/gshopping,mercado shops,2754,0,true,sucesso,
+22336,9063,https://www.mercadoshops.com.br/darwin/rss/231922363/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+22338,9067,https://www.porcelanabarbara.com.br/FILES/_xml/facebook.xml,Jet,274,0,true,sucesso,
+22351,9115,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/542/004/themes/common/fb_catalog.xml?version=597,NuvemShop,9,0,true,sucesso,
+22404,9367,https://www.eternizemomentos.com.br/products.json,Shopify,3,1,true,sucesso,
+22406,9388,https://www.worldfree.com.br/XMLData/facebook.xml,Vtex,302,0,true,sucesso,
+22416,9419,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/067/486/themes/common/fb_catalog.xml?version=911,NuvemShop,83,0,true,sucesso,
+22432,9509,https://lemarquesstore.com.br/google_shopping.xml/,NuvemShop,302,0,true,sucesso,
+22471,9744,https://centropaisagistico.com.br/products.json,Shopify,15,1,true,sucesso,
+22520,10063,https://www.criativamoda.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento,EzCommerce/Lynx,Moovin",0,0,true,erro,"Caractere inválido na codificação fornecida. Linha 11, posição 11."
+22564,10967,https://www.mercadoshops.com.br/darwin/rss/190063873/gshopping,mercado shops,565,0,true,sucesso,
+22591,12183,https://www.mercadoshops.com.br/darwin/rss/203115188/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+22605,12374,https://www.mercadoshops.com.br/darwin/rss/77953327/gshopping,mercado shops,693,0,true,sucesso,
+22641,12750,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/626/599/themes/common/fb_catalog.xml?version=770,NuvemShop,434,0,true,sucesso,
+22655,12787,https://www.mercadoshops.com.br/darwin/rss/3199614/gshopping,mercado shops,202,0,true,sucesso,
+22659,12837,https://www.mercadoshops.com.br/darwin/rss/89467328/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+22716,13093,https://diggydoggy.com.br/google_shopping.xml/,NuvemShop,562,0,true,sucesso,
+22770,13373,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/200/793/themes/common/fb_catalog.xml?version=2782,NuvemShop,81,0,true,sucesso,
+22837,13763,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/223/000/themes/common/fb_catalog.xml?version=1891,NuvemShop,507,0,true,sucesso,
+22839,13771,https://www.soleluaplussize.com.br/XMLData/googleshopping.xml,Jet,782,0,true,sucesso,
+22840,13771,https://www.soleluaplussize.com.br/XMLData/facebook.xml,Jet,806,0,true,sucesso,
+22844,13785,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/595/752/themes/common/fb_catalog.xml?version=849,NuvemShop,746,0,true,sucesso,
+22868,13974,https://www.mercadoshops.com.br/darwin/rss/64557297/gshopping,mercado shops,4723,0,true,sucesso,
+22885,14053,https://www.casadaarte.com.br/media/amfeed/feeds/google.xml,Magento,0,0,true,erro,"Erro durante a análise de EntityName. Linha 237, posição 70."
+22887,14063,https://www.mercadoshops.com.br/darwin/rss/688838615/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+22921,14266,https://www.mercadoshops.com.br/darwin/rss/377527492/gshopping,mercado shops,40004,0,true,sucesso,
+22927,14294,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/679/501/themes/common/fb_catalog.xml?version=734,NuvemShop,293,0,true,sucesso,
+22938,14357,https://www.mercadoshops.com.br/darwin/rss/491409319/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+22943,14376,https://www.beckettrobb.com/products.json,Shopify,272,10,true,sucesso,
+22958,14408,https://solshine.com.br/products.json,Shopify,362,13,true,sucesso,
+22971,14518,https://www.mercadoshops.com.br/darwin/rss/189250440/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+23042,14937,https://copyneves.com.br/FILES/_xml/google1.xml,"Vtex,Magento,Shopify,EzCommerce/Lynx",0,0,true,erro,"Referência a uma entidade não declarada, 'raquo'. Linha 15, posição 78."
+23062,15004,https://www.mercadoshops.com.br/darwin/rss/150043409/gshopping,mercado shops,919,0,true,sucesso,
+23072,15085,https://lojavirtualdacasa.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+23122,15384,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/661/653/themes/common/fb_catalog.xml?version=49,NuvemShop,106,0,true,sucesso,
+23136,15440,https://arteefestamdf.com.br/google_shopping.xml/,NuvemShop,204,0,true,sucesso,
+23188,15689,https://taconboutique.com.br/XMLData/facebook.xml,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"Erro durante a análise de EntityName. Linha 8, posição 41."
+23229,15789,https://www.smartgr.com.br/XMLData/googleshopping.xml,Vtex,114,0,true,sucesso,
+23251,15866,https://www.dunortemoveis.com.br/XMLData/googleshopping.xml,Vtex,98,0,true,sucesso,
+23265,15875,https://www.mercadoshops.com.br/darwin/rss/36380043/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+23282,15965,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/391/402/themes/common/fb_catalog.xml?version=812,NuvemShop,57,0,true,sucesso,
+23306,16103,https://www.highmed.com.br/XMLData/googleshopping.xml,Vtex,97,0,true,sucesso,
+23351,16290,https://www.mercadoshops.com.br/darwin/rss/8531394/gshopping,mercado shops,71,0,true,sucesso,
+23352,16291,https://www.mercadoshops.com.br/darwin/rss/1879574/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+23355,16305,https://www.mercadoshops.com.br/darwin/rss/61135569/gshopping,mercado shops,2315,0,true,sucesso,
+23410,16569,https://www.mercadoshops.com.br/darwin/rss/569332558/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+23414,16587,https://www.mercadoshops.com.br/darwin/rss/90913049/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+23423,16611,https://bbkits.com.br/google_shopping.xml/,NuvemShop,66,0,true,sucesso,
+23447,16714,https://www.bioute.com.br/products.json,Shopify,481,17,true,sucesso,
+23448,16719,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/146/065/themes/common/fb_catalog.xml?version=868,NuvemShop,804,0,true,sucesso,
+23473,16819,https://www.cafestore.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 136, posição 70."
+23475,16831,https://biossance.com.br/products.json,Shopify,64,3,true,sucesso,
+23478,16836,https://www.hermosocompadre.com.br/XMLData/facebook.xml,Vtex,195,0,true,sucesso,
+23488,16883,https://www.mercadoshops.com.br/darwin/rss/1475191/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+23495,16929,https://www.soulier.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 65, posição 70."
+23520,17030,https://www.casacenario.com.br/products.json,Shopify,175,6,true,sucesso,
+23525,17047,https://www.kizoeirabrinquedos.com.br/XMLData/facebook.xml,Jet,0,0,true,sucesso,
+23542,17173,https://www.mercadoshops.com.br/darwin/rss/525357225/gshopping,mercado shops,296,0,true,sucesso,
+23621,17529,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/355/907/themes/common/fb_catalog.xml?version=123,NuvemShop,12,0,true,sucesso,
+23634,17611,https://bibocasvariedades.com.br/google_shopping.xml/,NuvemShop,50,0,true,sucesso,
+23647,17649,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/918/257/themes/common/fb_catalog.xml?version=54,NuvemShop,246,0,true,sucesso,
+23694,17796,https://truberpell.com.br/products.json,Shopify,28,1,true,sucesso,
+23700,17855,https://www.mercadoshops.com.br/darwin/rss/234507053/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+23706,17906,https://amoestampa.com.br/google_shopping.xml/,NuvemShop,127,0,true,sucesso,
+23709,17919,https://www.mercadoshops.com.br/darwin/rss/77385974/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+23714,17944,https://samambaiastore.com.br/google_shopping.xml/,NuvemShop,454,0,true,sucesso,
+23719,18005,https://www.kingssports.com.br/XMLData/googleshopping.xml,Jet,258,0,true,sucesso,
+23765,18180,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/197/205/themes/common/fb_catalog.xml?version=6,NuvemShop,39,0,true,sucesso,
+23777,18273,https://www.mercadoshops.com.br/darwin/rss/43654724/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+23779,18282,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/840/006/themes/common/fb_catalog.xml?version=87,NuvemShop,419,0,true,sucesso,
+23818,18429,https://hollyxsantoanjo.minhalojanouol.com.br/FILES/_xml/facebook.xml,Jet,70,0,true,sucesso,
+23829,18517,https://www.quintadellarte.com.br/XMLData/googleshopping.xml,Vtex,362,0,true,sucesso,
+23854,18678,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/138/682/themes/common/fb_catalog.xml?version=75,NuvemShop,87,0,true,sucesso,
+23908,18889,https://chapeucoco.com.br/google_shopping.xml/,NuvemShop,2134,0,true,sucesso,
+23921,18941,https://www.mercadoshops.com.br/darwin/rss/183649887/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+23929,18987,https://phmusicstore.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+23975,19198,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/688/139/themes/common/fb_catalog.xml?version=1222,NuvemShop,23,0,true,sucesso,
+24007,19331,https://www.theladiesmodas.com.br/XMLData/facebook.xml,Jet,260,0,true,sucesso,
+24028,19462,https://www.mrcat.com.br/XMLData/googleshopping.xml,Vtex,1071,0,true,sucesso,
+24041,19538,https://www.mercadoshops.com.br/darwin/rss/668929343/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+24042,19548,https://www.vseletrica.com.br/XMLData/facebook.xml,Jet,28,0,true,sucesso,
+24066,19699,https://muvin.com.br/products.json,Shopify,325,11,true,sucesso,
+24102,19800,https://www.mercadoshops.com.br/darwin/rss/84527714/gshopping,mercado shops,822,0,true,sucesso,
+24127,19921,https://www.foliadecores.com.br/FILES/_xml/facebook.xml,Jet,1293,0,true,sucesso,
+24158,20096,https://www.princesinhademaua.com.br/XMLData/facebook.xml,Jet,107,0,true,sucesso,
+24167,20144,https://filamentos3dbrasil.com.br/google_shopping.xml/,NuvemShop,448,0,true,sucesso,
+24179,20234,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/431/419/themes/common/fb_catalog.xml?version=429,NuvemShop,135,0,true,sucesso,
+24213,20397,https://www.mercadoshops.com.br/darwin/rss/127755540/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+24243,20553,https://gardensacoma.com.br/google_shopping.xml/,NuvemShop,113,0,true,sucesso,
+24252,20569,https://customizemoto.com.br/FILES/_xml/google1.xml,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"'pt-BR' é um símbolo inesperado. O símbolo esperado é '""' ou '''. Linha 2, posição 6."
+24266,20650,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/022/000/themes/common/fb_catalog.xml?version=76,NuvemShop,52,0,true,sucesso,
+24352,21010,https://www.mercadoshops.com.br/darwin/rss/75956405/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+24362,21062,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/302/417/themes/common/fb_catalog.xml?version=768,NuvemShop,203,0,true,sucesso,
+24401,21282,https://www.mercadoshops.com.br/darwin/rss/193466821/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+24417,21359,https://www.catini.com.br/XMLData/facebook.xml,Jet,131,0,true,sucesso,
+24448,21490,https://www.thebeerplanet.com.br/XMLData/googleshopping.xml,Vtex,266,0,true,sucesso,
+24453,21497,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/998/379/themes/common/fb_catalog.xml?version=220,NuvemShop,53,0,true,sucesso,
+24500,21771,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/299/236/themes/common/fb_catalog.xml?version=799,NuvemShop,661,0,true,sucesso,
+24509,21798,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/593/207/themes/common/fb_catalog.xml?version=454,NuvemShop,190,0,true,sucesso,
+24510,21802,https://www.mercadoshops.com.br/darwin/rss/143502696/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+24511,21807,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/074/890/themes/common/fb_catalog.xml?version=17,NuvemShop,0,0,true,sucesso,
+24527,21845,https://www.mercadoshops.com.br/darwin/rss/282246986/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+24546,21975,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/248/827/themes/common/fb_catalog.xml?version=2647,NuvemShop,633,0,true,sucesso,
+24549,21979,https://nathurafit.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+24567,22051,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/877/989/themes/common/fb_catalog.xml?version=1034,NuvemShop,130,0,true,sucesso,
+24635,22350,https://www.mercadoshops.com.br/darwin/rss/142905832/gshopping,mercado shops,472,0,true,sucesso,
+24645,22366,https://www.maxior.com.br/media/amfeed/feeds/google.xml,Magento,0,0,true,erro,"Erro durante a análise de EntityName. Linha 52, posição 70."
+24647,22371,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/665/148/themes/common/fb_catalog.xml?version=177,NuvemShop,386,0,true,sucesso,
+24684,22496,https://www.mercadoshops.com.br/darwin/rss/28536676/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+24687,22507,https://doctormaxtatuape.com.br/google_shopping.xml/,NuvemShop,334,0,true,sucesso,
+24693,22545,https://perastore.com.br/products.json,Shopify,308,11,true,sucesso,
+24716,22635,https://gestantefashion.com.br/google_shopping.xml/,NuvemShop,218,0,true,sucesso,
+24719,22658,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/605/840/themes/common/fb_catalog.xml?version=1900,NuvemShop,546,0,true,sucesso,
+24722,22664,https://thimalu.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+24728,22687,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/274/851/themes/common/fb_catalog.xml?version=1667,NuvemShop,290,0,true,sucesso,
+24758,22806,https://effeme.com.br/products.json/,Shopify,12,1,true,sucesso,
+24763,22821,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/754/915/themes/common/fb_catalog.xml?version=332,NuvemShop,378,0,true,sucesso,
+24795,22906,https://musclelife.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+24802,22921,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/168/023/themes/common/fb_catalog.xml?version=1114,NuvemShop,196,0,true,sucesso,
+24854,23234,https://filotecidos.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+24894,23414,https://deltatoners.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+24925,23546,https://www.mercadoaventura.com.br/XMLData/googleshopping.xml,Vtex,15,0,true,sucesso,
+24931,23574,https://www.duxnutrition.com/XMLData/googleshopping.xml,Vtex,85,0,true,sucesso,
+24932,23574,https://www.duxnutrition.com/XMLData/facebook.xml,Vtex,85,0,true,sucesso,
+24935,23579,https://www.flovit.com.br/products.json,Shopify,0,1,true,sucesso,
+24940,23601,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/158/824/themes/common/fb_catalog.xml?version=933,NuvemShop,165,0,true,sucesso,
+24944,23624,https://www.mercadoshops.com.br/darwin/rss/432253404/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+25004,23953,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/903/052/themes/common/fb_catalog.xml?version=2003,NuvemShop,15,0,true,sucesso,
+25005,23953,https://advancedshop.com.br/google_shopping.xml/,NuvemShop,5,0,true,sucesso,
+25009,23962,https://www.casaamerica.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 54, posição 70."
+25039,24078,https://sultantabacaria.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+25040,24081,https://vinicolathera.com.br/products.json,Shopify,9,1,true,sucesso,
+25067,24179,https://universodosparafusos.com.br/google_shopping.xml/,NuvemShop,1028,0,true,sucesso,
+25072,24193,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/821/582/themes/common/fb_catalog.xml?version=9364,NuvemShop,62,0,true,sucesso,
+25085,24253,https://difiorestore.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+25091,24309,https://hbpoint.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+25110,24422,https://www.mercadoshops.com.br/darwin/rss/129545470/gshopping,mercado shops,169,0,true,sucesso,
+25115,24444,https://www.mercadoshops.com.br/darwin/rss/219324195/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+25121,24457,https://www.farmaxloja.com.br/XMLData/googleshopping.xml,Vtex,225,0,true,sucesso,
+25155,24598,https://www.mercadoshops.com.br/darwin/rss/457338518/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+25161,24618,https://www.mercadoshops.com.br/darwin/rss/188595605/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+25181,24692,https://mrshome.com.br/products.json,Shopify,449,15,true,sucesso,
+25204,24866,https://www.mercadoshops.com.br/darwin/rss/147896428/gshopping,mercado shops,788,0,true,sucesso,
+25230,24965,https://singlestore.com.br/google_shopping.xml/,NuvemShop,164,0,true,sucesso,
+25247,25087,https://panoxadrez.com.br/products.json,Shopify,519,18,true,sucesso,
+25249,25088,https://lilye.com.br/google_shopping.xml/,NuvemShop,296,0,true,sucesso,
+25281,25163,https://www.kleebrasil.com.br/XMLData/facebook.xml,Jet,220,0,true,sucesso,
+25286,25180,https://www.funstock.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 52, posição 70."
+25305,25238,https://www.mercadoshops.com.br/darwin/rss/133010004/gshopping,mercado shops,2003,0,true,sucesso,
+25323,25274,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/468/656/themes/common/fb_catalog.xml?version=522,NuvemShop,283,0,true,sucesso,
+25338,25335,https://vithoprotection.com.br/google_shopping.xml/,NuvemShop,2396,0,true,sucesso,
+25342,25352,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/287/713/themes/common/fb_catalog.xml?version=24,NuvemShop,279,0,true,sucesso,
+25346,25355,https://sophiahegg.com.br/products.json,Shopify,233,8,true,sucesso,
+25352,25374,https://www.kravo.com.br/products.json,Shopify,188,7,true,sucesso,
+25359,25408,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/553/327/themes/common/fb_catalog.xml?version=243,NuvemShop,130,0,true,sucesso,
+25384,25542,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/667/988/themes/common/fb_catalog.xml?version=2629,NuvemShop,288,0,true,sucesso,
+25417,25712,https://www.ninawrite.com/google_shopping.xml/,NuvemShop,283,0,true,sucesso,
+25425,25767,https://paillerracing.com.br/google_shopping.xml/,NuvemShop,1300,0,true,sucesso,
+25446,25847,https://www.mercadoshops.com.br/darwin/rss/142306243/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+25473,25981,https://www.comercialsaopaulo.com/XMLData/googleshopping.xml,"Vtex,Magento",0,0,true,sucesso,
+25497,26094,https://www.mercadoshops.com.br/darwin/rss/243993505/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+25653,26834,https://sexshopsegredos.com.br/google_shopping.xml/,NuvemShop,1957,0,true,sucesso,
+25730,27125,https://www.farmamake.com.br/XMLData/googleshopping.xml,Vtex,669,0,true,sucesso,
+25735,27147,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/019/704/themes/common/fb_catalog.xml?version=2875,NuvemShop,180,0,true,sucesso,
+25759,27266,https://feitopormamae.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+25775,27335,https://www.mercadoshops.com.br/darwin/rss/181353962/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+25798,27496,https://www.mercadoshops.com.br/darwin/rss/426723901/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+25808,27543,https://borealejoias.com.br/google_shopping.xml/,NuvemShop,16,0,true,sucesso,
+25821,27571,https://texseg.com.br/FILES/_xml/google1.xml,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"'type' é um símbolo inesperado. O símbolo esperado é '='. Linha 17, posição 54."
+25855,27752,https://aestamparia.com.br/products.json,Shopify,274,10,true,sucesso,
+25857,27764,https://www.modario.com.br/FILES/_xml/facebook.xml,Jet,112,0,true,sucesso,
+25861,27791,https://aromasdegokula.com.br/products.json,Shopify,68,3,true,sucesso,
+25910,27999,https://deitosjoias.com.br/products.json,Shopify,1545,52,true,sucesso,
+25936,28121,https://www.mercadoshops.com.br/darwin/rss/455333906/gshopping,mercado shops,39988,0,true,sucesso,
+25953,28179,https://www.redelimpeza.com/FILES/_xml/facebook.xml,Jet,1345,0,true,sucesso,
+26054,28620,https://bosquedaraposa.com.br/google_shopping.xml/,NuvemShop,381,0,true,sucesso,
+26101,28776,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/301/839/themes/common/fb_catalog.xml?version=30,NuvemShop,97,0,true,sucesso,
+26137,28922,https://www.mercadoshops.com.br/darwin/rss/128610365/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+26187,29093,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/650/241/themes/common/google_shopping.xml?version=1,NuvemShop,133,0,true,sucesso,
+26236,29379,https://www.mercadoshops.com.br/darwin/rss/97158063/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+26251,29443,https://www.mercadoshops.com.br/darwin/rss/67573051/gshopping,mercado shops,0,0,true,sucesso,
+26288,29597,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/410/449/themes/common/fb_catalog.xml?version=2149,NuvemShop,860,0,true,sucesso,
+26289,29599,https://lojaviu.com.br/google_shopping.xml/,NuvemShop,1618,0,true,sucesso,
+26314,29736,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/121/820/themes/common/fb_catalog.xml?version=1053,NuvemShop,436,0,true,sucesso,
+26323,29783,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/128/174/themes/common/fb_catalog.xml?version=181,NuvemShop,439,0,true,sucesso,
+26339,29881,https://www.mercadoshops.com.br/darwin/rss/326336407/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+26352,30020,https://www.mercadoshops.com.br/darwin/rss/328008077/gshopping,mercado shops,1777,0,true,sucesso,
+26375,30467,https://www.mercadoshops.com.br/darwin/rss/338879512/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+26401,30775,https://www.mercadoshops.com.br/darwin/rss/59880888/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+26416,30996,https://www.mercadoshops.com.br/darwin/rss/399262423/gshopping,mercado shops,40066,0,true,sucesso,
+26429,31195,https://www.mercadoshops.com.br/darwin/rss/582590187/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+26461,31618,https://www.shopmargaux.com.br/XMLData/googleshopping.xml,Vtex,223,0,true,sucesso,
+26476,31685,https://www.mercadoshops.com.br/darwin/rss/281419882/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+26479,31700,https://lojacharmdecor.com.br/google_shopping.xml/,NuvemShop,1805,0,true,sucesso,
+26496,31761,https://aurorafashion.com.br/products.json/,Shopify,58,1,true,sucesso,
+26519,31858,https://www.uebakids.com.br/FILES/_xml/facebook.xml,Jet,383,0,true,sucesso,
+26525,31895,https://plenaalfaiataria.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+26543,32017,https://bonitete.com.br/google_shopping.xml/,NuvemShop,129,0,true,sucesso,
+26565,32110,https://www.eloparts.com.br/FILES/_xml/google.xml,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"'doctype' é um símbolo inesperado. O símbolo esperado é 'DOCTYPE'. Linha 1, posição 3."
+26570,32139,https://www.mercadoshops.com.br/darwin/rss/485981781/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+26587,32222,https://bellascatola.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+26599,32263,https://www.mercadoshops.com.br/darwin/rss/729045478/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+26612,32305,https://www.cyclone.com.br/XMLData/googleshopping.xml,Vtex,582,0,true,sucesso,
+26664,32509,https://bravita.com.br/XMLData/facebook.xml,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"'text' é um símbolo inesperado. O símbolo esperado é '""' ou '''. Linha 1, posição 74."
+26691,32584,https://amandaborges.com.br/products.json,Shopify,39,2,true,sucesso,
+26700,32642,https://queimaofertas.com.br/products.json,Shopify,26,1,true,sucesso,
+26705,32663,https://leevestore.com.br/google_shopping.xml/,NuvemShop,242,0,true,sucesso,
+26706,32666,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/726/046/themes/common/fb_catalog.xml?version=358,NuvemShop,535,0,true,sucesso,
+26715,32702,https://pancadafight.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+26721,32732,https://dumalu.com.br/google_shopping.xml/,NuvemShop,496,0,true,sucesso,
+26726,32742,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/275/815/themes/common/fb_catalog.xml?version=1499,NuvemShop,232,0,true,sucesso,
+26733,32764,https://lojasnorthwest.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+26752,32834,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/811/824/themes/common/fb_catalog.xml?version=634,NuvemShop,214,0,true,sucesso,
+26768,32909,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/252/387/themes/common/fb_catalog.xml?version=1037,NuvemShop,203,0,true,sucesso,
+26787,32951,https://mozambisa.com.br/products.json,Shopify,110,4,true,sucesso,
+26788,32954,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/306/529/themes/common/fb_catalog.xml?version=1698,NuvemShop,282,0,true,sucesso,
+26798,32983,https://www.mercadoshops.com.br/darwin/rss/455393726/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+26852,33247,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/395/913/themes/common/fb_catalog.xml?version=181,NuvemShop,3,0,true,sucesso,
+26895,33421,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/402/454/themes/common/fb_catalog.xml?version=2099,NuvemShop,64,0,true,sucesso,
+26946,33616,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/472/690/themes/common/fb_catalog.xml?version=182,NuvemShop,101,0,true,sucesso,
+26987,33795,https://www.mercadoshops.com.br/darwin/rss/761892873/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+27001,33865,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/633/165/themes/common/fb_catalog.xml?version=178,NuvemShop,129,0,true,sucesso,
+27009,33906,https://www.mercadoshops.com.br/darwin/rss/751528413/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+27023,33949,https://paconstrushop.com.br/google_shopping.xml/,NuvemShop,2,0,true,sucesso,
+27065,34105,https://www.mercadoshops.com.br/darwin/rss/806436214/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+27086,34198,https://www.volvopecas.com.br/XMLData/facebook.xml,Vtex,589,0,true,sucesso,
+27089,34218,https://www.lojasoftys.com.br/XMLData/facebook.xml,Vtex,274,0,true,sucesso,
+27092,34225,https://estarmoveis.com.br/products.json,Shopify,1254,42,true,sucesso,
+27098,34253,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/949/791/themes/common/fb_catalog.xml?version=406,NuvemShop,602,0,true,sucesso,
+27131,34403,https://www.autorama.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 55, posição 70."
+27153,34539,https://www.nacar.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 65, posição 70."
+27182,34687,https://www.luitex.com.br/products.json,"Vtex,Shopify",0,1,true,erro,"Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
+27190,34754,https://www.costume.com.br/XMLData/googleshopping.xml,"Vtex,Magento",0,0,true,erro,"'', valor hexadecimal 0x02, é um caractere inválido. Linha 118, posição 210."
+27224,34964,https://www.manosdoces.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 51, posição 70."
+27261,35199,https://www.mercadoshops.com.br/darwin/rss/746369106/gshopping,mercado shops,0,0,true,sucesso,
+27282,35278,https://www.geleiasqueensberry.com.br/XMLData/googleshopping.xml,Vtex,28,0,true,sucesso,
+27296,35341,https://www.mercadoshops.com.br/darwin/rss/273398055/gshopping,mercado shops,0,0,true,erro,Exceção do tipo 'System.OutOfMemoryException' foi acionada.
+27322,35451,https://image3.com.br/XMLData/googleshopping.xml,"Vtex,EzCommerce/Lynx",0,0,true,erro,"Erro durante a análise de EntityName. Linha 498, posição 34."
+27325,35451,https://image3.com.br/FILES/_xml/google.xml,"Vtex,EzCommerce/Lynx",0,0,true,erro,"Erro durante a análise de EntityName. Linha 498, posição 34."
+27374,35679,https://www.compracerta.com.br/products.json,Shopify,0,1,true,erro,"Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
+27376,35680,https://www.consul.com.br/products.json,"Vtex,Shopify",0,1,true,erro,"Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
+27389,35719,https://www.santaluzia.com.br/media/amfeed/feeds/google.xml,Magento,0,0,true,erro,"Erro durante a análise de EntityName. Linha 51, posição 70."
+27390,35723,https://www.kookabu.com.br/XMLData/googleshopping.xml,Vtex,2567,0,true,sucesso,
+27426,35904,https://www.livrariart.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 36, posição 17."
+27467,36193,https://www.drogariasaopaulo.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 48, posição 70."
+27502,36393,https://www.mercadoshops.com.br/darwin/rss/156774940/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+27553,36657,https://www.mercadoshops.com.br/darwin/rss/310746918/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+27591,36925,https://www.mercadoshops.com.br/darwin/rss/525237026/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+27601,36960,https://www.cosamacasa.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 58, posição 70."
+27625,37127,https://invel.com.br/products.json,Shopify,231,8,true,sucesso,
+27631,37160,https://www.agnusdei.com.br/XMLData/googleshopping.xml,Vtex,954,0,true,sucesso,
+27646,37210,https://mitty.com.br/google_shopping.xml/,NuvemShop,108,0,true,sucesso,
+27662,37245,https://www.liriosdesiao.com.br/FILES/_xml/facebook.xml,Jet,655,0,true,sucesso,
+27668,37272,https://imaginariobrasileiro.com.br/products.json,Shopify,1449,49,true,sucesso,
+27714,37488,https://www.attraktiva.com.br/XMLData/googleshopping.xml,Vtex,1261,0,true,sucesso,
+27718,37493,https://sabongi.com.br/google_shopping.xml/,NuvemShop,4161,0,true,sucesso,
+27757,37750,https://www.arrazofashion.com.br/XMLData/googleshopping.xml,Vtex,892,0,true,sucesso,
+27772,37831,https://www.mercadoshops.com.br/darwin/rss/151905320/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+27775,37836,https://www.lubelmoveis.com.br/XMLData/facebook.xml,Jet,157,0,true,sucesso,
+27790,37910,https://fusaodiesel.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+27815,38011,https://www.mercadoshops.com.br/darwin/rss/428104403/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+27853,38241,https://www.dalcosta.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 48, posição 70."
+27937,38809,https://gang.com.br/XMLData/facebook.xml,Vtex,1624,0,true,sucesso,
+27989,39110,https://andrita.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+28020,39315,https://facasriograndense.com.br/FILES/_xml/facebook.xml,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"'pt-br' é um símbolo inesperado. O símbolo esperado é '""' ou '''. Linha 2, posição 12."
+28041,39446,https://www.klshop.com.br/products.json,Shopify,1,1,true,sucesso,
+28054,40675,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/997/427/themes/common/fb_catalog.xml?version=85,NuvemShop,305,0,true,sucesso,
+28094,40774,https://www.editoraluxsophia.com.br/FILES/_xml/facebook.xml,Jet,5,0,true,sucesso,
+28196,41682,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/871/349/themes/common/fb_catalog.xml?version=116,NuvemShop,59,0,true,sucesso,
+28197,41693,https://www.mercadoshops.com.br/darwin/rss/83352098/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28230,43605,https://ecoilumi.com.br/FILES/_xml/facebook.xml/,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"Referência a uma entidade não declarada, 'raquo'. Linha 15, posição 78."
+28237,44065,https://www.mercadoshops.com.br/darwin/rss/154250980/gshopping,mercado shops,17,0,true,sucesso,
+28252,44792,https://www.mercadoshops.com.br/darwin/rss/549891879/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28272,46111,https://www.mercadoshops.com.br/darwin/rss/742300041/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28287,47106,https://www.mercadoshops.com.br/darwin/rss/677104467/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28292,47398,https://www.mercadoshops.com.br/darwin/rss/182640638/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28294,47631,https://www.mercadoshops.com.br/darwin/rss/293963557/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28309,48193,https://www.mercadoshops.com.br/darwin/rss/388953860/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28315,48376,https://rezaria.com.br/google_shopping.xml/,NuvemShop,351,0,true,sucesso,
+28323,48594,https://www.mercadoshops.com.br/darwin/rss/392211775/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28387,51554,https://www.mercadoshops.com.br/darwin/rss/318965702/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28399,52408,https://klausmodafit.com.br/google_shopping.xml/,NuvemShop,381,0,true,sucesso,
+28433,54541,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/649/302/themes/common/fb_catalog.xml?version=27,NuvemShop,131,0,true,sucesso,
+28447,55555,https://energiasolucoes.com.br/XMLData/googleshopping.xml,"Vtex,EzCommerce/Lynx",0,0,true,erro,"'=' é um símbolo inesperado. O símbolo esperado é ';'. Linha 14, posição 79."
+28454,55637,https://www.fcdecor.com.br/FILES/_xml/facebook.xml,"Vtex,EzCommerce/Lynx",0,0,true,erro,"'=' é um símbolo inesperado. O símbolo esperado é ';'. Linha 142, posição 70."
+28469,56474,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/002/005/754/themes/common/fb_catalog.xml?version=110,NuvemShop,713,0,true,sucesso,
+28514,57231,https://www.mercadoshops.com.br/darwin/rss/24368196/gshopping,mercado shops,68,0,true,sucesso,
+28519,57237,https://www.mercadoshops.com.br/darwin/rss/271167977/gshopping,mercado shops,48429,0,true,sucesso,
+28553,57293,https://www.mercadoshops.com.br/darwin/rss/31732711/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28573,57322,https://www.mercadoshops.com.br/darwin/rss/465564535/gshopping,mercado shops,566,0,true,sucesso,
+28595,57362,https://www.mercadoshops.com.br/darwin/rss/193406172/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28628,57410,https://www.mercadoshops.com.br/darwin/rss/56400852/gshopping,mercado shops,526,0,true,sucesso,
+28636,57418,https://www.mercadoshops.com.br/darwin/rss/63874565/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28652,57445,https://www.mercadoshops.com.br/darwin/rss/154678858/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28657,57453,https://www.mercadoshops.com.br/darwin/rss/429278495/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28677,57478,https://www.mercadoshops.com.br/darwin/rss/140348591/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28686,57489,https://www.mercadoshops.com.br/darwin/rss/761452555/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28687,57490,https://www.mercadoshops.com.br/darwin/rss/117295382/gshopping,mercado shops,2000,0,true,sucesso,
+28714,57533,https://www.mercadoshops.com.br/darwin/rss/72667617/gshopping,mercado shops,261,0,true,sucesso,
+28745,57580,https://www.mercadoshops.com.br/darwin/rss/462158888/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28769,57615,https://www.mercadoshops.com.br/darwin/rss/230675619/gshopping,mercado shops,61,0,true,sucesso,
+28771,57617,https://www.mercadoshops.com.br/darwin/rss/64162625/gshopping,mercado shops,1304,0,true,sucesso,
+28776,57629,https://www.mercadoshops.com.br/darwin/rss/447964224/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28784,57640,https://www.mercadoshops.com.br/darwin/rss/23409853/gshopping,mercado shops,178,0,true,sucesso,
+28787,57648,https://www.mercadoshops.com.br/darwin/rss/2418063/gshopping,mercado shops,401,0,true,sucesso,
+28793,57655,https://www.mercadoshops.com.br/darwin/rss/149933816/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28880,57814,https://www.mercadoshops.com.br/darwin/rss/91641359/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28883,57818,https://www.mercadoshops.com.br/darwin/rss/165402518/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28918,57874,https://www.mercadoshops.com.br/darwin/rss/88084477/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28927,57890,https://www.mercadoshops.com.br/darwin/rss/295567528/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+28985,57974,https://www.mercadoshops.com.br/darwin/rss/246244333/gshopping,mercado shops,135,0,true,sucesso,
+29004,58012,https://www.mercadoshops.com.br/darwin/rss/10245790/gshopping,mercado shops,242,0,true,sucesso,
+29057,58100,https://www.mercadoshops.com.br/darwin/rss/144686506/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29108,58181,https://www.mercadoshops.com.br/darwin/rss/380826944/gshopping,mercado shops,80096,0,true,sucesso,
+29116,58194,https://www.mercadoshops.com.br/darwin/rss/44753229/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29132,58219,https://www.mercadoshops.com.br/darwin/rss/376961482/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29137,58225,https://www.mercadoshops.com.br/darwin/rss/200816909/gshopping,mercado shops,426,0,true,sucesso,
+29193,58313,https://www.mercadoshops.com.br/darwin/rss/93456751/gshopping,mercado shops,479,0,true,sucesso,
+29225,58364,https://www.mercadoshops.com.br/darwin/rss/171585754/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29230,58374,https://www.mercadoshops.com.br/darwin/rss/262489301/gshopping,mercado shops,1769,0,true,sucesso,
+29265,58433,https://www.mercadoshops.com.br/darwin/rss/133123392/gshopping,mercado shops,40637,0,true,sucesso,
+29283,58468,https://www.mercadoshops.com.br/darwin/rss/37667837/gshopping,mercado shops,23,0,true,sucesso,
+29326,58530,https://www.mercadoshops.com.br/darwin/rss/157125645/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29365,58590,https://www.mercadoshops.com.br/darwin/rss/326267075/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29369,58596,https://www.mercadoshops.com.br/darwin/rss/200716440/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29438,58688,https://www.mercadoshops.com.br/darwin/rss/274013577/gshopping,mercado shops,0,0,true,erro,Exceção do tipo 'System.OutOfMemoryException' foi acionada.
+29440,58690,https://www.mercadoshops.com.br/darwin/rss/793920475/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29441,58691,https://www.mercadoshops.com.br/darwin/rss/61185024/gshopping,mercado shops,1843,0,true,sucesso,
+29458,58713,https://www.mercadoshops.com.br/darwin/rss/29498702/gshopping,mercado shops,27,0,true,sucesso,
+29480,58748,https://www.mercadoshops.com.br/darwin/rss/188722161/gshopping,mercado shops,502,0,true,sucesso,
+29486,58756,https://www.mercadoshops.com.br/darwin/rss/114424979/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29505,58788,https://www.mercadoshops.com.br/darwin/rss/49370308/gshopping,mercado shops,97,0,true,sucesso,
+29520,58813,https://www.mercadoshops.com.br/darwin/rss/765106195/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29523,58816,https://www.mercadoshops.com.br/darwin/rss/91894790/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29529,58829,https://www.mercadoshops.com.br/darwin/rss/93744814/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29536,58838,https://www.mercadoshops.com.br/darwin/rss/196152214/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29554,58868,https://www.mercadoshops.com.br/darwin/rss/150099179/gshopping,mercado shops,210,0,true,sucesso,
+29574,58904,https://www.mercadoshops.com.br/darwin/rss/234480771/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29600,58948,https://www.mercadoshops.com.br/darwin/rss/99436689/gshopping,mercado shops,38,0,true,sucesso,
+29603,58952,https://www.mercadoshops.com.br/darwin/rss/441021902/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29636,59004,https://www.mercadoshops.com.br/darwin/rss/44843138/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29682,59067,https://www.mercadoshops.com.br/darwin/rss/101963203/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29716,59126,https://www.mercadoshops.com.br/darwin/rss/624377712/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29733,59155,https://www.mercadoshops.com.br/darwin/rss/223566804/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29766,59221,https://www.mercadoshops.com.br/darwin/rss/146129037/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29773,59229,https://www.mercadoshops.com.br/darwin/rss/472497993/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29813,59283,https://www.mercadoshops.com.br/darwin/rss/513747767/gshopping,mercado shops,0,0,true,sucesso,
+29853,59344,https://www.mercadoshops.com.br/darwin/rss/264200089/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29858,59352,https://www.mercadoshops.com.br/darwin/rss/188454415/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29859,59354,https://www.mercadoshops.com.br/darwin/rss/271795030/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29870,59373,https://www.mercadoshops.com.br/darwin/rss/670951102/gshopping,mercado shops,336,0,true,sucesso,
+29886,59404,https://www.mercadoshops.com.br/darwin/rss/89852569/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29891,59411,https://www.mercadoshops.com.br/darwin/rss/447168309/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29899,59422,https://www.mercadoshops.com.br/darwin/rss/66538069/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29916,59449,https://www.mercadoshops.com.br/darwin/rss/202423551/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29919,59452,https://www.mercadoshops.com.br/darwin/rss/413152445/gshopping,mercado shops,40497,0,true,sucesso,
+29922,59458,https://www.mercadoshops.com.br/darwin/rss/4851304/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29937,59482,https://www.mercadoshops.com.br/darwin/rss/185118108/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+29967,59530,https://www.mercadoshops.com.br/darwin/rss/540008727/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30015,59596,https://www.mercadoshops.com.br/darwin/rss/81396798/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30032,59623,https://www.mercadoshops.com.br/darwin/rss/450504930/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30035,59627,https://www.mercadoshops.com.br/darwin/rss/721116544/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30059,59661,https://www.mercadoshops.com.br/darwin/rss/210370261/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30068,59675,https://www.mercadoshops.com.br/darwin/rss/22254773/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30069,59676,https://www.mercadoshops.com.br/darwin/rss/39392050/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30094,59717,https://www.mercadoshops.com.br/darwin/rss/461014180/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30113,59748,https://www.mercadoshops.com.br/darwin/rss/204072924/gshopping,mercado shops,558,0,true,sucesso,
+30116,59753,https://www.mercadoshops.com.br/darwin/rss/243122905/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30137,59783,https://www.mercadoshops.com.br/darwin/rss/90355026/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30143,59791,https://www.mercadoshops.com.br/darwin/rss/205412261/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30153,59807,https://www.mercadoshops.com.br/darwin/rss/326280752/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30207,59884,https://www.mercadoshops.com.br/darwin/rss/447369686/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30215,59896,https://www.mercadoshops.com.br/darwin/rss/183352672/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30239,59940,https://www.mercadoshops.com.br/darwin/rss/193010241/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30284,60193,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/876/237/themes/common/fb_catalog.xml?version=712,NuvemShop,65,0,true,sucesso,
+30303,60503,https://deixevivo.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+30316,60754,https://gatz.com.br/google_shopping.xml/,NuvemShop,264,0,true,sucesso,
+30318,60880,https://www.mercadoshops.com.br/darwin/rss/310524059/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+30344,61401,https://nerdstyle.com.br/google_shopping.xml/,NuvemShop,102,0,true,sucesso,
+30384,61975,https://usemanhood.com.br/google_shopping.xml/,NuvemShop,1757,0,true,sucesso,
+30439,62157,https://acerbiluz.com.br/google_shopping.xml/,NuvemShop,2148,0,true,sucesso,
+30447,62163,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/011/375/themes/common/fb_catalog.xml?version=3897,NuvemShop,260,0,true,sucesso,
+30511,62228,https://aguaibiraonline.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+30546,62267,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/872/593/themes/common/fb_catalog.xml?version=240,NuvemShop,156,0,true,sucesso,
+30555,62274,https://algodaodoceimportados.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+30570,62291,https://allinkdesign.com.br/google_shopping.xml/,NuvemShop,75,0,true,sucesso,
+30601,62330,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/160/970/themes/common/fb_catalog.xml?version=7367,NuvemShop,427,0,true,sucesso,
+30603,62332,https://amapaempresas.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+30605,62337,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/956/244/themes/common/fb_catalog.xml?version=43,NuvemShop,97,0,true,sucesso,
+30633,62368,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/186/804/themes/common/fb_catalog.xml?version=290,NuvemShop,231,0,true,sucesso,
+30660,62412,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/225/111/themes/common/fb_catalog.xml?version=457,NuvemShop,43,0,true,sucesso,
+30664,62415,https://andreiacarvalhodecor.com.br/google_shopping.xml/,NuvemShop,374,0,true,sucesso,
+30715,62476,https://aquarelaloja.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+30726,62485,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/166/064/themes/common/fb_catalog.xml?version=1833,NuvemShop,390,0,true,sucesso,
+30735,62497,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/596/895/themes/common/fb_catalog.xml?version=938,NuvemShop,510,0,true,sucesso,
+30755,62521,https://artcansgraffitishop.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+30771,62544,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/595/547/themes/common/fb_catalog.xml?version=954,NuvemShop,1199,0,true,sucesso,
+30805,62593,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/657/567/themes/common/fb_catalog.xml?version=3580,NuvemShop,669,0,true,sucesso,
+30808,62597,https://atato.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+30859,62662,https://augustarobusta.com.br/google_shopping.xml/,NuvemShop,274,0,true,sucesso,
+30928,62766,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/683/643/themes/common/fb_catalog.xml?version=123,NuvemShop,34,0,true,sucesso,
+30937,62775,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/853/379/themes/common/fb_catalog.xml?version=264,NuvemShop,82,0,true,sucesso,
+30939,62777,https://bbfstore.com.br/google_shopping.xml/,NuvemShop,929,0,true,sucesso,
+30952,62792,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/628/559/themes/common/fb_catalog.xml?version=19,NuvemShop,1,0,true,sucesso,
+30962,62802,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/868/260/themes/common/fb_catalog.xml?version=66,NuvemShop,43,0,true,sucesso,
+30999,62853,https://belos360.com.br/google_shopping.xml/,NuvemShop,1212,0,true,sucesso,
+31051,62909,https://bioactions.com.br/google_shopping.xml/,NuvemShop,6,0,true,sucesso,
+31067,62926,https://blackbluebrasil.com.br/google_shopping.xml/,NuvemShop,462,0,true,sucesso,
+31075,62940,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/428/033/themes/common/fb_catalog.xml?version=1945,NuvemShop,501,0,true,sucesso,
+31091,62957,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/107/272/themes/common/fb_catalog.xml?version=1086,NuvemShop,190,0,true,sucesso,
+31106,62975,https://bolsaschiquesp.com.br/google_shopping.xml/,NuvemShop,328,0,true,sucesso,
+31176,63072,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/294/018/themes/common/fb_catalog.xml?version=827,NuvemShop,113,0,true,sucesso,
+31189,63086,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/072/859/themes/common/fb_catalog.xml?version=2941,NuvemShop,71,0,true,sucesso,
+31195,63089,https://brpedras.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+31230,63141,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/783/202/themes/common/fb_catalog.xml?version=213,NuvemShop,16,0,true,sucesso,
+31265,63184,https://californiadreams.com.br/google_shopping.xml/,NuvemShop,28,0,true,sucesso,
+31270,63188,https://calulistore.com.br/google_shopping.xml/,NuvemShop,650,0,true,sucesso,
+31273,63193,https://camarimsaocaetano.com.br/google_shopping.xml/,NuvemShop,2934,0,true,sucesso,
+31287,63213,https://www.mercadoshops.com.br/darwin/rss/23417344/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+31302,63236,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/531/763/themes/common/fb_catalog.xml?version=549,NuvemShop,573,0,true,sucesso,
+31332,63276,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/341/285/themes/common/fb_catalog.xml?version=659,NuvemShop,387,0,true,sucesso,
+31337,63280,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/727/076/themes/common/fb_catalog.xml?version=210,NuvemShop,62,0,true,sucesso,
+31343,63286,https://carperformance.com.br/google_shopping.xml/,NuvemShop,1404,0,true,sucesso,
+31345,63291,https://carvalhoshop.com.br/google_shopping.xml/,NuvemShop,204,0,true,sucesso,
+31351,63295,https://casacavalcanti.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+31355,63304,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/203/526/themes/common/fb_catalog.xml?version=634,NuvemShop,1409,0,true,sucesso,
+31381,63336,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/409/310/themes/common/fb_catalog.xml?version=429,NuvemShop,456,0,true,sucesso,
+31407,63368,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/335/700/themes/common/fb_catalog.xml?version=520,NuvemShop,106,0,true,sucesso,
+31412,63379,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/915/740/themes/common/fb_catalog.xml?version=3,NuvemShop,465,0,true,sucesso,
+31418,63386,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/688/216/themes/common/fb_catalog.xml?version=10,NuvemShop,34,0,true,sucesso,
+31443,63411,https://cheirodeque.com.br/google_shopping.xml/,NuvemShop,15,0,true,sucesso,
+31463,63446,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/098/230/themes/common/fb_catalog.xml?version=451,NuvemShop,368,0,true,sucesso,
+31493,63490,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/988/855/themes/common/fb_catalog.xml?version=988,NuvemShop,335,0,true,sucesso,
+31494,63495,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/362/623/themes/common/fb_catalog.xml?version=1126,NuvemShop,250,0,true,sucesso,
+31587,63634,https://crazy4beer.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+31613,63664,https://cristaistopazius.com.br/google_shopping.xml/,NuvemShop,561,0,true,sucesso,
+31638,63693,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/598/946/themes/common/fb_catalog.xml?version=28,NuvemShop,134,0,true,sucesso,
+31657,63715,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/875/681/themes/common/fb_catalog.xml?version=34,NuvemShop,325,0,true,sucesso,
+31686,63759,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/574/372/themes/common/fb_catalog.xml?version=3154,NuvemShop,73,0,true,sucesso,
+31732,63814,https://desplastifique.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+31781,63875,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/084/202/themes/common/fb_catalog.xml?version=269,NuvemShop,253,0,true,sucesso,
+31799,63890,https://divinamadri.com.br/google_shopping.xml/,NuvemShop,69,0,true,sucesso,
+31819,63917,https://doggiebrasil.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+31832,63930,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/361/698/themes/common/fb_catalog.xml?version=365,NuvemShop,261,0,true,sucesso,
+31842,63940,https://donadaniingredientes.com.br/google_shopping.xml/,NuvemShop,116,0,true,sucesso,
+31872,63988,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/963/431/themes/common/fb_catalog.xml?version=403,NuvemShop,832,0,true,sucesso,
+31895,64012,https://drusi.com.br/google_shopping.xml/,NuvemShop,1179,0,true,sucesso,
+31916,64040,https://dutt.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+31944,64085,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/067/282/themes/common/fb_catalog.xml?version=991,NuvemShop,646,0,true,sucesso,
+31947,64087,https://edukartbrincando.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+31983,64146,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/367/470/themes/common/fb_catalog.xml?version=851,NuvemShop,577,0,true,sucesso,
+31985,64153,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/596/735/themes/common/fb_catalog.xml?version=1204,NuvemShop,440,0,true,sucesso,
+31986,64153,https://emporiodomundo.com.br/google_shopping.xml/,NuvemShop,440,0,true,sucesso,
+32022,64207,https://ermaskull.com.br/google_shopping.xml/,NuvemShop,1664,0,true,sucesso,
+32032,64221,https://esoteriando.com.br/google_shopping.xml/,NuvemShop,561,0,true,sucesso,
+32047,64245,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/613/994/themes/common/fb_catalog.xml?version=108,NuvemShop,131,0,true,sucesso,
+32056,64263,https://estudiocreator.com.br/google_shopping.xml/,NuvemShop,4,0,true,sucesso,
+32099,64325,https://ezstoreonline.com.br/google_shopping.xml/,NuvemShop,1001,0,true,sucesso,
+32100,64328,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/589/382/themes/common/fb_catalog.xml?version=236,NuvemShop,11,0,true,sucesso,
+32118,64344,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/351/477/themes/common/fb_catalog.xml?version=545,NuvemShop,51,0,true,sucesso,
+32179,64414,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/732/838/themes/common/fb_catalog.xml?version=195,NuvemShop,453,0,true,sucesso,
+32215,64450,https://filhasdemariabiojoias.com.br/google_shopping.xml/,NuvemShop,80,0,true,sucesso,
+32222,64457,https://finosfricotes.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+32229,64468,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/789/675/themes/common/fb_catalog.xml?version=342,NuvemShop,534,0,true,sucesso,
+32260,64514,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/217/828/themes/common/fb_catalog.xml?version=2295,NuvemShop,942,0,true,sucesso,
+32265,64519,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/774/667/themes/common/fb_catalog.xml?version=751,NuvemShop,107,0,true,sucesso,
+32271,64527,https://focoesportes.com.br/google_shopping.xml/,NuvemShop,109,0,true,sucesso,
+32290,64549,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/566/093/themes/common/fb_catalog.xml?version=34,NuvemShop,25,0,true,sucesso,
+32313,64575,https://francellereis.lojavirtualnuvem.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+32318,64578,https://freedommodas.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+32319,64579,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/591/191/themes/common/fb_catalog.xml?version=1459,NuvemShop,673,0,true,sucesso,
+32342,64606,https://futeboxstore.com.br/google_shopping.xml/,NuvemShop,3190,0,true,sucesso,
+32346,64610,https://fuzza.com.br/google_shopping.xml/,NuvemShop,902,0,true,sucesso,
+32356,64628,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/950/875/themes/common/fb_catalog.xml?version=620,NuvemShop,963,0,true,sucesso,
+32362,64636,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/990/541/themes/common/fb_catalog.xml?version=41,NuvemShop,36,0,true,sucesso,
+32375,64657,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/225/888/themes/common/fb_catalog.xml?version=12452,NuvemShop,651,0,true,sucesso,
+32405,64690,https://gilengantenas.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+32409,64693,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/705/339/themes/common/fb_catalog.xml?version=79,NuvemShop,183,0,true,sucesso,
+32427,64715,https://glossmodafeminina.com.br/google_shopping.xml/,NuvemShop,496,0,true,sucesso,
+32433,64721,https://godesemijoias.com.br/google_shopping.xml/,NuvemShop,187,0,true,sucesso,
+32437,64724,https://gogoyo.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+32453,64741,https://gotasdeourosemijoias.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+32462,64754,https://www.mercadoshops.com.br/darwin/rss/805044318/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+32466,64757,https://granbazar.com.br/google_shopping.xml/,NuvemShop,554,0,true,sucesso,
+32496,64792,https://gruposulseguros.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+32530,64847,https://hdnmodapraia.com.br/google_shopping.xml/,NuvemShop,4198,0,true,sucesso,
+32626,64975,https://illimiteboutiq.com.br/google_shopping.xml/,NuvemShop,260,0,true,sucesso,
+32651,65018,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/415/115/themes/common/fb_catalog.xml?version=914,NuvemShop,34,0,true,sucesso,
+32666,65041,https://inovacaoplanilhas.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+32668,65051,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/498/632/themes/common/fb_catalog.xml?version=491,NuvemShop,115,0,true,sucesso,
+32693,65076,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/664/701/themes/common/fb_catalog.xml?version=528,NuvemShop,34,0,true,sucesso,
+32728,65116,https://jacriskids.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+32762,65149,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/737/879/themes/common/fb_catalog.xml?version=239,NuvemShop,386,0,true,sucesso,
+32825,65224,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/563/873/themes/common/fb_catalog.xml?version=233,NuvemShop,624,0,true,sucesso,
+32839,65237,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/520/094/themes/common/fb_catalog.xml?version=826,NuvemShop,1046,0,true,sucesso,
+32845,65243,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/768/676/themes/common/fb_catalog.xml?version=6036,NuvemShop,621,0,true,sucesso,
+32851,65249,https://kakipresentes.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+32867,65266,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/914/719/themes/common/fb_catalog.xml?version=91,NuvemShop,873,0,true,sucesso,
+32868,65267,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/255/910/themes/common/fb_catalog.xml?version=785,NuvemShop,134,0,true,sucesso,
+32876,65275,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/899/406/themes/common/fb_catalog.xml?version=1429,NuvemShop,352,0,true,sucesso,
+32909,65313,https://klgdobrasil.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+32951,65364,https://labougieflowers.com.br/google_shopping.xml/,NuvemShop,41,0,true,sucesso,
+32957,65373,https://lacoefloracessorios.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+32974,65395,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/248/835/themes/common/fb_catalog.xml?version=559,NuvemShop,47,0,true,sucesso,
+33003,65424,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/076/865/themes/common/fb_catalog.xml?version=5128,NuvemShop,98,0,true,sucesso,
+33009,65430,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/691/258/themes/common/fb_catalog.xml?version=237,NuvemShop,347,0,true,sucesso,
+33035,65468,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/208/664/themes/common/fb_catalog.xml?version=8858,NuvemShop,126,0,true,sucesso,
+33047,65480,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/263/160/themes/common/fb_catalog.xml?version=106,NuvemShop,27,0,true,sucesso,
+33058,65496,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/905/144/themes/common/fb_catalog.xml?version=270,NuvemShop,804,0,true,sucesso,
+33069,65506,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/243/526/themes/common/fb_catalog.xml?version=318,NuvemShop,253,0,true,sucesso,
+33075,65515,https://levaestilo.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+33078,65521,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/998/856/themes/common/fb_catalog.xml?version=66,NuvemShop,243,0,true,sucesso,
+33118,65577,https://lingerieloucapaixao.com.br/google_shopping.xml/,NuvemShop,14,0,true,sucesso,
+33132,65593,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/844/693/themes/common/fb_catalog.xml?version=329,NuvemShop,560,0,true,sucesso,
+33142,65605,https://livrariacomcristo.com.br/google_shopping.xml/,NuvemShop,3444,0,true,sucesso,
+33145,65609,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/532/732/themes/common/fb_catalog.xml?version=456,NuvemShop,521,0,true,sucesso,
+33162,65639,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/274/821/themes/common/fb_catalog.xml?version=2334,NuvemShop,514,0,true,sucesso,
+33168,65646,https://lojababababy.com.br/google_shopping.xml/,NuvemShop,8198,0,true,sucesso,
+33195,65678,https://lojaclaraassis.com.br/google_shopping.xml/,NuvemShop,138,0,true,sucesso,
+33200,65683,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/793/892/themes/common/fb_catalog.xml?version=1480,NuvemShop,489,0,true,sucesso,
+33238,65729,https://lojadogatopreto.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+33255,65754,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/248/128/themes/common/fb_catalog.xml?version=1461,NuvemShop,113,0,true,sucesso,
+33258,65758,https://lojaflordaterra.com.br/google_shopping.xml/,NuvemShop,164,0,true,sucesso,
+33280,65786,https://lojaistore.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+33320,65851,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/697/738/themes/common/fb_catalog.xml?version=11,NuvemShop,867,0,true,sucesso,
+33336,65874,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/245/137/themes/common/fb_catalog.xml?version=1461,NuvemShop,200,0,true,sucesso,
+33364,65902,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/903/062/themes/common/fb_catalog.xml?version=3819,NuvemShop,160,0,true,sucesso,
+33389,65942,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/626/850/themes/common/fb_catalog.xml?version=356,NuvemShop,141,0,true,sucesso,
+33430,65990,https://lorris.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+33473,66043,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/209/640/themes/common/fb_catalog.xml?version=608,NuvemShop,303,0,true,sucesso,
+33478,66053,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/555/822/themes/common/fb_catalog.xml?version=38,NuvemShop,11,0,true,sucesso,
+33481,66058,https://luisaabram.com.br/google_shopping.xml/,NuvemShop,53,0,true,sucesso,
+33482,66060,https://luizasatelie.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+33486,66064,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/824/240/themes/common/fb_catalog.xml?version=2716,NuvemShop,285,0,true,sucesso,
+33511,66091,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/253/215/themes/common/fb_catalog.xml?version=37,NuvemShop,90,0,true,sucesso,
+33514,66093,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/797/343/themes/common/fb_catalog.xml?version=981,NuvemShop,344,0,true,sucesso,
+33530,66115,https://lysmultibrand.com.br/google_shopping.xml/,NuvemShop,118,0,true,sucesso,
+33559,66155,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/901/462/themes/common/fb_catalog.xml?version=684,NuvemShop,884,0,true,sucesso,
+33560,66155,https://maedemeninasboutiquelacos.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+33578,66178,https://maiajoias.com.br/google_shopping.xml/,NuvemShop,61,0,true,sucesso,
+33593,66204,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/878/271/themes/common/fb_catalog.xml?version=444,NuvemShop,216,0,true,sucesso,
+33632,66255,https://manulele.com.br/google_shopping.xml/,NuvemShop,2560,0,true,sucesso,
+33649,66272,https://marcellavestuario.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+33736,66386,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/037/393/themes/common/fb_catalog.xml?version=240,NuvemShop,69,0,true,sucesso,
+33743,66397,https://meltingloja.com.br/google_shopping.xml/,NuvemShop,11,0,true,sucesso,
+33770,66442,https://meumundico.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+33795,66477,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/463/912/themes/common/fb_catalog.xml?version=599,NuvemShop,304,0,true,sucesso,
+33809,66503,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/104/615/themes/common/fb_catalog.xml?version=875,NuvemShop,835,0,true,sucesso,
+33818,66511,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/366/761/themes/common/fb_catalog.xml?version=2137,NuvemShop,234,0,true,sucesso,
+33844,66544,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/331/558/themes/common/fb_catalog.xml?version=579,NuvemShop,69,0,true,sucesso,
+33845,66544,https://mink4u.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+33849,66547,https://minoxidilbeardman.com.br/google_shopping.xml/,NuvemShop,36,0,true,sucesso,
+33889,66595,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/139/212/themes/common/fb_catalog.xml?version=2760,NuvemShop,673,0,true,sucesso,
+33896,66600,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/932/273/themes/common/fb_catalog.xml?version=3761,NuvemShop,562,0,true,sucesso,
+33912,66620,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/303/907/themes/common/fb_catalog.xml?version=102,NuvemShop,165,0,true,sucesso,
+33924,66632,https://monicapalma.com.br/google_shopping.xml/,NuvemShop,136,0,true,sucesso,
+33936,66650,https://morangata.com.br/google_shopping.xml/,NuvemShop,153,0,true,sucesso,
+33989,66720,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/289/804/themes/common/fb_catalog.xml?version=1532,NuvemShop,327,0,true,sucesso,
+33995,66727,https://mvcpecas.com.br/google_shopping.xml/,NuvemShop,461,0,true,sucesso,
+34014,66751,https://myscreen.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+34072,66821,https://newmedica.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+34087,66836,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/286/523/themes/common/fb_catalog.xml?version=986,NuvemShop,52,0,true,sucesso,
+34098,66843,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/244/122/themes/common/fb_catalog.xml?version=1496,NuvemShop,635,0,true,sucesso,
+34104,66854,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/265/284/themes/common/fb_catalog.xml?version=172,NuvemShop,295,0,true,sucesso,
+34109,66858,https://nobilestore.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+34115,66864,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/551/314/themes/common/fb_catalog.xml?version=740,NuvemShop,151,0,true,sucesso,
+34123,66873,https://northshoreriders.com.br/google_shopping.xml/,NuvemShop,127,0,true,sucesso,
+34137,66893,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/312/422/themes/common/fb_catalog.xml?version=590,NuvemShop,638,0,true,sucesso,
+34216,66972,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/307/804/themes/common/fb_catalog.xml?version=2166,NuvemShop,620,0,true,sucesso,
+34233,66996,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/433/679/themes/common/fb_catalog.xml?version=12,NuvemShop,0,0,true,sucesso,
+34236,67004,https://orgoniteearte.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+34250,67018,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/698/630/themes/common/fb_catalog.xml?version=617,NuvemShop,53,0,true,sucesso,
+34265,67036,https://oticaskess.com.br/google_shopping.xml/,NuvemShop,62,0,true,sucesso,
+34279,67048,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/341/905/themes/common/fb_catalog.xml?version=397,NuvemShop,73,0,true,sucesso,
+34296,67074,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/227/103/themes/common/fb_catalog.xml?version=525,NuvemShop,166,0,true,sucesso,
+34322,67098,https://papelariaamigos.com.br/google_shopping.xml/,NuvemShop,2046,0,true,sucesso,
+34323,67102,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/766/579/themes/common/fb_catalog.xml?version=57,NuvemShop,290,0,true,sucesso,
+34359,67153,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/481/219/themes/common/fb_catalog.xml?version=1075,NuvemShop,558,0,true,sucesso,
+34442,67273,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/470/956/themes/common/fb_catalog.xml?version=372,NuvemShop,103,0,true,sucesso,
+34449,67278,https://phiphicamisaria.com.br/google_shopping.xml/,NuvemShop,987,0,true,sucesso,
+34455,67284,https://photoprops.com.br/google_shopping.xml/,NuvemShop,17,0,true,sucesso,
+34493,67326,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/066/619/themes/common/fb_catalog.xml?version=655,NuvemShop,51,0,true,sucesso,
+34497,67331,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/674/637/themes/common/fb_catalog.xml?version=21,NuvemShop,677,0,true,sucesso,
+34500,67338,https://pixelequipamentos.com.br/google_shopping.xml/,NuvemShop,390,0,true,sucesso,
+34516,67350,https://plannerco.com.br/google_shopping.xml/,NuvemShop,25,0,true,sucesso,
+34545,67384,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/428/320/themes/common/fb_catalog.xml?version=173,NuvemShop,81,0,true,sucesso,
+34551,67395,https://pormaisfesta.com.br/google_shopping.xml/,NuvemShop,482,0,true,sucesso,
+34572,67420,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/965/789/themes/common/fb_catalog.xml?version=1169,NuvemShop,441,0,true,sucesso,
+34584,67441,https://presencapresentes.com.br/google_shopping.xml/,NuvemShop,1330,0,true,sucesso,
+34607,67473,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/555/137/themes/common/fb_catalog.xml?version=440,NuvemShop,23,0,true,sucesso,
+34672,67548,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/163/653/themes/common/fb_catalog.xml?version=1328,NuvemShop,328,0,true,sucesso,
+34675,67549,https://r7games.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+34687,67564,https://rainhasdaorganizacao.com.br/google_shopping.xml/,NuvemShop,15,0,true,sucesso,
+34696,67572,https://ranchopesca.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+34705,67586,https://raveup.com.br/google_shopping.xml/,NuvemShop,8006,0,true,sucesso,
+34714,67596,https://realizartdesign.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+34728,67618,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/455/260/themes/common/fb_catalog.xml?version=31,NuvemShop,118,0,true,sucesso,
+34758,67652,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/754/558/themes/common/fb_catalog.xml?version=2062,NuvemShop,252,0,true,sucesso,
+34767,67668,https://www.mercadoshops.com.br/darwin/rss/227900590/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+34794,67711,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/225/763/themes/common/fb_catalog.xml?version=299,NuvemShop,55,0,true,sucesso,
+34804,67725,https://rocknerd.com.br/google_shopping.xml/,NuvemShop,46,0,true,sucesso,
+34816,67749,https://rota13custom.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+34825,67763,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/737/216/themes/common/fb_catalog.xml?version=721,NuvemShop,475,0,true,sucesso,
+34841,67789,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/166/438/themes/common/fb_catalog.xml?version=1061,NuvemShop,70,0,true,sucesso,
+34881,67846,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/492/206/themes/common/fb_catalog.xml?version=56,NuvemShop,708,0,true,sucesso,
+34884,67851,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/215/982/themes/common/fb_catalog.xml?version=1163,NuvemShop,564,0,true,sucesso,
+34894,67860,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/592/126/themes/common/fb_catalog.xml?version=770,NuvemShop,117,0,true,sucesso,
+34919,67889,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/614/150/themes/common/fb_catalog.xml?version=1,NuvemShop,173,0,true,sucesso,
+34947,67927,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/648/808/themes/common/fb_catalog.xml?version=303,NuvemShop,108,0,true,sucesso,
+34978,67974,https://shopbammy.com.br/google_shopping.xml/,NuvemShop,90,0,true,sucesso,
+34990,67987,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/532/080/themes/common/fb_catalog.xml?version=780,NuvemShop,154,0,true,sucesso,
+35036,68051,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/490/183/themes/common/fb_catalog.xml?version=566,NuvemShop,416,0,true,sucesso,
+35051,68065,https://smoothstore.com.br/google_shopping.xml/,NuvemShop,191,0,true,sucesso,
+35052,68066,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/020/722/themes/common/fb_catalog.xml?version=845,NuvemShop,17,0,true,sucesso,
+35136,68194,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/690/117/themes/common/fb_catalog.xml?version=4338,NuvemShop,844,0,true,sucesso,
+35155,68220,https://studiogaiadecor.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+35172,68249,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/150/346/themes/common/fb_catalog.xml?version=3619,NuvemShop,248,0,true,sucesso,
+35247,68334,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/870/261/themes/common/fb_catalog.xml?version=414,NuvemShop,2,0,true,sucesso,
+35307,68403,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/915/504/themes/common/fb_catalog.xml?version=42,NuvemShop,38,0,true,sucesso,
+35319,68415,https://tigisitrico.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+35330,68434,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/223/435/themes/common/fb_catalog.xml?version=907,NuvemShop,988,0,true,sucesso,
+35353,68462,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/616/534/themes/common/fb_catalog.xml?version=1670,NuvemShop,754,0,true,sucesso,
+35364,68479,https://tresbebe.com.br/google_shopping.xml/,NuvemShop,445,0,true,sucesso,
+35387,68507,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/149/581/themes/common/fb_catalog.xml?version=1842,NuvemShop,143,0,true,sucesso,
+35411,68545,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/158/503/themes/common/fb_catalog.xml?version=2300,NuvemShop,202,0,true,sucesso,
+35455,68601,https://upperjust.com.br/google_shopping.xml/,NuvemShop,1524,0,true,sucesso,
+35464,68610,https://urucummodapraia.com.br/google_shopping.xml/,NuvemShop,62,0,true,sucesso,
+35482,68635,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/235/148/themes/common/fb_catalog.xml?version=1446,NuvemShop,430,0,true,sucesso,
+35485,68638,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/412/075/themes/common/fb_catalog.xml?version=4140,NuvemShop,354,0,true,sucesso,
+35492,68646,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/576/771/themes/common/fb_catalog.xml?version=4398,NuvemShop,24,0,true,sucesso,
+35502,68670,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/371/761/themes/common/fb_catalog.xml?version=953,NuvemShop,202,0,true,sucesso,
+35513,68680,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/214/790/themes/common/fb_catalog.xml?version=2191,NuvemShop,977,0,true,sucesso,
+35544,68714,https://vanillastore.com.br/google_shopping.xml/,NuvemShop,104,0,true,sucesso,
+35547,68717,https://vaprafora.com.br/google_shopping.xml/,NuvemShop,36,0,true,sucesso,
+35583,68758,https://versense.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+35595,68768,https://vestidodefestavogue.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+35607,68784,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/787/173/themes/common/fb_catalog.xml?version=174,NuvemShop,118,0,true,sucesso,
+35611,68788,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/499/670/themes/common/fb_catalog.xml?version=907,NuvemShop,187,0,true,sucesso,
+35633,68812,https://vinkebr.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+35637,68823,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/586/333/themes/common/fb_catalog.xml?version=2096,NuvemShop,168,0,true,sucesso,
+35660,68852,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/411/670/themes/common/fb_catalog.xml?version=1220,NuvemShop,437,0,true,sucesso,
+35676,68865,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/741/811/themes/common/fb_catalog.xml?version=269,NuvemShop,62,0,true,sucesso,
+35685,68879,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/958/745/themes/common/fb_catalog.xml?version=90,NuvemShop,530,0,true,sucesso,
+35688,68885,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/310/905/themes/common/fb_catalog.xml?version=2035,NuvemShop,499,0,true,sucesso,
+35708,68906,https://wanessalins.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+35735,68945,https://wizardhookah.com.br/google_shopping.xml/,NuvemShop,781,0,true,sucesso,
+35752,68978,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/647/259/themes/common/fb_catalog.xml?version=226,NuvemShop,27,0,true,sucesso,
+35775,69013,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/031/358/themes/common/fb_catalog.xml?version=20,NuvemShop,374,0,true,sucesso,
+35817,70010,https://www.77showroom.com/products.json,Shopify,644,22,true,sucesso,
+35843,70101,https://ambedu.com.br/products.json,Shopify,607,21,true,sucesso,
+35852,70116,https://amordemake.com.br/products.json,Shopify,1377,46,true,sucesso,
+35866,70140,https://www.annaprata.com.br/products.json,Shopify,210,7,true,sucesso,
+35871,70151,https://www.apricotbags.com.br/products.json,Shopify,42,2,true,sucesso,
+35880,70176,https://www.artyeto.com.br/products.json,Shopify,66,3,true,sucesso,
+35883,70183,https://ateliefofurices.com.br/products.json,Shopify,33,2,true,sucesso,
+35887,70194,https://aurorabebe.com.br/products.json,Shopify,203,7,true,sucesso,
+35929,70305,https://lojabellefemme.com/products.json,Shopify,1885,63,true,sucesso,
+35947,70352,https://www.biquinilab.com.br/products.json,Shopify,106,4,true,sucesso,
+36020,70533,https://www.casainovare.com.br/products.json,Shopify,126,5,true,sucesso,
+36030,70554,https://casespapaya.com.br/products.json,Shopify,41,2,true,sucesso,
+36053,70602,https://chiquebacana.com.br/products.json,Shopify,208,7,true,sucesso,
+36066,70622,https://www.cisoatelier.com/products.json,Shopify,129,5,true,sucesso,
+36077,70648,https://clubeporcao.com.br/products.json,Shopify,118,4,true,sucesso,
+36097,70714,https://cordolario.com.br/products.json,Shopify,61,3,true,sucesso,
+36100,70724,https://www.cozinharetro.com.br/products.json,Shopify,753,26,true,sucesso,
+36121,70779,https://delbianchifestas.com.br/products.json,Shopify,2318,78,true,sucesso,
+36141,70844,https://www.dogmart.com.br/products.json,Shopify,39,2,true,sucesso,
+36166,70921,https://www.economiasdodiadia.com.br/products.json,Shopify,232,8,true,sucesso,
+36188,70974,https://emporiodasjoias.com.br/products.json,Shopify,181,7,true,sucesso,
+36222,71044,https://etudoaqui.com.br/products.json,Shopify,983,33,true,sucesso,
+36224,71053,https://evah.com.br/products.json,Shopify,16,1,true,sucesso,
+36242,71106,https://fiosanto.myshopify.com/products.json,Shopify,71,3,true,sucesso,
+36247,71121,https://flowin.com.br/products.json,Shopify,0,1,true,sucesso,
+36258,71147,https://foxbox.com.br/products.json,Shopify,46,2,true,sucesso,
+36299,71274,https://grandeofertas.com.br/products.json,Shopify,62,3,true,sucesso,
+36321,71324,https://heute.com.br/products.json,Shopify,48,2,true,sucesso,
+36330,71346,https://holospetstore.com.br/products.json,Shopify,195,7,true,sucesso,
+36364,71439,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/887/519/themes/common/fb_catalog.xml?version=2,NuvemShop,19,0,true,sucesso,
+36381,71483,https://www.jccolecction.com.br/products.json,Shopify,190,7,true,sucesso,
+36400,71519,https://www.kamaleaoshop.com.br/FILES/_xml/google.xml,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,O servidor remoto retornou um erro: (403) Proibido.
+36407,71528,https://www.kasarosa.com.br/products.json,Shopify,139,5,true,sucesso,
+36428,71575,https://kurafoods.com.br/products.json,Shopify,12,1,true,sucesso,
+36440,71599,https://larabatista.com/products.json,Shopify,31,2,true,sucesso,
+36471,71664,https://linecenter.com.br/products.json,Shopify,11,1,true,sucesso,
+36494,71721,https://www.lojadoestilete.com.br/products.json,Shopify,191,7,true,sucesso,
+36504,71753,https://lojalumiere.com.br/products.json,Shopify,57,2,true,sucesso,
+36557,71895,https://madamme.com.br/products.json,Shopify,24,1,true,sucesso,
+36563,71903,https://mafit.com.br/products.json,Shopify,36,2,true,sucesso,
+36635,72084,https://www.milanstore.com.br/products.json,Shopify,2416,81,true,sucesso,
+36637,72088,https://www.milkes.com.br/products.json,Shopify,86,3,true,sucesso,
+36649,72111,https://www.minoxkirklandbr.com.br/products.json,Shopify,56,2,true,sucesso,
+36653,72119,https://mix360.com.br/products.json,Shopify,60,2,true,sucesso,
+36657,72127,https://mockupshop.com.br/products.json,Shopify,64,3,true,sucesso,
+36660,72137,https://modenapaper.com.br/products.json,Shopify,12,1,true,sucesso,
+36695,72201,https://mundolulu.com.br/products.json,Shopify,1481,50,true,sucesso,
+36787,72443,https://www.patucasa.com.br/products.json,Shopify,31,2,true,sucesso,
+36824,72520,https://planetwear.com.br/products.json,Shopify,88,3,true,sucesso,
+36837,72566,https://www.poucaroupa.com.br/products.json,Shopify,105,4,true,sucesso,
+36957,72866,https://shopginger.com.br/products.json,Shopify,755,26,true,sucesso,
+36964,72892,https://shoppr.com.br/products.json,Shopify,6194,207,true,sucesso,
+36975,72920,https://simplifiqui.com.br/products.json,Shopify,11,1,true,sucesso,
+36981,72932,https://skullonline.com.br/products.json,Shopify,647,22,true,sucesso,
+36986,72943,https://www.smarttrend.com.br/products.json,Shopify,33,2,true,sucesso,
+36998,72964,https://sonetojewelry.com.br/products.json,Shopify,74,3,true,sucesso,
+37039,73085,https://techorizon.com.br/products.json,Shopify,4,1,true,sucesso,
+37055,73136,https://www.thecutepapelariaearte.com.br/products.json,Shopify,406,14,true,sucesso,
+37100,73260,https://unltdsneakers.com.br/products.json,Shopify,434,15,true,sucesso,
+37115,73291,https://www.useseringa.com.br/products.json,Shopify,40,2,true,sucesso,
+37122,73311,https://valentinesbaby.com.br/products.json,Shopify,64,3,true,sucesso,
+37172,73425,https://werdum.net.br/products.json,Shopify,22,1,true,sucesso,
+37207,73514,https://zulibeachwear.com.br/products.json,Shopify,138,5,true,sucesso,
+37208,73516,https://zzdois.com.br/products.json,Shopify,69,3,true,sucesso,
+37220,73528,https://www.acoplanpapelaria.com.br/FILES/_xml/facebook.xml,Jet,2363,0,true,sucesso,
+37221,73529,https://www.acornwear.com.br/XMLData/facebook.xml,Jet,91,0,true,sucesso,
+37243,73549,https://www.amarelivros.com.br/FILES/_xml/facebook.xml,Jet,16,0,true,sucesso,
+37249,73554,https://www.ammobrasil.com.br/XMLData/facebook.xml,Jet,1057,0,true,sucesso,
+37284,73580,https://www.artsviking.com.br/XMLData/facebook.xml,Jet,446,0,true,sucesso,
+37290,73583,https://www.stx.ind.br/XMLData/facebook.xml,Jet,15,0,true,sucesso,
+37296,73590,https://www.atelierdecanetas.com.br/XMLData/facebook.xml,Jet,43,0,true,sucesso,
+37351,73617,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/985/844/themes/common/fb_catalog.xml?version=97,NuvemShop,686,0,true,sucesso,
+37357,73627,https://www.binhoinformatica.com.br/XMLData/facebook.xml,Jet,166,0,true,sucesso,
+37435,73693,https://www.chefsdacasa.com.br/XMLData/facebook.xml,Jet,3243,0,true,sucesso,
+37511,73755,https://www.dlabrasivos.com.br/FILES/_xml/facebook.xml,Jet,214,0,true,sucesso,
+37513,73757,https://www.dmartaatelie.com.br/XMLData/facebook.xml,Jet,1045,0,true,sucesso,
+37527,73763,https://www.donacosturabykatita.com.br/XMLData/facebook.xml,Jet,6,0,true,sucesso,
+37565,73813,https://www.exclusivafinebijoux.com.br/FILES/_xml/facebook.xml,Jet,44,0,true,sucesso,
+37572,73821,https://www.falcaocalcados.com.br/XMLData/facebook.xml,Vtex,468,0,true,sucesso,
+37607,73848,https://www.focuscombat.com.br/FILES/_xml/facebook.xml,Jet,54,0,true,sucesso,
+37623,73860,https://www.gdmpecas.com.br/XMLData/facebook.xml,Jet,63,0,true,sucesso,
+37628,73864,https://www.glaubersuple.com.br/FILES/_xml/facebook.xml,Jet,459,0,true,sucesso,
+37649,73879,https://www.guinastore.com.br/FILES/_xml/facebook.xml,Jet,0,0,true,erro,O nome remoto não pôde ser resolvido: 'www.guinastore.com.br'
+37662,73885,https://www.hmero.com.br/FILES/_xml/facebook.xml,Jet,2,0,true,sucesso,
+37671,73896,https://www.idealguacu.com.br/XMLData/facebook.xml,Jet,50,0,true,sucesso,
+37674,73897,https://www.ideiapresentes.com.br/FILES/_xml/facebook.xml,Jet,198,0,true,sucesso,
+37687,73907,https://www.infotecsumare.com.br/FILES/_xml/facebook.xml,Jet,15,0,true,sucesso,
+37731,73952,https://www.laidol.com.br/FILES/_xml/google.xml,"Vtex,Magento,EzCommerce/Lynx,Moovin",0,0,true,erro,O nome remoto não pôde ser resolvido: 'www.laidol.com.br'
+37753,73969,https://www.lemt.com.br/XMLData/facebook.xml,Vtex,70,0,true,sucesso,
+37802,73991,https://www.lk-like.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento,EzCommerce/Lynx,Moovin",0,0,true,erro,"Caractere inválido na codificação fornecida. Linha 16, posição 186."
+37804,73991,https://www.lk-like.com.br/FILES/_xml/google.xml,"Vtex,Magento,EzCommerce/Lynx,Moovin",0,0,true,erro,"Caractere inválido na codificação fornecida. Linha 16, posição 186."
+37807,73992,https://www.llatrend.com.br/XMLData/googleshopping.xml,Jet,286,0,true,sucesso,
+37834,74009,http://www.lojadecorresinas.com.br/XMLData/facebook.xml,Jet,335,0,true,sucesso,
+37847,74015,https://www.lojahydraulicsystems.com.br/XMLData/facebook.xml,Jet,71,0,true,sucesso,
+37859,74025,https://www.lojaoreberto.com.br/XMLData/facebook.xml,Jet,0,0,true,sucesso,
+37881,74042,https://www.lugor.com.br/FILES/_xml/facebook.xml,Jet,25,0,true,sucesso,
+37884,74044,https://www.lulyinjoy.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento,EzCommerce/Lynx,Moovin",0,0,true,erro,"Caractere inválido na codificação fornecida. Linha 21, posição 116."
+37963,74116,https://www.mixde.com.br/XMLData/facebook.xml,Jet,0,0,true,sucesso,
+37974,74123,https://www.modaambbrasil.com.br/FILES/_xml/facebook.xml,Jet,2288,0,true,sucesso,
+37979,74127,https://www.mogibikeshop.com.br/XMLData/facebook.xml,Jet,98,0,true,sucesso,
+37984,74129,https://www.motorbravo.com.br/FILES/_xml/facebook.xml,Jet,34,0,true,sucesso,
+37989,74134,https://www.mspuniformes.com.br/FILES/_xml/facebook.xml,Jet,230,0,true,sucesso,
+38025,74163,https://www.novafasedistribuidora.com.br/FILES/_xml/facebook.xml,Jet,722,0,true,sucesso,
+38033,74166,https://www.numismaticatupa.com.br/FILES/_xml/facebook.xml,EzCommerce/Lynx,384,0,true,sucesso,
+38048,74185,https://www.osomdochiado.com.br/XMLData/facebook.xml,Jet,298,0,true,sucesso,
+38057,74188,https://www.outletlab.com.br/api/comparadores/googleshopping,"Vtex,Magento,EzCommerce/Lynx,Moovin",0,0,true,erro,"Caractere inválido na codificação fornecida. Linha 11, posição 11."
+38100,74232,https://www.prataemar.com.br/FILES/_xml/facebook.xml,Jet,1158,0,true,sucesso,
+38102,74236,https://www.princekids.com.br/FILES/_xml/facebook.xml,Jet,1340,0,true,sucesso,
+38115,74242,https://www.proemeditora.com.br/FILES/_xml/facebook.xml,Jet,6,0,true,sucesso,
+38118,74248,https://www.pupinimodas.com.br/XMLData/facebook.xml,Jet,179,0,true,sucesso,
+38133,74264,https://www.replug.com.br/XMLData/facebook.xml,Jet,28,0,true,sucesso,
+38151,74277,https://www.rota100.com.br/api/comparadores/googleshopping,"Vtex,Magento,EzCommerce/Lynx,Moovin",0,0,true,erro,"Caractere inválido na codificação fornecida. Linha 11, posição 11."
+38175,74302,https://www.senhoraessencia.com.br/XMLData/facebook.xml,Jet,17,0,true,sucesso,
+38184,74313,https://www.simulife.com.br/XMLData/googleshopping.xml,Jet,30,0,true,sucesso,
+38190,74315,https://www.slimnow.com.br/FILES/_xml/facebook.xml,Jet,3,0,true,sucesso,
+38249,74374,https://www.toldocortinaretratil.com.br/FILES/_xml/facebook.xml,Jet,104,0,true,sucesso,
+38259,74382,https://www.trapaomalhas.com.br/XMLData/facebook.xml,Jet,13,0,true,sucesso,
+38273,74392,https://www.tupystore.com.br/FILES/_xml/facebook.xml,Jet,65,0,true,sucesso,
+38293,74410,http://www.viavidaprodutosnaturais.com.br/XMLData/facebook.xml,Jet,71,0,true,sucesso,
+38318,74427,https://www.viverovinho.com.br/FILES/_xml/google.xml,"Vtex,Magento,EzCommerce/Lynx,Moovin",0,0,true,erro,"Caractere inválido na codificação fornecida. Linha 16, posição 57."
+38339,74495,https://www.2amgaming.com/XMLData/googleshopping.xml,Vtex,9,0,true,sucesso,
+38344,74506,https://www.adoatelier.com/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 52, posição 70."
+38364,74544,https://www.authen.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 51, posição 70."
+38372,74561,https://www.bebelet.com.br/media/amfeed/feeds/google.xml,Magento,0,0,true,erro,"Erro durante a análise de EntityName. Linha 67, posição 70."
+38377,74587,https://www.bulking.com.br/XMLData/googleshopping.xml,Vtex,300,0,true,sucesso,
+38446,74779,https://www.galeriatricot.com.br/products.json,Shopify,0,1,true,erro,"Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
+38471,74878,https://www.klasme.com/XMLData/googleshopping.xml,Vtex,100,0,true,sucesso,
+38495,74928,https://www.lojanovamix.com.br/media/amfeed/feeds/google.xml,Magento,0,0,true,erro,"Erro durante a análise de EntityName. Linha 51, posição 70."
+38500,74935,https://www.lojasbrilhante.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 59, posição 70."
+38562,75135,https://www.sonoqualitystore.com.br/XMLData/facebook.xml,Vtex,72,0,true,sucesso,
+38586,75187,https://www.universoenfim.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 46, posição 70."
+38589,75193,https://www.utensiliosdochef.com.br/XMLData/googleshopping.xml,Vtex,1188,0,true,sucesso,
+38597,75228,https://www.winecomvoce.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 51, posição 70."
+38604,75387,https://alternativaco.com.br/products.json,Shopify,115,4,true,sucesso,
+38612,76327,https://www.mercadoshops.com.br/darwin/rss/155279189/gshopping,mercado shops,76,0,true,sucesso,
+38623,77861,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/002/002/831/themes/common/fb_catalog.xml?version=60,NuvemShop,246,0,true,sucesso,
+38648,79434,https://ancorapublicacoes.com.br/FILES/_xml/google.xml/,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"'doctype' é um símbolo inesperado. O símbolo esperado é 'DOCTYPE'. Linha 1, posição 3."
+38652,79446,https://andreiacalcada.com.br/FILES/_xml/facebook.xml,"Vtex,EzCommerce/Lynx",0,0,true,erro,"Referência a uma entidade não declarada, 'raquo'. Linha 29, posição 84."
+38663,79564,https://www.apucaranasports.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"Referência a uma entidade não declarada, 'raquo'. Linha 28, posição 85."
+38670,79917,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/943/632/themes/common/fb_catalog.xml?version=47,NuvemShop,48,0,true,sucesso,
+38690,80490,https://biomat.com.br/XMLData/googleshopping.xml,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"'=' é um símbolo inesperado. O símbolo esperado é ';'. Linha 1, posição 354."
+38695,80490,https://biomat.com.br/FILES/_xml/google1.xml,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"'=' é um símbolo inesperado. O símbolo esperado é ';'. Linha 1, posição 354."
+38733,82814,https://www.mercadoshops.com.br/darwin/rss/446855472/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+38737,83151,https://editoradocarmo.com.br/FILES/_xml/facebook.xml/,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,A conexão subjacente estava fechada: Não foi possível estabelecer relação de confiança para o canal seguro de SSL/TLS.
+38742,83262,https://eleganciaperfum.com.br/XMLData/googleshopping.xml,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"A marca de início 'meta' na linha 5 posição 3 não corresponde à marca de fim de 'head'. Linha 117, posição 3."
+38754,83649,https://estudiogarb.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"A marca de início 'meta' na linha 5 posição 3 não corresponde à marca de fim de 'head'. Linha 117, posição 3."
+38784,85711,https://jpfishingbrasil.com.br/XMLData/facebook.xml,Vtex,0,0,true,erro,"Erro durante a análise de EntityName. Linha 23, posição 98."
+38794,85915,https://kitchenspro.com.br/FILES/_xml/google.xml,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"Há vários elementos raiz. Linha 5, posição 3."
+38817,88525,https://ninabela.com.br/products.json/,Shopify,24,1,true,sucesso,
+38830,89675,https://poolmix.com.br/FILES/_xml/google1.xml,EzCommerce/Lynx,0,0,true,erro,Elemento raiz inexistente.
+38835,90893,https://www.mercadoshops.com.br/darwin/rss/488962201/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+38868,91920,https://thegeekstore.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"'src' é um símbolo inesperado. O símbolo esperado é '='. Linha 11, posição 53."
+38915,93510,https://pinkheels.com.br/google_shopping.xml/,NuvemShop,2024,0,true,sucesso,
+38933,93605,https://www.babybellastyle.com/products.json,Shopify,220,8,true,sucesso,
+38947,93634,https://3dcristallaser.com.br/products.json,Shopify,10,1,true,sucesso,
+38955,93652,https://ritosloja.com/products.json,Shopify,204,7,true,sucesso,
+38983,93712,https://rastellibrasil.com.br/products.json,Shopify,68,3,true,sucesso,
+38985,93714,https://shop.moralrevolution.com/products.json,Shopify,77,3,true,sucesso,
+38993,93726,https://gomagringa.com/products.json,Shopify,220,8,true,sucesso,
+39055,93826,https://bezt.com.br/products.json,Shopify,31,2,true,sucesso,
+39070,93849,https://editoralogosofica.com.br/products.json,Shopify,17,1,true,sucesso,
+39137,93963,https://elemensis.com.br/products.json,Shopify,30,1,true,sucesso,
+39159,94001,https://grafica-cometa.com/products.json,Shopify,0,1,true,sucesso,
+39182,94039,https://brechodooculos.com/products.json,Shopify,351,12,true,sucesso,
+39198,94075,https://www.estudioavelos.com.br/products.json,Shopify,401,14,true,sucesso,
+39205,94086,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/801/405/themes/common/fb_catalog.xml?version=573,NuvemShop,196,0,true,sucesso,
+39207,94092,https://www.mercadoshops.com.br/darwin/rss/182085288/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+39221,94110,https://estudiomamilo.com/products.json,Shopify,180,6,true,sucesso,
+39249,94158,https://casadacastanha.com.br/products.json,Shopify,86,3,true,sucesso,
+39275,94208,https://www.superie.com.br/products.json,Shopify,40,2,true,sucesso,
+39302,94259,https://www.chuachuakids.com/products.json,Shopify,27,1,true,sucesso,
+39306,94266,https://labocosmeticos.com/products.json,Shopify,9,1,true,sucesso,
+39382,94392,https://gjrimports.com/products.json,Shopify,4,1,true,sucesso,
+39407,94447,https://youse.shop/products.json,Shopify,50,2,true,sucesso,
+39411,94453,https://spinfashion.com.br/products.json,Shopify,362,13,true,sucesso,
+39480,94580,https://tendenciamodas.com/products.json,Shopify,49,2,true,sucesso,
+39495,94601,https://www.itacoa.co/products.json,Shopify,25,1,true,sucesso,
+39515,94629,https://alke.co/products.json,Shopify,145,5,true,sucesso,
+39539,94677,https://www.shopamici.com.br/products.json,Shopify,88,3,true,sucesso,
+39576,94739,https://www.outletshoesbr.com/products.json,Shopify,220,8,true,sucesso,
+39589,94760,https://www.theprotest.com.br/products.json,Shopify,0,1,true,erro,O servidor remoto retornou um erro: (402) Pagamento Obrigatório.
+39593,94765,https://alohastorebr.com/products.json,Shopify,47,2,true,sucesso,
+39617,94796,https://www.varietamagazine.com.br/products.json,Shopify,234,8,true,sucesso,
+39637,94825,https://www.lilobow.com/products.json,Shopify,114,4,true,sucesso,
+39640,94830,https://www.ryopapelaria.com.br/products.json,Shopify,238,8,true,sucesso,
+39646,94841,https://www.crush33.com.br/products.json,Shopify,16,1,true,sucesso,
+39679,94894,https://missbertoldi.com.br/products.json,Shopify,10,1,true,sucesso,
+39731,94990,https://www.etniasmundi.com/products.json,Shopify,5192,174,true,sucesso,
+39810,95144,https://familypets.online/products.json,Shopify,0,1,true,sucesso,
+39897,95298,https://www.corabelle.com.br/products.json,Shopify,132,5,true,sucesso,
+39901,95304,https://descontizza.com/products.json,Shopify,15,1,true,sucesso,
+39905,95317,https://anikacare.com.br/products.json,Shopify,48,2,true,sucesso,
+39923,95358,https://meatball.world/products.json,Shopify,11,1,true,sucesso,
+39926,95362,https://farshopyofertas.com.br/products.json,Shopify,25,1,true,sucesso,
+39938,95385,https://www.lojazumper.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+39980,95458,https://shoppingwebs.com.br/products.json,Shopify,22,1,true,sucesso,
+40000,95490,https://www.linaelani.com/products.json,Shopify,10,1,true,sucesso,
+40006,95497,https://brightbrazil.net/products.json,Shopify,8,1,true,sucesso,
+40008,95499,https://coletivx.com/products.json,Shopify,468,16,true,sucesso,
+40069,95627,https://hypedmm.com/products.json,Shopify,52,2,true,sucesso,
+40070,95628,https://www.inteform.com/products.json,Shopify,0,1,true,sucesso,
+40077,95638,https://looz.shop/products.json,Shopify,35,2,true,sucesso,
+40091,95665,https://loja.nakau.com.br/products.json,Shopify,24,1,true,sucesso,
+40156,95785,https://artilheirodosmantos.com/products.json,Shopify,106,4,true,sucesso,
+40202,95965,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/955/203/themes/common/fb_catalog.xml?version=81,NuvemShop,4,0,true,sucesso,
+40205,95981,https://mitzisemijoias.com.br/google_shopping.xml/,NuvemShop,78,0,true,sucesso,
+40209,96017,https://www.orthocrin.com.br/XMLData/facebook.xml,Vtex,652,0,true,sucesso,
+40222,96078,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/295/254/themes/common/fb_catalog.xml?version=174,NuvemShop,506,0,true,sucesso,
+40243,96214,https://www.rickysarkany.com/XMLData/facebook.xml,Vtex,349,0,true,sucesso,
+40266,96331,https://www.loft747.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 53, posição 70."
+40270,96356,https://www.safira.com.br/api/comparadores/googleshopping,Moovin,1379,0,true,sucesso,
+40282,96434,https://www.librerialerner.com.co/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 51, posição 70."
+40296,96524,https://pratiquenatural.com/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+40305,96625,https://www.carrefour.com.br/products.json,Shopify,0,1,true,erro,"Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
+40337,96789,https://www.coutope.com.br/api/comparadores/googleshopping,Moovin,0,0,true,sucesso,
+40340,96815,https://www.farmaciadebicho.com.br/XMLData/googleshopping.xml,Vtex,476,0,true,sucesso,
+40356,96876,https://papelnacaixa.com/google_shopping.xml/,NuvemShop,8,0,true,sucesso,
+40365,96931,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/387/664/themes/common/fb_catalog.xml?version=3783,NuvemShop,393,0,true,sucesso,
+40367,96943,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/237/011/themes/common/fb_catalog.xml?version=11,NuvemShop,0,0,true,sucesso,
+40380,97001,https://www.directwines.cl/products.json,Shopify,0,1,true,erro,"Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
+40405,97130,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/841/392/themes/common/fb_catalog.xml?version=2030,NuvemShop,422,0,true,sucesso,
+40411,97151,https://pendrivemaniabrasil.com/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+40430,97214,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/954/783/themes/common/fb_catalog.xml?version=5121,NuvemShop,691,0,true,sucesso,
+40459,97389,https://www.lojamagma.com.br/XMLData/googleshopping.xml,Vtex,325,0,true,sucesso,
+40473,97444,https://marmorarialitoral.com/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+40523,97779,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/421/238/themes/common/fb_catalog.xml?version=568,NuvemShop,165,0,true,sucesso,
+40571,98036,https://www.carrapeta.com/XMLData/googleshopping.xml,Vtex,1319,0,true,sucesso,
+40592,98171,https://www.tennis.com.co/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 53, posição 70."
+40595,98181,https://www.lamafia.clothing/products.json,Shopify,0,1,true,erro,"Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
+40612,98245,https://lojadocuteleiro.com/google_shopping.xml/,NuvemShop,1595,0,true,sucesso,
+40631,98407,https://4meninas.com/google_shopping.xml/,NuvemShop,1323,0,true,sucesso,
+40658,98572,https://www.quemdisseberenice.pt/XMLData/googleshopping.xml,Vtex,1,0,true,sucesso,
+40668,98596,https://www.prestigio.com.ar/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 50, posição 70."
+40697,98743,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/897/459/themes/common/fb_catalog.xml?version=1440,NuvemShop,209,0,true,sucesso,
+40708,98792,https://www.verve.com.br/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"Erro durante a análise de EntityName. Linha 56, posição 70."
+40721,98879,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/819/849/themes/common/fb_catalog.xml?version=46,NuvemShop,44,0,true,sucesso,
+40746,99048,https://trend2box.com/XMLData/facebook.xml,"Vtex,Magento,EzCommerce/Lynx",0,0,true,erro,"'src' é um símbolo inesperado. O símbolo esperado é '='. Linha 95, posição 15."
+40766,99139,https://www.duartee.com/media/amfeed/feeds/google.xml,"Vtex,Magento",0,0,true,erro,"'""' é um símbolo inesperado. O símbolo esperado é ';'. Linha 8, posição 98."
+40771,99148,https://santelli.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+40781,99199,https://www.mercadoshops.com.br/darwin/rss/210719888/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+40783,99202,https://maosdemaria.net/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+40784,99220,https://atacadoinfantil.com/google_shopping.xml/,NuvemShop,5130,0,true,sucesso,
+40792,99297,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/153/480/themes/common/fb_catalog.xml?version=436,NuvemShop,1212,0,true,sucesso,
+40824,99477,https://www.editorajuspodivm.com.br/api/comparadores/googleshopping,Moovin,1426,0,true,sucesso,
+40883,99931,https://www.coprobel.com.br/XMLData/facebook.xml,Vtex,130,0,true,sucesso,
+40885,99938,https://www.legis.com.co/media/amfeed/feeds/google.xml,Magento,0,0,true,erro,"Erro durante a análise de EntityName. Linha 51, posição 70."
+40918,100145,https://www.zonacriativa.com.br/XMLData/facebook.xml,Vtex,63,0,true,sucesso,
+40936,100220,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/688/020/themes/common/fb_catalog.xml?version=673,NuvemShop,529,0,true,sucesso,
+40962,100367,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/577/981/themes/common/fb_catalog.xml?version=428,NuvemShop,183,0,true,sucesso,
+41004,100629,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/018/301/themes/common/fb_catalog.xml?version=159,NuvemShop,216,0,true,sucesso,
+41023,100712,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/700/458/themes/common/fb_catalog.xml?version=903,NuvemShop,195,0,true,sucesso,
+41025,100722,https://leninharoupadebaixo.com/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+41028,100739,https://todatodacosmeticos.com.br/google_shopping.xml/,NuvemShop,0,0,true,sucesso,
+41031,100753,https://couroearte.art.br/products.json,Shopify,19,1,true,sucesso,
+41054,100862,https://www.mercadoshops.com.br/darwin/rss/30628941/gshopping,mercado shops,244,0,true,sucesso,
+41056,100864,https://www.mercadoshops.com.br/darwin/rss/97086072/gshopping,mercado shops,392,0,true,sucesso,
+41075,100883,https://www.mercadoshops.com.br/darwin/rss/207050844/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+41080,100888,https://www.mercadoshops.com.br/darwin/rss/721906262/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+41119,100927,https://www.mercadoshops.com.br/darwin/rss/399894437/gshopping,mercado shops,0,0,true,sucesso,
+41141,100949,https://www.mercadoshops.com.br/darwin/rss/176342734/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+41143,100951,https://www.mercadoshops.com.br/darwin/rss/164878426/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+41147,100955,https://www.mercadoshops.com.br/darwin/rss/66839375/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.
+41174,100982,https://www.mercadoshops.com.br/darwin/rss/435454735/gshopping,mercado shops,0,0,true,erro,Elemento raiz inexistente.

@@ -1,0 +1,57 @@
+{
+  "slug": "lojas-virtuais-brasil",
+  "kaggle_user": "caiquedourado",
+  "title": "Brazilian online stores: platform, Reclame Aqui and the 2022 e-commerce census",
+  "title_pt": "Lojas virtuais do Brasil: plataforma, Reclame Aqui e o censo de e-commerce de 2022",
+  "kaggle_title": "Lojas Virtuais do Brasil",
+  "kaggle_subtitle": "63,974 Brazilian online stores: platform, SSL, Reclame Aqui, GPT pages",
+  "kaggle_license": "Attribution 4.0 International (CC BY 4.0)",
+  "keywords": [
+    "brazil",
+    "e-commerce services",
+    "retail and shopping",
+    "nlp"
+  ],
+  "tables": [
+    {
+      "name": "lojas",
+      "description": "63,974 Brazilian online stores with a confirmed name (April 2023): platform, catalog size, SSL certificate, Reclame Aqui summary.",
+      "description_pt": "63.974 lojas virtuais brasileiras com nome confirmado (abril de 2023): plataforma, tamanho do catálogo, certificado SSL, resumo do Reclame Aqui."
+    },
+    {
+      "name": "plataformas",
+      "description": "The 13 platforms of the author's product feed reader.",
+      "description_pt": "As 13 plataformas do leitor de feeds de produtos do autor."
+    },
+    {
+      "name": "reclame_aqui",
+      "description": "Reclame Aqui profile(s) linked to each store: status, score, complaints, share solved.",
+      "description_pt": "Perfil(is) do Reclame Aqui ligados a cada loja: status, nota, reclamações, percentual resolvido."
+    },
+    {
+      "name": "reclame_aqui_candidatos",
+      "description": "Every profile the Reclame Aqui search returned for each store, with the one chosen.",
+      "description_pt": "Todos os perfis que a busca do Reclame Aqui devolveu para cada loja, com o escolhido."
+    },
+    {
+      "name": "textos_gpt",
+      "description": "63,933 SYNTHETIC pages 'A loja X é confiável?' written by GPT-3.5 on 12 April 2023. Not facts.",
+      "description_pt": "63.933 páginas SINTÉTICAS 'A loja X é confiável?' escritas pelo GPT-3.5 em 12/04/2023. Não são fatos."
+    },
+    {
+      "name": "censo_2022",
+      "description": "2022 census of 81,018 Brazilian e-commerce domains: platform, two online checks, feed and Mercado Shops id.",
+      "description_pt": "Censo de 2022 com 81.018 domínios de e-commerce brasileiros: plataforma, duas checagens de online, feed e id do Mercado Shops."
+    },
+    {
+      "name": "censo_2022_feeds",
+      "description": "Product feeds tested for the census domains, with products read.",
+      "description_pt": "Feeds de produtos testados nos domínios do censo, com os produtos lidos."
+    },
+    {
+      "name": "feeds_importados",
+      "description": "13,804 store feeds imported into the author's product crawler, by platform.",
+      "description_pt": "13.804 feeds de lojas importados no crawler de produtos do autor, por plataforma."
+    }
+  ]
+}

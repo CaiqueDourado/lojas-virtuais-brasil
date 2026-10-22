@@ -1,0 +1,653 @@
+[
+ {
+  "table": "lojas",
+  "name": "id_loja",
+  "type": "integer",
+  "description_en": "Store id in the author's database. Primary key.",
+  "description_pt": "Id da loja no banco do autor. Chave primária."
+ },
+ {
+  "table": "lojas",
+  "name": "dominio",
+  "type": "string",
+  "description_en": "Domain without www, lower case.",
+  "description_pt": "Domínio sem www, em minúsculas."
+ },
+ {
+  "table": "lojas",
+  "name": "nome",
+  "type": "string",
+  "description_en": "Store name inferred from the page (title and meta tags), HTML entities and mojibake fixed.",
+  "description_pt": "Nome da loja inferido da página (title e metatags), com entidades HTML e mojibake corrigidos."
+ },
+ {
+  "table": "lojas",
+  "name": "slug",
+  "type": "string",
+  "description_en": "URL slug of the store page on the author's site Tudo Sobre Lojas.",
+  "description_pt": "Slug da página da loja no site Tudo Sobre Lojas, do autor."
+ },
+ {
+  "table": "lojas",
+  "name": "plataforma",
+  "type": "string",
+  "description_en": "E-commerce platform, with spellings unified (Nuvem Shop and NuvemShop -> NuvemShop; Loja Integrada PRO -> Loja Integrada). Empty when not detected.",
+  "description_pt": "Plataforma de e-commerce, com grafias unificadas (Nuvem Shop e NuvemShop -> NuvemShop; Loja Integrada PRO -> Loja Integrada). Vazio quando não detectada."
+ },
+ {
+  "table": "lojas",
+  "name": "plataforma_original",
+  "type": "string",
+  "description_en": "Platform as stored by the crawler.",
+  "description_pt": "Plataforma como o crawler gravou."
+ },
+ {
+  "table": "lojas",
+  "name": "sinais_no_html",
+  "type": "string",
+  "description_en": "Platform names found as text in the page's HTML (one test of three). 'Jet' is often a false positive (the substring 'jet').",
+  "description_pt": "Nomes de plataforma achados como texto no HTML da página (um dos três testes). 'Jet' costuma ser falso positivo (a substring 'jet')."
+ },
+ {
+  "table": "lojas",
+  "name": "protocolo",
+  "type": "string",
+  "description_en": "http or https.",
+  "description_pt": "http ou https."
+ },
+ {
+  "table": "lojas",
+  "name": "tld",
+  "type": "string",
+  "description_en": "Top-level domain (.com.br, .com...).",
+  "description_pt": "Domínio de topo (.com.br, .com...)."
+ },
+ {
+  "table": "lojas",
+  "name": "total_produtos",
+  "type": "integer",
+  "description_en": "Products found in the store's feed; empty when no feed was read.",
+  "description_pt": "Produtos achados no feed da loja; vazio quando nenhum feed foi lido."
+ },
+ {
+  "table": "lojas",
+  "name": "titulo_pagina",
+  "type": "string",
+  "description_en": "Title of the home page.",
+  "description_pt": "Título da página inicial."
+ },
+ {
+  "table": "lojas",
+  "name": "og_site_name",
+  "type": "string",
+  "description_en": "og:site_name meta tag.",
+  "description_pt": "Metatag og:site_name."
+ },
+ {
+  "table": "lojas",
+  "name": "certificado_dominio",
+  "type": "string",
+  "description_en": "Domain the SSL certificate was issued to (can differ: shared hosting).",
+  "description_pt": "Domínio para o qual o certificado SSL foi emitido (pode ser outro: hospedagem compartilhada)."
+ },
+ {
+  "table": "lojas",
+  "name": "certificado_emissor",
+  "type": "string",
+  "description_en": "Certificate authority (Let's Encrypt, GlobalSign...).",
+  "description_pt": "Autoridade certificadora (Let's Encrypt, GlobalSign...)."
+ },
+ {
+  "table": "lojas",
+  "name": "certificado_validade",
+  "type": "string",
+  "description_en": "Certificate expiry date at collection (April 2023).",
+  "description_pt": "Validade do certificado na coleta (abril de 2023)."
+ },
+ {
+  "table": "lojas",
+  "name": "certificado_com_erro",
+  "type": "boolean",
+  "description_en": "True when reading the certificate failed (no HTTPS, timeout...).",
+  "description_pt": "Verdadeiro quando a leitura do certificado falhou (sem HTTPS, timeout...)."
+ },
+ {
+  "table": "lojas",
+  "name": "fontes_no_crawler",
+  "type": "integer",
+  "description_en": "How many sources (stores) of the author's product crawler point to this domain; 0 = the store is not one of them.",
+  "description_pt": "Quantas fontes (lojas) do crawler de produtos do autor apontam para o domínio; 0 = a loja não é uma delas."
+ },
+ {
+  "table": "lojas",
+  "name": "reclame_aqui_status",
+  "type": "string",
+  "description_en": "Reclame Aqui reputation of the linked profile: RA1000, GREAT, GOOD, REGULAR, BAD, NOT_RECOMMENDED, NO_INDEX (too few complaints), UNDER_REVIEW. Empty: no profile found.",
+  "description_pt": "Reputação no Reclame Aqui do perfil ligado: RA1000, GREAT, GOOD, REGULAR, BAD, NOT_RECOMMENDED, NO_INDEX (poucas reclamações), UNDER_REVIEW. Vazio: perfil não achado."
+ },
+ {
+  "table": "lojas",
+  "name": "reclame_aqui_nota",
+  "type": "float",
+  "description_en": "Reclame Aqui score (0-10) of the linked profile.",
+  "description_pt": "Nota do Reclame Aqui (0-10) do perfil ligado."
+ },
+ {
+  "table": "lojas",
+  "name": "reclame_aqui_perfil",
+  "type": "string",
+  "description_en": "Profile slug on Reclame Aqui (reclameaqui.com.br/empresa/<slug>).",
+  "description_pt": "Slug do perfil no Reclame Aqui (reclameaqui.com.br/empresa/<slug>)."
+ },
+ {
+  "table": "lojas",
+  "name": "tem_texto_gpt",
+  "type": "boolean",
+  "description_en": "True when a GPT page was written about the store (table textos_gpt).",
+  "description_pt": "Verdadeiro quando há página escrita pelo GPT sobre a loja (tabela textos_gpt)."
+ },
+ {
+  "table": "plataformas",
+  "name": "id_plataforma",
+  "type": "integer",
+  "description_en": "Platform id of the author's feed reader.",
+  "description_pt": "Id da plataforma no leitor de feeds do autor."
+ },
+ {
+  "table": "plataformas",
+  "name": "nome",
+  "type": "string",
+  "description_en": "Platform name.",
+  "description_pt": "Nome da plataforma."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "id",
+  "type": "integer",
+  "description_en": "Row id. Primary key.",
+  "description_pt": "Id da linha. Chave primária."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "id_loja",
+  "type": "integer",
+  "description_en": "Store (lojas.id_loja).",
+  "description_pt": "Loja (lojas.id_loja)."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "nome",
+  "type": "string",
+  "description_en": "Profile name on Reclame Aqui.",
+  "description_pt": "Nome do perfil no Reclame Aqui."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "nome_fantasia",
+  "type": "string",
+  "description_en": "Trade name.",
+  "description_pt": "Nome fantasia."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "razao_social",
+  "type": "string",
+  "description_en": "Company name as registered on Reclame Aqui.",
+  "description_pt": "Razão social como cadastrada no Reclame Aqui."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "shortname",
+  "type": "string",
+  "description_en": "Profile slug.",
+  "description_pt": "Slug do perfil."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "url",
+  "type": "string",
+  "description_en": "Website registered in the Reclame Aqui profile (as typed by the company).",
+  "description_pt": "Site cadastrado no perfil do Reclame Aqui (como a empresa digitou)."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "logo",
+  "type": "string",
+  "description_en": "Logo URL on Reclame Aqui.",
+  "description_pt": "URL do logo no Reclame Aqui."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "acronym",
+  "type": "string",
+  "description_en": "Acronym.",
+  "description_pt": "Sigla."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "nota",
+  "type": "float",
+  "description_en": "Score 0-10 (empty for NO_INDEX).",
+  "description_pt": "Nota 0-10 (vazia em NO_INDEX)."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "reclamacoes",
+  "type": "integer",
+  "description_en": "Complaint count shown by the search.",
+  "description_pt": "Quantidade de reclamações mostrada na busca."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "percentual_resolvido",
+  "type": "float",
+  "description_en": "Share of complaints solved, %.",
+  "description_pt": "Percentual de reclamações resolvidas."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "status",
+  "type": "string",
+  "description_en": "Reputation status (see lojas.reclame_aqui_status).",
+  "description_pt": "Status de reputação (ver lojas.reclame_aqui_status)."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "segmento",
+  "type": "string",
+  "description_en": "Segment.",
+  "description_pt": "Segmento."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "ra_id",
+  "type": "string",
+  "description_en": "Reclame Aqui company id.",
+  "description_pt": "Id da empresa no Reclame Aqui."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "marcas",
+  "type": "string",
+  "description_en": "Brands listed in the profile.",
+  "description_pt": "Marcas listadas no perfil."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "nomes_anteriores",
+  "type": "string",
+  "description_en": "Previous names.",
+  "description_pt": "Nomes anteriores."
+ },
+ {
+  "table": "reclame_aqui",
+  "name": "principal",
+  "type": "boolean",
+  "description_en": "The profile chosen for the store when there is more than one.",
+  "description_pt": "O perfil escolhido para a loja quando há mais de um."
+ },
+ {
+  "table": "reclame_aqui_candidatos",
+  "name": "id",
+  "type": "integer",
+  "description_en": "Row id. Primary key.",
+  "description_pt": "Id da linha. Chave primária."
+ },
+ {
+  "table": "reclame_aqui_candidatos",
+  "name": "id_loja",
+  "type": "integer",
+  "description_en": "Store searched (lojas.id_loja).",
+  "description_pt": "Loja buscada (lojas.id_loja)."
+ },
+ {
+  "table": "reclame_aqui_candidatos",
+  "name": "nome",
+  "type": "string",
+  "description_en": "Profile name returned by the search.",
+  "description_pt": "Nome do perfil devolvido pela busca."
+ },
+ {
+  "table": "reclame_aqui_candidatos",
+  "name": "razao_social",
+  "type": "string",
+  "description_en": "Company name.",
+  "description_pt": "Razão social."
+ },
+ {
+  "table": "reclame_aqui_candidatos",
+  "name": "shortname",
+  "type": "string",
+  "description_en": "Profile slug.",
+  "description_pt": "Slug do perfil."
+ },
+ {
+  "table": "reclame_aqui_candidatos",
+  "name": "url",
+  "type": "string",
+  "description_en": "Website registered in the Reclame Aqui profile (as typed by the company).",
+  "description_pt": "Site cadastrado no perfil do Reclame Aqui (como a empresa digitou)."
+ },
+ {
+  "table": "reclame_aqui_candidatos",
+  "name": "nota",
+  "type": "float",
+  "description_en": "Score 0-10.",
+  "description_pt": "Nota 0-10."
+ },
+ {
+  "table": "reclame_aqui_candidatos",
+  "name": "reclamacoes",
+  "type": "integer",
+  "description_en": "Complaint count.",
+  "description_pt": "Quantidade de reclamações."
+ },
+ {
+  "table": "reclame_aqui_candidatos",
+  "name": "status",
+  "type": "string",
+  "description_en": "Reputation status.",
+  "description_pt": "Status de reputação."
+ },
+ {
+  "table": "reclame_aqui_candidatos",
+  "name": "segmento",
+  "type": "string",
+  "description_en": "Segment.",
+  "description_pt": "Segmento."
+ },
+ {
+  "table": "reclame_aqui_candidatos",
+  "name": "ra_id",
+  "type": "string",
+  "description_en": "Reclame Aqui company id.",
+  "description_pt": "Id da empresa no Reclame Aqui."
+ },
+ {
+  "table": "reclame_aqui_candidatos",
+  "name": "escolhido",
+  "type": "boolean",
+  "description_en": "True when this candidate became the store's profile in reclame_aqui.",
+  "description_pt": "Verdadeiro quando este candidato virou o perfil da loja em reclame_aqui."
+ },
+ {
+  "table": "textos_gpt",
+  "name": "id",
+  "type": "integer",
+  "description_en": "Post id on the author's site. Primary key.",
+  "description_pt": "Id do post no site do autor. Chave primária."
+ },
+ {
+  "table": "textos_gpt",
+  "name": "id_loja",
+  "type": "integer",
+  "description_en": "Store (lojas.id_loja), matched by name.",
+  "description_pt": "Loja (lojas.id_loja), ligada pelo nome."
+ },
+ {
+  "table": "textos_gpt",
+  "name": "nome_loja",
+  "type": "string",
+  "description_en": "Store name used in the prompt.",
+  "description_pt": "Nome da loja usado no prompt."
+ },
+ {
+  "table": "textos_gpt",
+  "name": "titulo",
+  "type": "string",
+  "description_en": "Page title as published, typo 'confável' included.",
+  "description_pt": "Título da página como publicado, com o erro 'confável'."
+ },
+ {
+  "table": "textos_gpt",
+  "name": "meta_description",
+  "type": "string",
+  "description_en": "Meta description of the page.",
+  "description_pt": "Meta description da página."
+ },
+ {
+  "table": "textos_gpt",
+  "name": "texto",
+  "type": "string",
+  "description_en": "HTML text written by the model. SYNTHETIC: says every store is reliable and invents founding years, cities and reputation.",
+  "description_pt": "Texto HTML escrito pelo modelo. SINTÉTICO: diz que toda loja é confiável e inventa ano de fundação, cidade e reputação."
+ },
+ {
+  "table": "textos_gpt",
+  "name": "data",
+  "type": "string",
+  "description_en": "Generation date.",
+  "description_pt": "Data da geração."
+ },
+ {
+  "table": "textos_gpt",
+  "name": "modelo",
+  "type": "string",
+  "description_en": "Model that wrote the text.",
+  "description_pt": "Modelo que escreveu o texto."
+ },
+ {
+  "table": "censo_2022",
+  "name": "id",
+  "type": "integer",
+  "description_en": "Census row id. Primary key.",
+  "description_pt": "Id da linha do censo. Chave primária."
+ },
+ {
+  "table": "censo_2022",
+  "name": "dominio",
+  "type": "string",
+  "description_en": "Domain without www.",
+  "description_pt": "Domínio sem www."
+ },
+ {
+  "table": "censo_2022",
+  "name": "protocolo",
+  "type": "string",
+  "description_en": "Protocol of the first check.",
+  "description_pt": "Protocolo da primeira checagem."
+ },
+ {
+  "table": "censo_2022",
+  "name": "plataforma",
+  "type": "string",
+  "description_en": "Platform from the source list, spellings unified.",
+  "description_pt": "Plataforma da lista de origem, com grafias unificadas."
+ },
+ {
+  "table": "censo_2022",
+  "name": "plataforma_verificada",
+  "type": "string",
+  "description_en": "Platform confirmed by the checks, when filled.",
+  "description_pt": "Plataforma confirmada pelas checagens, quando preenchida."
+ },
+ {
+  "table": "censo_2022",
+  "name": "online",
+  "type": "string",
+  "description_en": "Result of the first check (OK, Erro, redirect codes).",
+  "description_pt": "Resultado da primeira checagem (OK, Erro, códigos de redirecionamento)."
+ },
+ {
+  "table": "censo_2022",
+  "name": "online_msg",
+  "type": "string",
+  "description_en": "Error message of the first check.",
+  "description_pt": "Mensagem de erro da primeira checagem."
+ },
+ {
+  "table": "censo_2022",
+  "name": "redirecionado_para",
+  "type": "string",
+  "description_en": "Where the domain redirected in the first check.",
+  "description_pt": "Para onde o domínio redirecionou na primeira checagem."
+ },
+ {
+  "table": "censo_2022",
+  "name": "online_check_2",
+  "type": "string",
+  "description_en": "Result of the second check.",
+  "description_pt": "Resultado da segunda checagem."
+ },
+ {
+  "table": "censo_2022",
+  "name": "online_msg_check_2",
+  "type": "string",
+  "description_en": "Error message of the second check.",
+  "description_pt": "Mensagem de erro da segunda checagem."
+ },
+ {
+  "table": "censo_2022",
+  "name": "redirecionado_para_check_2",
+  "type": "string",
+  "description_en": "Redirect in the second check.",
+  "description_pt": "Redirecionamento na segunda checagem."
+ },
+ {
+  "table": "censo_2022",
+  "name": "url_feed",
+  "type": "string",
+  "description_en": "Product feed URL(s) found, comma separated.",
+  "description_pt": "URL(s) de feed de produtos achadas, separadas por vírgula."
+ },
+ {
+  "table": "censo_2022",
+  "name": "plataforma_feed",
+  "type": "string",
+  "description_en": "Platform implied by the feed path.",
+  "description_pt": "Plataforma indicada pelo caminho do feed."
+ },
+ {
+  "table": "censo_2022",
+  "name": "texto_plataforma",
+  "type": "string",
+  "description_en": "Platform name found in the HTML.",
+  "description_pt": "Nome de plataforma achado no HTML."
+ },
+ {
+  "table": "censo_2022",
+  "name": "id_mercado_shops",
+  "type": "string",
+  "description_en": "Mercado Shops store id taken from the HTML.",
+  "description_pt": "Id da loja no Mercado Shops extraído do HTML."
+ },
+ {
+  "table": "censo_2022",
+  "name": "id_loja",
+  "type": "integer",
+  "description_en": "Store (lojas.id_loja) with the same domain, when it is among the 63,974.",
+  "description_pt": "Loja (lojas.id_loja) com o mesmo domínio, quando está entre as 63.974."
+ },
+ {
+  "table": "censo_2022_feeds",
+  "name": "id",
+  "type": "integer",
+  "description_en": "Feed row id. Primary key.",
+  "description_pt": "Id da linha. Chave primária."
+ },
+ {
+  "table": "censo_2022_feeds",
+  "name": "id_censo",
+  "type": "integer",
+  "description_en": "Census domain (censo_2022.id).",
+  "description_pt": "Domínio do censo (censo_2022.id)."
+ },
+ {
+  "table": "censo_2022_feeds",
+  "name": "url",
+  "type": "string",
+  "description_en": "Feed URL tested.",
+  "description_pt": "URL do feed testada."
+ },
+ {
+  "table": "censo_2022_feeds",
+  "name": "plataformas_testadas",
+  "type": "string",
+  "description_en": "Platform feed paths tried for this domain.",
+  "description_pt": "Caminhos de feed de plataforma testados para o domínio."
+ },
+ {
+  "table": "censo_2022_feeds",
+  "name": "produtos",
+  "type": "integer",
+  "description_en": "Products read from the feed.",
+  "description_pt": "Produtos lidos do feed."
+ },
+ {
+  "table": "censo_2022_feeds",
+  "name": "paginas",
+  "type": "integer",
+  "description_en": "Pages read.",
+  "description_pt": "Páginas lidas."
+ },
+ {
+  "table": "censo_2022_feeds",
+  "name": "checado",
+  "type": "boolean",
+  "description_en": "Feed was checked.",
+  "description_pt": "Feed foi checado."
+ },
+ {
+  "table": "censo_2022_feeds",
+  "name": "status",
+  "type": "string",
+  "description_en": "sucesso or erro.",
+  "description_pt": "sucesso ou erro."
+ },
+ {
+  "table": "censo_2022_feeds",
+  "name": "erro",
+  "type": "string",
+  "description_en": "Error message (first 400 characters).",
+  "description_pt": "Mensagem de erro (primeiros 400 caracteres)."
+ },
+ {
+  "table": "feeds_importados",
+  "name": "id",
+  "type": "integer",
+  "description_en": "Row id. Primary key.",
+  "description_pt": "Id da linha. Chave primária."
+ },
+ {
+  "table": "feeds_importados",
+  "name": "plataforma",
+  "type": "string",
+  "description_en": "Platform of the feed.",
+  "description_pt": "Plataforma do feed."
+ },
+ {
+  "table": "feeds_importados",
+  "name": "id_plataforma",
+  "type": "integer",
+  "description_en": "plataformas.id_plataforma.",
+  "description_pt": "plataformas.id_plataforma."
+ },
+ {
+  "table": "feeds_importados",
+  "name": "dominio",
+  "type": "string",
+  "description_en": "Store domain.",
+  "description_pt": "Domínio da loja."
+ },
+ {
+  "table": "feeds_importados",
+  "name": "url",
+  "type": "string",
+  "description_en": "Feed URL.",
+  "description_pt": "URL do feed."
+ },
+ {
+  "table": "feeds_importados",
+  "name": "produtos",
+  "type": "integer",
+  "description_en": "Products in the feed when imported.",
+  "description_pt": "Produtos no feed na importação."
+ },
+ {
+  "table": "feeds_importados",
+  "name": "id_loja",
+  "type": "integer",
+  "description_en": "Store (lojas.id_loja) with the same domain, when present.",
+  "description_pt": "Loja (lojas.id_loja) com o mesmo domínio, quando existe."
+ }
+]

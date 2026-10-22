@@ -1,0 +1,12 @@
+flowchart LR
+  A["Stores in the<br/>product crawler"] --> D["113,926 domains<br/>visited in Apr 2023"]
+  B["2022 e-commerce census<br/>81,018 domains"] --> D
+  C["Third-party list<br/>(domains only)"] --> D
+  D -->|"confirmed name"| L[("lojas<br/>63,974")]
+  D -.->|"no name: left out"| X["49,952"]:::dead
+  L --> P["Platform<br/>declared · HTML · feed path"]
+  L --> S["SSL certificate"]
+  L -->|"Selenium search"| R[("reclame_aqui<br/>+ candidatos")]
+  L -->|"store name only"| G[("textos_gpt<br/>GPT-3.5, synthetic")]
+  B --> F[("censo_2022<br/>+ feeds")]
+  classDef dead fill:#f3f3f3,stroke:#bbbbbb,color:#777777;

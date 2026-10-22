@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Lojas virtuais do Brasil: Brazilian online stores, platform, Reclame Aqui and the 2022 e-commerce census"
+authors:
+  - family-names: Dourado
+    given-names: Caique
+version: 1.0.0
+date-released: 2026-10-23
+license: CC-BY-4.0
+repository-code: "https://github.com/CaiqueDourado/lojas-virtuais-brasil"
+url: "https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil"
+keywords:
+  - e-commerce
+  - online-stores
+  - brazil
+  - reclame-aqui
+  - llm-hallucination

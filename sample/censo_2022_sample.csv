@@ -1,0 +1,2001 @@
+id,dominio,protocolo,plataforma,plataforma_verificada,online,online_msg,redirecionado_para,online_check_2,online_msg_check_2,redirecionado_para_check_2,url_feed,plataforma_feed,texto_plataforma,id_mercado_shops,id_loja
+26,guirra.com.br,https,Loja Integrada,,OK,,,OK,,,,," lojaintegrada, wix",,20
+71,graficafama.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,56
+79,efetiva.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/221/481/themes/common/fb_catalog.xml?version=1116,https://efetiva.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,64
+85,por1fio.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/706/102/themes/common/fb_catalog.xml?version=644,NuvemShop, nuvemshop,,70
+110,sanssouci.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,91
+115,sinostrailer.com.br,https,Mercado Shops,,OK,,,OK,,,,," vtex, woocommerce, mercadoshops",,95
+198,mulherelastica.com.br,https,Vtex,,OK,,,OK,,,"https://www.mulherelastica.com.br/XMLData/googleshopping.xml,https://www.mulherelastica.com.br/media/amfeed/feeds/google.xml","Vtex,Magento", vtex,,157
+269,multinetwork.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+312,amorasuplementos.com.br,https,NuvemShop,,OK,,,OK,,,https://amorasuplementos.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,
+330,mariaarruda.com.br,https,Jet Commerce,,OK,,,OK,,,,, jet,,267
+343,autovidroscorujao.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+348,thelles.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,282
+424,artsfoto.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.artsfoto.com.br/XMLData/facebook.xml,https://www.artsfoto.com.br/FILES/_xml/facebook.xml",Jet, jet,,344
+561,carqueijoartesanato.com.br,https,Shopify,,OK,,,OK,,,https://www.carqueijoartesanato.com.br/products.json,Shopify, shopify,,443
+614,iguariasdamamma.com.br,https,WooCommerce,,TemporaryRedirect,,,TemporaryRedirect,,,,,,,487
+620,capadechuva.com.br,https,Mercado Shops,,OK,,,OK,,,,," wix, mercadoshops",,493
+655,dalissa.com.br,https,WooCommerce,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/973/993/themes/common/fb_catalog.xml?version=62,https://dalissa.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,521
+717,carnivoro.com.br,https,WooCommerce,,OK,,,OK,,,,, Wordpress,,
+776,hbistore.com.br,https,Vtex,,OK,,,OK,,,https://www.hbistore.com.br/media/amfeed/feeds/google.xml,Magento, vtex,,615
+828,rosakochen.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,655
+858,florasilva.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,682
+874,lost.com.br,https,Vtex,,OK,,,OK,,,,,Não identificada,,
+881,danielsouza.com.br,https,Loja Integrada,,OK,,,OK,,,,," woocommerce, lojaintegrada",,699
+905,passarella.com.br,https,,,OK,,,OK,,,,," vtex, magento",,719
+911,giselemodas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+926,dietcorp.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/178/657/themes/common/fb_catalog.xml?version=1994,NuvemShop, nuvemshop,,736
+955,interlagosveiculos.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,762
+1074,nspiscinas.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.nspiscinas.com.br/XMLData/googleshopping.xml,https://www.nspiscinas.com.br/XMLData/facebook.xml,https://www.nspiscinas.com.br/FILES/_xml/facebook.xml",Jet, jet,,852
+1167,formedicabc.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/306/075/themes/common/fb_catalog.xml?version=118,https://formedicabc.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,926
+1204,brofitwear.com.br,https,,,OK,,,OK,,,,, vtex,,954
+1215,lojamanchaalviverde.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.lojamanchaalviverde.com.br/XMLData/facebook.xml,https://www.lojamanchaalviverde.com.br/FILES/_xml/facebook.xml",Jet, jet,,962
+1390,varremaster.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,1103
+1401,astra-abc.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,1109
+1509,opticalunettes.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+1688,serralheriapinheiropp.com.br,https,Loja Integrada,,OK,,,OK,,,,, lynx,,
+1712,acquapluspurificadores.com.br,https,Mercado Shops,,OK,,,OK,,,,," woocommerce, mercadoshops",,1359
+1727,portoricopiscinas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,1371
+1779,cirurgicavalesaude.com.br,https,Wix,,OK,,,OK,,,,, wix,,1412
+1957,okistore.com.br,https,Jet Commerce,,OK,,,OK,,,,,Não identificada,,
+2036,mccmusic.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,1619
+2072,kapazionline.com.br,https,Magento,,OK,,,OK,,,,," magento, lynx",,1651
+2076,eletroportseg.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,1655
+2098,portatti.com.br,https,Magento,,OK,,,OK,,,,, linx,,1675
+2148,cidademusical.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,1712
+2233,graficalealbp.com.br,http,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,1780
+2373,idealrefrigeracao.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+2401,triturare.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,1925
+2448,theoriginalfarm.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,1961
+2525,alvesatacadao.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,2032
+2543,lojasdep.com.br,https,Magento,,OK,,,OK,,,,," magento, lynx, tray",,
+2620,w4editora.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/040/175/themes/common/fb_catalog.xml?version=1239,https://w4editora.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,2104
+2658,penshop.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/136801681/gshopping,mercado shops, mercado shops,136801681,2133
+2711,pixole.com,https,Magento,,OK,,,OK,,,,, magento,,
+2739,tecnoplus.com.br,https,Wix,,OK,,,OK,,,,, wix,,2190
+2742,bsminformatica.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/191/201/themes/common/fb_catalog.xml?version=1170,https://bsminformatica.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,2193
+2757,grupopieta.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/161/316/themes/common/fb_catalog.xml?version=166,NuvemShop, nuvemshop,,
+2836,letiflores.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,2268
+2987,mbig.com.br,https,Mercado Shops,,OK,,,OK,,,,, tray,,2380
+3003,lojasmilla.com.br,https,Vtex,,OK,,,OK,,,,, vtex,,2394
+3061,belofio.com.br,https,Loja Integrada,,OK,,,OK,,,,, tray,,2443
+3120,barbaraalimentos.com.br,https,Mercado Shops,,OK,,,OK,,,,, mercadoshops,,2494
+3153,infomoveisnet.com.br,https,E-Com Club,,OK,,,OK,,,,, e-com club,,2518
+3234,semgluten.com.br,https,Magento,,OK,,,OK,,,,,Não identificada,,
+3318,seawardoficial.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,2646
+3380,worldwine.com.br,https,Vtex,,OK,,,OK,,,https://www.worldwine.com.br/XMLData/googleshopping.xml,Vtex, vtex,,2695
+3402,culturainfantil.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/156138460/gshopping,mercado shops, mercado shops,156138460,2705
+3484,hobbytools.com.br,https,WooCommerce,,OK,,,OK,,,,," woocommerce, wix",,2772
+3544,paulucyeletros.com.br,https,Magento,,OK,,,OK,,,,," magento, tray",,2824
+3586,piangpee.com.br,https,Wix,,OK,,,OK,,,https://piangpee.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,2859
+3595,toyota.itavema.com.br,https,Magento,,OK,,,OK,,,,, jet,,
+3664,evolutec.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/635/839/themes/common/fb_catalog.xml?version=930,NuvemShop," vtex, nuvemshop",,2928
+3696,danymotos.com.br,https,Mercado Shops,,OK,,,OK,,,,, mercadoshops,,2955
+3752,petstore.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/545/822/themes/common/fb_catalog.xml?version=1680,https://petstore.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,3002
+3775,shopmusiconline.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,3022
+3835,casadasmaquinascostura.com.br,https,NuvemShop,,OK,,,OK,,,https://casadasmaquinascostura.com.br/google_shopping.xml/,NuvemShop," nuvemshop, wix",,3075
+3837,j3tecnologia.com.br,https,Loja Integrada,,OK,,,OK,,,,, lojaintegrada,,3077
+3855,fazplast.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,3094
+3893,nevesderossoefonseca.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+3976,bicicletamania.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,3200
+4013,serranochocolates.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,3233
+4060,genyomalhas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,3260
+4101,dci.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,3291
+4112,veneta.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,3301
+4186,shopratier.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,3362
+4232,stockiluminacao.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,3402
+4244,fechosul.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,3410
+4351,cabofriobalancas.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+4365,uniformes25.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/019/013/themes/common/fb_catalog.xml?version=662,https://uniformes25.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,3512
+4381,tprint.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,3527
+4570,hospimedical.com.br,https,Loja Integrada,,OK,,,OK,,,,, vtex,,3680
+4692,bestbaby.com.br,https,Shopify,,OK,,,OK,,,https://bestbaby.com.br/products.json,Shopify, shopify,,3777
+4699,infancia.com.br,https,Shopify,,OK,,,OK,,,https://www.infancia.com.br/products.json,Shopify, shopify,,3784
+4707,adegavinhos.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,3792
+4735,fabianamilazzo.com.br,http,Shopify,,OK,,,OK,,,,,Não identificada,,
+4736,decorlojas.com.br,https,WooCommerce,,OK,,,OK,,,,," woocommerce, wix",,3814
+4756,creativecopias.com.br,https,Magento,,OK,,,OK,,,,, jet,,3828
+4932,bebidastore.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,3937
+5037,lojaseuvizinho.com.br,https,Iluria,,OK,,,OK,,,,, iluria,,
+5042,editoraschoba.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,4026
+5113,dveras.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/245/090/themes/common/fb_catalog.xml?version=2340,https://dveras.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,4083
+5121,diverplay.com.br,https,WooCommerce,,OK,,,OK,,,,," woocommerce, wix",,4091
+5245,planetta.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/314/502/themes/common/fb_catalog.xml?version=805,NuvemShop, nuvemshop,,4199
+5307,almanati.com.br,https,Vtex,,OK,,,OK,,,https://www.almanati.com.br/media/amfeed/feeds/google.xml,Magento, vtex,,4247
+5371,texturaearte.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,4303
+5372,cachacatiara.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,4304
+5419,hb.com.br,https,Shopify,,OK,,,OK,,,https://www.hb.com.br/products.json,Shopify, shopify,,4345
+5426,colegiosantoanjo.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,4351
+5516,haes.com.br,https,Vtex,,OK,,,OK,,,"https://www.haes.com.br/XMLData/googleshopping.xml,https://www.haes.com.br/products.json","Vtex,Shopify", vtex,,4427
+5684,autplus.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,4558
+5704,sipola.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+5726,stroke.com.br,https,Vtex,,OK,,,OK,,,"https://www.stroke.com.br/XMLData/googleshopping.xml,https://www.stroke.com.br/XMLData/facebook.xml",Vtex, vtex,,4584
+5762,mrpr.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,4613
+5841,godance.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,4672
+5905,store.cepall.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,4720
+5909,sekomotos.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/279096017/gshopping,mercado shops, mercado shops,279096017,4721
+5922,deralambiques.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,4733
+5964,balca.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,4766
+5990,w-techbrasil.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,4786
+6027,selariacavalorei.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,4821
+6092,oficina16.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/382/661/themes/common/fb_catalog.xml?version=810,NuvemShop, nuvemshop,,4860
+6102,schimandeiro.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,4867
+6124,sofstore.com.br,https,Magento,,OK,,,OK,,,,," woocommerce, loja integrada, magento, tray",,4888
+6177,canecariaartesanal.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/304/476/themes/common/fb_catalog.xml?version=158,https://canecariaartesanal.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,4928
+6252,tangofantasias.com.br,https,Vtex,,OK,,,OK,,,,, vtex,,
+6274,karenvicius.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,5006
+6276,seducinfo.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+6280,brdominio.com.br,https,,,OK,,,OK,,,,, prestashop,,5012
+6305,mundopecasauto.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,5030
+6384,emporioconceito.com.br,https,Magento,,OK,,,OK,,,,, magento,,
+6391,lojasi.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,5100
+6540,livrariamarcafacil.com.br,https,Vtex,,OK,,,OK,,,,, vtex,,5198
+6565,colormixhome.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+6574,labelli.com.br,https,xTech,,OK,,,OK,,,,, tray,,5224
+6608,atosinformatica.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,5253
+6655,brasilheavymetal.com,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,5291
+6702,intercompi.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,5316
+6749,makieoficial.com.br,https,Jet Commerce,,OK,,,OK,,,,, jet,,5358
+6854,originett.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+6949,cobracross.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+6961,redenacoes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,5523
+7028,meninasemeninosroupas.com.br,https,NuvemShop,,OK,,,OK,,,https://meninasemeninosroupas.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,5568
+7137,ourimadeiras.com.br,https,Magento,,OK,,,OK,,,https://www.ourimadeiras.com.br/XMLData/googleshopping.xml,Vtex, vtex,,5651
+7233,ospreypacks.com.br,https,,,OK,,,OK,,,,," woocommerce, shopify, magento, wix",,5728
+7235,aldotintas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,5730
+7259,refurban.com.br,https,NuvemShop,,OK,,,OK,,,https://refurban.com.br/google_shopping.xml/,NuvemShop," vtex, nuvemshop",,
+7272,phytobeauty.com.br,https,,,OK,,,OK,,,,, woocommerce,,5762
+7385,itoner.com.br,https,Magento,,OK,,,OK,,,,, magento,,5848
+7635,lojadolar.com.br,https,Mercado Shops,,OK,,,OK,,,,,Não identificada,,
+7661,delikata.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,6065
+7696,umpoukodetudo.com.br,https,Magento,,OK,,,OK,,,,, magento,,6093
+7699,loftystyle.com.br,https,Magento,,OK,,,OK,,,,, magento,,
+7730,casadopapel.com.br,https,Plataforma Core,,OK,,,OK,,,,, linx,,6119
+7738,lojadaautomacao.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,6124
+7757,mktarsitec.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+7963,lottusse.com,https,PrestaShop,,OK,,,OK,,,,, prestashop,,6292
+7967,cabrinhakites.com.br,http,Shopify,,OK,,,OK,,,,,Não identificada,,
+7984,511tactical.com.br,https,Vtex,,OK,,,OK,,,https://www.511tactical.com.br/XMLData/facebook.xml,Vtex, vtex,,6309
+7999,combilift.com,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,6319
+8042,lojarainha.com.br,https,Vtex,,OK,,,OK,,,https://www.lojarainha.com.br/XMLData/googleshopping.xml,Vtex, vtex,,6354
+8066,fueltech.com.br,https,Shopify,,OK,,,OK,,,https://fueltech.com.br/products.json,Shopify, shopify,,6372
+8108,icqstore.com.br,https,,,OK,,,OK,,,,, nuvemshop,,6404
+8169,ciadamoto1.mercadoshops.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/74439609/gshopping,mercado shops, mercado shops,74439609,
+8248,nabcdtem.com.br,https,Magento,,OK,,,OK,,,,, magento,,
+8269,petamerica.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+8348,brastechsolucoes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,6604
+8439,marciamello.com.br,https,Vtex,,OK,,,OK,,,"https://www.marciamello.com.br/XMLData/googleshopping.xml,https://www.marciamello.com.br/XMLData/facebook.xml",Vtex, vtex,,6676
+8503,mesogun.com.br,http,Loja Integrada,,OK,,,OK,,,,, lojaintegrada,,6725
+8541,qualitypapeis.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,6756
+8552,portaldotricot.com.br,https,Shopify,,OK,,,OK,,,https://www.portaldotricot.com.br/products.json,Shopify, shopify,,6765
+8640,tintasluxor.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/694/618/themes/common/fb_catalog.xml?version=715,NuvemShop, nuvemshop,,6841
+8653,tvparts.com.br,https,,,OK,,,OK,,,,, Wordpress,,6852
+8658,alkmya.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+8711,3dluzedesign.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,6895
+8737,abrasileirasouvenirs.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/987/388/themes/common/fb_catalog.xml?version=1989,NuvemShop, nuvemshop,,6916
+8757,lualua.com.br,https,Magento,,OK,,,OK,,,,, magento,,6925
+8773,elbran.com.br,https,Vtex,,OK,,,OK,,,https://www.elbran.com.br/media/amfeed/feeds/google.xml,Magento, vtex,,6939
+8937,otimodistribuidora.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,
+8949,clicinformatica.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+8961,4designweb.com.br,https,Iluria,,OK,,,OK,,,,, iluria,,7087
+8998,royalblackoficial.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+9096,techcompras.com.br,https,Shopify,,OK,,,OK,,,https://techcompras.com.br/products.json,Shopify, shopify,,7203
+9156,graosearomas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,7257
+9182,casadoventomg.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,7275
+9220,naturallefarmacia.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,7308
+9239,basefertilizantes.com.br,http,PrestaShop,,OK,,,OK,,,,,Não identificada,,
+9323,digito4jeans.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,7397
+9359,petset.com.br:443,https,Magento,,OK,,,OK,,,,, magento,,
+9374,amerimaconline.com.br,https,Mercado Shops,,OK,,,OK,,,,, mercadoshops,,7435
+9422,megag.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,7471
+9462,ceciliaechenique.com.br,https,Wix,,OK,,,OK,,,,, wix,,7500
+9465,westgroup.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,7503
+9551,bukone.com.br,https,Wix,,OK,,,OK,,,,,Não identificada,,
+9560,cougar.com.br,https,Mercado Shops,,OK,,,OK,,,,," woocommerce, mercadoshops",,7571
+9578,smartx.com.br,https,Shopify,,OK,,,OK,,,,, jet,,7584
+9658,engera.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,7653
+9689,twodogs.com,https,WooCommerce,,OK,,,OK,,,,, Wordpress,,7675
+9745,wanderleynunes.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+9756,intimossexshop.com.br,https,Magento,,OK,,,OK,,,,, vtex,,7730
+9811,websitesecia.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,7772
+9814,loja.santamonicaautomotivo.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+9857,oifofa.com.br,https,Shopify,,OK,,,OK,,,,, shopify,,
+9894,facinatus.com.br,https,Magento,,OK,,,OK,,,,, magento,,7836
+9966,darbrindes.com.br,https,Magento,,OK,,,OK,,,,,Não identificada,,7893
+9971,byoushop.com.br,https,NuvemShop,,OK,,,OK,,,,, tray,,7898
+10037,adespan.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,7945
+10165,universalautomotive.com.br,https,Magento,,OK,,,OK,,,,, vtex,,
+10197,delphsports.com.br,https,Loja Integrada,,OK,,,OK,,,,, lojaintegrada,,8032
+10274,moxdotcell.com.br,https,Magento,,OK,,,OK,,,,, loja integrada,,
+10302,ceteqbrasil.com.br,https,PrestaShop,,OK,,,OK,,,,," shopify, magento, prestashop",,
+10310,hclimpezashop.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,8125
+10345,fccorretora.com.br,http,Loja Integrada,,OK,,,OK,,,,,Não identificada,,8153
+10429,denismultimarcas.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,8218
+10488,tribomotos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,8258
+10573,elitedelta.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,8325
+10607,applebees.com.br,https,VNDA,,OK,,,OK,,,,, vnda,,
+10613,negaizacabelos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+10621,delamanoinfo.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,8361
+10701,shopclub.com.br,https,Vtex,,OK,,,OK,,,,, vtex,,8422
+10721,kingbebidas.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,8434
+10731,maniabrasil.com.br,https,Jet Commerce,,OK,,,OK,,,,, wix,,
+10748,loja.jaquelineborges.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+10817,vicenzzi.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,8507
+10832,grupofba.com.br,https,Wix,,OK,,,OK,,,,, wix,,8520
+10871,ecappembalagens.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,8551
+10891,rwsshop.com.br,https,Magento,,OK,,,OK,,,,, magento,,8568
+11003,fitoloja.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,8662
+11075,intertechrio.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,8710
+11077,damasio.com.br,https,Vtex,,OK,,,OK,,,,, vtex,,8712
+11095,ciapes.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+11280,oticasrede.com,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,8870
+11454,armaisbrasil.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,9002
+11668,lojacristalgraffiti.com.br,https,Loja Integrada,,OK,,,OK,,,,, lynx,,9159
+11875,oticafast.com.br,https,Magento,,OK,,,OK,,,,," magento, lynx",,9315
+11889,noveenoventaenove.com.br,https,Magento,,OK,,,OK,,,,, magento,,9326
+11917,cesarweb.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,9344
+11943,cultiv.com.br,https,WooCommerce,,OK,,,OK,,,,, nuvemshop,,9366
+11946,moisescabeleireiros.com.br,http,Loja Integrada,,OK,,,OK,,,,, woocommerce,,9369
+12028,guiada44.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,9440
+12129,casamelo.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+12170,lapelle.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+12186,fieroshop.com.br,https,Vtex,,OK,,,OK,,,,, vtex,,9572
+12242,novamatronfer.com.br,https,Mercado Shops,,OK,,,OK,,,,,Não identificada,,
+12254,delinemodas.com.br,https,,,OK,,,OK,,,,,Não identificada,,9628
+12285,pierrimagazine.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+12359,marciodesignerstore.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,9709
+12416,arruacaconcept.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+12443,lookmodaestilo.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+12463,r3d.com.br,https,Magento,,OK,,,OK,,,,, mercadoshops,,9782
+12573,nordestemoveis.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,9864
+12577,senhorcaixa.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,9867
+12611,oukeystore.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,9892
+12794,camptronic.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,10029
+12826,farmaciavivafarma.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+12851,casaeroico.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+12895,minasstones.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,10107
+12942,foneshopp.com.br,https,Wix,,OK,,,OK,,,,,Não identificada,,10151
+13065,segredosdotrigo.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+13084,bioforense.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,10266
+13233,averaraonline.com.br,http,Vtex,,OK,,,OK,,,,,Não identificada,,
+13264,clubedacamisetadf.com.br,https,NuvemShop,,OK,,,OK,,,https://clubedacamisetadf.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,10408
+13283,eletro-ls.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+13323,optobrasil.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,10450
+13328,apecalcados.com.br,https,WooCommerce,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/150640475/gshopping,mercado shops, mercado shops,150640475,
+13352,machinecult.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,10474
+13471,ctnascer.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,10560
+13476,violetaskaterock.com.br,https,NuvemShop,,OK,,,OK,,,https://violetaskaterock.com.br/google_shopping.xml/,NuvemShop," vtex, nuvemshop",,10565
+13498,zuzinhakids.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+13503,bothanicamineral.com.br,https,Wix,,OK,,,OK,,,,, wix,,10590
+13516,scenarios.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,10599
+13564,eztechs.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,10633
+13605,obonsai.com.br,https,Magento,,OK,,,OK,,,,, magento,,10670
+13642,nutrivitaonline.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,
+13661,iguanas.com.br,https,PrestaShop,,OK,,,OK,,,,," vtex, prestashop",,10721
+13702,cafedasamoras.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,10754
+13733,inovasp.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,10774
+13800,imperialmade.com.br,https,Shopify,,OK,,,OK,,,https://www.imperialmade.com.br/products.json,Shopify, shopify,,10832
+13897,tomasinitricot.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,10916
+13944,showdebebe.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,10954
+13953,emporiobrasilesportes.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+14020,villahouse.com.br,https,Shopify,,OK,,,OK,,,,, jet,,11011
+14115,mensashop.com.br,https,Magento,,OK,,,OK,,,,, magento,,11081
+14147,elitebancosemcouro.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,11100
+14273,bbdi.com.br,https,Vtex,,OK,,,OK,,,,, vtex,,11199
+14280,floriculturajohnboyd.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+14298,farmaciavidaativa.com.br,https,Linx,,OK,,,OK,,,,, linx,,11221
+14311,automodelos-rc.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/24397666/gshopping,mercado shops, mercado shops,24397666,11228
+14408,solshine.com.br,https,Shopify,,OK,,,OK,,,https://solshine.com.br/products.json,Shopify, shopify,,11300
+14440,lepetitsommelier.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,11326
+14442,marcosdeandrade.com,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,11327
+14489,productlab.com.br,https,Shopify,,OK,,,OK,,,https://productlab.com.br/products.json,Shopify, shopify,,11368
+14557,pimentasexy.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,11417
+14608,lojaglobolimp.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+14635,toqueacampainha.com.br,https,Vtex,,OK,,,OK,,,"https://www.toqueacampainha.com.br/XMLData/googleshopping.xml,https://www.toqueacampainha.com.br/media/amfeed/feeds/google.xml","Vtex,Magento", vtex,,11477
+14671,protimeonline.com.br,https,,,OK,,,OK,,,,, loja integrada,,
+14701,inovacriativa.com.br,https,Shopify,,OK,,,OK,,,https://inovacriativa.com.br/products.json,Shopify, shopify,,11522
+14946,carolinacosta.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,11665
+14955,suzigan-import.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+14982,autoescolamais.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,11692
+14984,valeverdeinvestimentos.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,
+15004,obeleza.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/150043409/gshopping,mercado shops, mercado shops,150043409,11713
+15065,locadoraevolucao.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+15092,avbdobrasil.com.br,https,Shopify,,OK,,,OK,,,https://avbdobrasil.com.br/products.json,Shopify," shopify, wix, lynx",,
+15208,institutoconectomus.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,11877
+15217,azulesportes.com.br,https,Magento,,OK,,,OK,,,,, magento,,11884
+15313,domnet.com.br,https,Loja Integrada,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/83126688/gshopping,mercado shops, mercadoshops,83126688,11952
+15389,theracom.com.br,https,,,OK,,,OK,,,,,Não identificada,,12005
+15404,grotta.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,12018
+15437,arcompressores.com.br,http,Magento,,OK,,,OK,,,,, magento,,
+15572,divasplus.com.br,https,NuvemShop,,OK,,,OK,,,https://divasplus.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,12156
+15660,nortshop.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,12227
+15732,agilizadistribuidora.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+15788,vilasintra.com.br,https,Wix,,OK,,,OK,,,,, loja integrada,,12337
+15932,zezebijuterias.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+15990,maparinformatica.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,12498
+16031,atacadistasigma.com.br,https,Magento,,OK,,,OK,,,,, magento,,
+16037,restaurantejapones.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,12536
+16038,daraekath.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+16069,mercadaodaoferta.com.br,https,Magento,,OK,,,OK,,,,, magento,,
+16203,lefashion.com.br,http,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+16253,inovaiso.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,12710
+16266,umidoresparacharutos.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,12721
+16273,vbgospelmix.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/184047432/gshopping,mercado shops, mercadoshops,184047432,12727
+16276,leitematerno.com,https,Wix,,OK,,,OK,,,,, wix,,
+16331,pscamisetas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,12781
+16346,nuitcamisetas.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,12794
+16372,oticacabecabranca.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,12816
+16405,magecommerce.com.br,https,Magento,,OK,,,OK,,,,, magento,,12835
+16447,naturalemporio.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+16454,proteinutri.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,12872
+16591,app.compreadlux.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,12983
+16684,velkismoda.com.br,https,,,OK,,,OK,,,,, woocommerce,,13071
+16773,lojadoagricultor.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+16827,ceueducacionaluniao.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,13190
+16863,laraliz.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,13218
+16943,medstoremaringa.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/457/692/themes/common/fb_catalog.xml?version=3001,https://medstoremaringa.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,13284
+17017,laviejoias.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,13339
+17116,prorelaxstore.com.br,https,Magento,,OK,,,OK,,,,, magento,,13419
+17123,hefcampinas.com.br,http,Magento,,OK,,,OK,,,,, magento,,13425
+17137,laboraprint.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+17140,fcautopecas.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/25889481/gshopping,mercado shops, mercado shops,25889481,13439
+17155,tecbell.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/424885075/gshopping,mercado shops, mercado shops,424885075,13453
+17158,elainemartin.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,13455
+17230,mloures.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+17309,magazine24h.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.magazine24h.com.br/XMLData/googleshopping.xml,https://www.magazine24h.com.br/XMLData/facebook.xml,https://www.magazine24h.com.br/FILES/_xml/facebook.xml",Jet, jet,,13570
+17324,inusitech.com.br,https,,,OK,,,OK,,,,,Não identificada,,
+17346,flashimpressaodigital.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,13600
+17391,048streetwear.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/098/562/themes/common/fb_catalog.xml?version=746,NuvemShop, nuvemshop,,13629
+17500,pinkpresentes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,13716
+17532,reginaharit.com.br,https,Magento,,OK,,,OK,,,,," magento, tray",,
+17584,pneular.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+17588,orangorock.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,13785
+17668,shockwebdesign.com.br,https,WooCommerce,,OK,,,OK,,,,," woocommerce, magento, prestashop",,
+17713,londricasa.com.br,https,Magento,,OK,,,OK,,,,, magento,,
+17717,hartsports.com.br,https,Shopify,,OK,,,OK,,,https://hartsports.com.br/products.json,Shopify, shopify,,13885
+17718,arenaxteam.com.br,http,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+17841,paranavirtual.com.br,https,WooCommerce,,OK,,,OK,,,,, jet,,
+17918,redenossafarmacia.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,14048
+17980,produtosjel.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+17992,livrariadoespirita.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/232977274/gshopping,mercado shops, mercado shops,232977274,14100
+18078,hushbyrosana.com.br,https,Magento,,OK,,,OK,,,,, magento,,
+18122,papelforte.com.br,https,Magento,,OK,,,OK,,,,, magento,,14193
+18216,anacortez.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+18217,unionpetmairinque.com.br,https,Jet Commerce,,OK,,,OK,,,,, jet,,
+18340,miyukiboutique.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,14354
+18378,canaldeconteudo.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,
+18395,vivona25.com.br,https,Magento,,OK,,,OK,,,,," magento, lynx",,14399
+18398,blackhorsetattoo.com.br,https,Wix,,OK,,,OK,,,,, wix,,14402
+18441,andrearmarinhos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,14437
+18443,bdistore.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,14439
+18493,raturbopecas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,14480
+18495,tecnosinformatica.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,14482
+18526,murhost.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,14504
+18643,motorcarshop.com.br,https,Mercado Shops,,OK,,,OK,,,,,Não identificada,,
+18660,imprefar.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+18681,hxis.com.br,https,WooCommerce,,OK,,,OK,,,,," woocommerce, wix",,14634
+18695,e-dealers.com.br,https,Magento,,OK,,,OK,,,,, magento,,14644
+18697,bhtronic.com.br,https,UOL Loja Virtual,,OK,,,OK,,,,,Não identificada,,14646
+18825,portalfarmaemcasa.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+18923,saulopessilva.wixsite.com,https,Wix,,OK,,,OK,,,,,Não identificada,,
+18936,vetmedical.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,14841
+19050,dalidu.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,14933
+19066,damayexpress.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,14944
+19165,domsaborcongelados.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,15017
+19171,crossminton.com.br,http,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+19177,prismaplast.com.br,https,Loja Integrada,,OK,,,OK,,,,, Wordpress,,15028
+19182,universopiscinas.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/38052953/gshopping,mercado shops, mercado shops,38052953,
+19283,mothelucci.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+19297,estaleirodigital.com.br,https,Magento,,OK,,,OK,,,,, jet,,
+19307,casadasbandas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,15133
+19332,mariavioletajeans.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/229/687/themes/common/fb_catalog.xml?version=1963,https://mariavioletajeans.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,15152
+19333,zerokmmotopecas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,15153
+19395,4x4racer.com.br,https,Magento,,OK,,,OK,,,,," vtex, magento",,15202
+19405,pecasdeaquecedor.com.br,https,NuvemShop,,OK,,,OK,,,,," vtex, nuvem shop",,
+19494,cr2paramentos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+19516,portokaete.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,15293
+19529,personalfiltros.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,15304
+19557,pontotime.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,15328
+19595,produtosparalaboratorios.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,15356
+19611,armarinhosmodelart.com.br,https,NuvemShop,,OK,,,OK,,,https://armarinhosmodelart.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,15369
+19813,awrbaterias.com.br,https,WooCommerce,,OK,,,OK,,,,," woocommerce, wix",,15544
+19866,mrkitschmacapa.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/324/410/themes/common/fb_catalog.xml?version=1575,https://mrkitschmacapa.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,15587
+19919,lojaluisamell.com.br,https,NuvemShop,,OK,,,OK,,,https://lojaluisamell.com.br/google_shopping.xml/,NuvemShop," vtex, nuvemshop",,15625
+19941,mabellioliveira.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+19949,megaformasuplementos.com.br,https,Loja Integrada,,OK,,,OK,,,,," loja integrada, xtech",,
+19975,nossalojamodas.com.br,https,Magento,,OK,,,OK,,,,,Não identificada,,15666
+20070,artdogesso.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,15738
+20110,drnotebookitatiba.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,15766
+20122,acessosshop.com.br,https,Magento,,OK,,,OK,,,,, jet,,
+20142,livrariadagente.com.br,https,UOL Loja Virtual,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/484994265/gshopping,mercado shops, mercadoshops,484994265,15791
+20155,theangelz.com.br,https,Magento,,OK,,,OK,,,,, magento,,15802
+20167,imagemplusbrasil.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,15814
+20169,tapetesdecarro.com.br,https,Mercado Shops,,OK,,,OK,,,,, loja integrada,,15815
+20205,incasasp.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,15843
+20339,wallmends.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,15954
+20384,chicasual.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+20404,locjet.com.br,https,Wix,,OK,,,OK,,,,, wix,,15999
+20429,redeburil.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,16021
+20512,distripress.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+20536,vrepis.com.br,https,,,OK,,,OK,,,,,Não identificada,,
+20576,imperiodaspickups.com.br,https,Vtex,,OK,,,OK,,,https://www.imperiodaspickups.com.br/XMLData/googleshopping.xml,Vtex, vtex,,16143
+20582,blizecia.com.br,https,xTech,,OK,,,OK,,,,," xtech, tray",,16148
+20661,pumpsuplementos.com.br,https,Magento,,OK,,,OK,,,,," magento, lynx",,16207
+20675,casanice.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+20716,giftgaleria.com.br,https,Magento,,OK,,,OK,,,,, magento,,16253
+20732,lojaredeconstruir.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+20763,sonorainstrumentos.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/66786270/gshopping,mercado shops, mercado shops,66786270,16293
+20798,otro.com.br,https,Iluria,,OK,,,OK,,,,," vtex, iluria",,16322
+20931,gabrielaoliveirasemijoias.com.br,https,NuvemShop,,OK,,,OK,,,https://gabrielaoliveirasemijoias.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,16434
+20946,loja.lemontcafe.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,16445
+20948,cassiaromano.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/193789229/gshopping,mercado shops, mercado shops,193789229,16447
+21073,emporio481.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,16545
+21093,braapmotos.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,16561
+21152,brings.com.br,https,Loja Integrada,,OK,,,OK,,,,," loja integrada, magento, lynx",,16609
+21174,lojasduda.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,16625
+21275,tatuapeconceito.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,16703
+21337,lubrificanteintimo.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+21439,infinitycftv.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,16839
+21443,divace.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,16842
+21469,uniduniforme.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,
+21503,heradress.com.br,https,Magento,,OK,,,OK,,,,, magento,,16892
+21582,conflores.com.br,https,Loja Integrada,,OK,,,OK,,,,," loja integrada, wix, lynx",,16958
+21597,stylolivre.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,
+21634,comh.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+21792,essenciasdabruxinha.com.br,https,Iluria,,OK,,,OK,,,,," vtex, iluria",,17074
+21887,kxbeloschp.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+21901,glamourpet.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+21930,audiofor.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+22023,grupomasc.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/645770009/gshopping,mercado shops, mercado shops,645770009,
+22031,stagrasse.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+22075,fanstorecomics.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+22076,kyazzo.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+22146,loretrixcosmeticos.com.br,https,Magento,,OK,,,OK,,,,, lynx,,17370
+22201,ciadosport.com.br,https,WooCommerce,,OK,,,OK,,,,, Wordpress,,
+22235,crisguimaraes.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/848/251/themes/common/fb_catalog.xml?version=4290,https://crisguimaraes.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,17443
+22290,nullscar.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,17490
+22309,kimonosliberdade.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,17505
+22370,alfasneakers.com.br,https,Shopify,,OK,,,OK,,,https://alfasneakers.com.br/products.json,Shopify, shopify,,17556
+22440,moreirasign.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,
+22761,emporiorelax.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,17878
+22767,autofacilsolucoes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+22782,vibracomigo.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,17896
+22833,gsmcertificadodigital.com.br,https,WooCommerce,,OK,,,OK,,,"https://gsmcertificadodigital.com.br/XMLData/googleshopping.xml,https://gsmcertificadodigital.com.br/XMLData/facebook.xml,https://gsmcertificadodigital.com.br/media/amfeed/feeds/google.xml,https://gsmcertificadodigital.com.br/FILES/_xml/facebook.xml,https://gsmcertificadodigital.com.br/FILES/_xml/google.xml,https://gsmcertificadodigital.com.br/FILES/_xml/google1.xml","Vtex,Magento,EzCommerce/Lynx", woocommerce,,17938
+22850,masterwalkershop.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,17954
+22927,tremabrasil.com.br,https,Loja Integrada,,OK,,,OK,,,,, Wordpress,,
+23004,amorabonecas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,18076
+23012,megaminassports.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,18084
+23029,casestop.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,18098
+23036,airsofts.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,18104
+23070,panelar.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,18129
+23121,mptendas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,18171
+23122,sospresentes.com.br,https,Magento,,OK,,,OK,,,,, magento,,18172
+23252,deliciasmineiras.com.br,https,,,OK,,,OK,,,,,Não identificada,,
+23267,obabooks.com.br,https,Wix,,OK,,,OK,,,,, wix,,18276
+23369,farmamais.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/219666405/gshopping,mercado shops, mercado shops,219666405,18367
+23373,naturinsupply.com.br,https,Wix,,OK,,,OK,,,,, wix,,18370
+23448,lojacapellani.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,18429
+23525,baudaeletronica.com.br,https,Magento,,OK,,,OK,,,,, magento,,18489
+23545,lojapontodaeletricidade.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,18504
+23570,costry.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/41838427/gshopping,mercado shops, mercado shops,41838427,18526
+23600,newwaypersonalizados.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+23605,pimentarosamultimarcas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+23617,loacosmeticos.com.br,https,Linx,,OK,,,OK,,,,, nuvemshop,,
+23648,a2solucoesinteligentes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,18585
+23714,reshopvendas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,18633
+23716,cavernagames.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,18635
+23759,comminatovinhos.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,18669
+23785,abrigadeirinha.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/609/378/themes/common/fb_catalog.xml?version=6664,https://abrigadeirinha.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,18693
+24072,geektrek.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,18923
+24089,cafeourodamogiana.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+24136,cantelieloja.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+24144,agrosaudeanimal.com.br,https,Magento,,OK,,,OK,,,,,Não identificada,,18988
+24205,aroeirapratas.com.br,http,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+24230,aleimportsoutlet.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,19059
+24307,shinytoys.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,19125
+24383,relojoariamagiollo.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/272332078/gshopping,mercado shops, mercado shops,272332078,19187
+24421,redcabos.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,19220
+24433,innovasafety.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,19229
+24469,mesticochocolates.com.br,https,Wix,,OK,,,OK,,,,, wix,,19260
+24633,principedamiliciaceleste.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/706/497/themes/common/fb_catalog.xml?version=171,https://principedamiliciaceleste.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,19396
+24785,imperiumstore.com.br,https,NuvemShop,,OK,,,OK,,,https://imperiumstore.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,19516
+24791,lojabliss.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+25087,panoxadrez.com.br,https,Shopify,,OK,,,OK,,,https://panoxadrez.com.br/products.json,Shopify, shopify,,19759
+25088,lilye.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/221/511/themes/common/fb_catalog.xml?version=7577,https://lilye.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,19760
+25146,kicosmeticos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,19807
+25155,lojasmegaenxovais.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/195881093/gshopping,mercado shops, mercado shops,195881093,
+25318,shopmil.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+25360,prontopratico.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.prontopratico.com.br/XMLData/facebook.xml,https://www.prontopratico.com.br/FILES/_xml/facebook.xml",Jet, jet,,
+25455,shoppingdasacademias.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+25504,rayantek.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,20099
+25522,techgrill.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,20113
+25571,gameofboards.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,20158
+25622,extremeoutdoor.com.br,https,Magento,,OK,,,OK,,,,, wix,,20202
+25674,enprodutos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,20244
+25695,vintageestetica.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,20262
+25698,mamaeemtransito.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,20265
+25787,medhcalcados.com.br,https,,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/083/046/themes/common/fb_catalog.xml?version=140,https://medhcalcados.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,20344
+25817,avantistore.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,20369
+25867,casanautica.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,20411
+26151,cwbcompras.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/709/178/themes/common/fb_catalog.xml?version=332,https://cwbcompras.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,20629
+26290,kingssuplementos.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+26367,estilofulanas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+26517,lojajardim.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+26525,aretanardelli.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,20929
+26529,petsleep.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+26530,amitzystore.com.br,http,,,OK,,,OK,,,,,Não identificada,,
+26599,lojapapelar.lojavirtualnuvem.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/484/419/themes/common/fb_catalog.xml?version=954,https://lojapapelar.lojavirtualnuvem.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,20989
+26648,1linha.com.br,https,Mercado Shops,,OK,,,OK,,,,, woocommerce,,21029
+26663,liderpharma.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,21041
+26707,ekori.com.br,https,Mercado Shops,,OK,,,OK,,,,, woocommerce,,
+26828,emporiumnerd.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,21178
+26850,brincriarloja.com.br,https,,,OK,,,OK,,,,, woocommerce,,
+26898,chinelaticos.com.br,https,Vtex,,OK,,,OK,,,"https://www.chinelaticos.com.br/XMLData/googleshopping.xml,https://www.chinelaticos.com.br/XMLData/facebook.xml",Vtex," vtex, wix",,21239
+27049,castronaves.com.br,https,Vtex,,OK,,,OK,,,https://www.castronaves.com.br/media/amfeed/feeds/google.xml,Magento, vtex,,21368
+27164,srmangueirasdiesel.com.br,https,UOL Loja Virtual,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/231039888/gshopping,mercado shops, mercadoshops,231039888,21456
+27166,onlivros.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+27219,fenixcellcuritiba.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,21503
+27366,aliancarioepi.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+27486,sevengravataria.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+27529,lojawayacessorios.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+27574,granela.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,21784
+27628,adegamista.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+27679,centromedicohospitalar.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,21873
+27696,termogold.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+27841,agroanimal.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,22008
+27847,denati.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/456036593/gshopping,mercado shops, mercado shops,456036593,22013
+27859,reiatacado.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,22023
+27908,csjoias.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+27961,savanahshop.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,22108
+27962,ahka.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,22109
+27982,mrbobtabacaria.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,22125
+28173,viladasfraldas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+28180,naturezaearte.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/314/071/themes/common/fb_catalog.xml?version=1065,NuvemShop, nuvemshop,,22284
+28191,richycosmeticos.com.br,https,Vtex,,OK,,,OK,,,,, vtex,,
+28236,petcapim.com.br,http,,,OK,,,OK,,,,,Não identificada,,
+28293,lojabrowniedoton.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/090/792/themes/common/fb_catalog.xml?version=1076,https://lojabrowniedoton.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,
+28303,speedbikers.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/463776938/gshopping,mercado shops, mercado shops,463776938,22381
+28325,poderosabeleza.com.br,https,Vtex,,OK,,,OK,,,,, tray,,22401
+28337,lojatop10.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,22411
+28371,dcobreonline.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/549182009/gshopping,mercado shops, mercado shops,549182009,22440
+28388,cilamoveis.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,22456
+28414,atelietricot.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,22475
+28484,abaloufestas.com.br,https,Wix,,OK,,,OK,,,,, wix,,22532
+28493,atletasteamroping.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+28534,rota1lifestyle.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,22573
+28573,estrelabela.com.br,https,WooCommerce,,OK,,,OK,,,,," woocommerce, magento, wix",,22606
+28638,estudioespacozen.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+28651,artnailsonline.com.br,https,Iluria,,OK,,,OK,,,,," vtex, iluria",,22674
+28790,livrariapanorama.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,22784
+28802,mmhg.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,22795
+28807,dentalita.com.br,https,Magento,,OK,,,OK,,,,, jet,,22800
+28823,saquasol.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/663/780/themes/common/fb_catalog.xml?version=353,https://saquasol.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,22814
+28923,brasilativo.com,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+28940,lojaeureka.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,22904
+28951,atacadaodocigarro.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,22915
+28965,mozartcristais.com.br,https,Magento,,OK,,,OK,,,,,Não identificada,,22923
+28998,renatak.com.br,https,Shopify,,OK,,,OK,,,https://renatak.com.br/products.json,Shopify, shopify,,22952
+29011,iovex.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,22965
+29032,jumboeconomico.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+29137,majukaju.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/290223672/gshopping,mercado shops, mercado shops,290223672,23069
+29139,leile.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,23071
+29212,dbm-engenharia.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,
+29218,cafedaserradacanastra.com.br,https,Wix,,OK,,,OK,,,,, wix,,23139
+29327,shopmultymarcas.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+29354,rosanacosmeticos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,23254
+29373,riotecborrachas.com.br,https,Wix,,OK,,,OK,,,,, wix,,23268
+29400,nerdset.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+29486,lojamaxcolchoes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,23374
+29500,boraintercambios.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+29518,opalastore.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,23399
+29531,nacionalservidores.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,23408
+29546,jrmultimarcasvix.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,23420
+29596,mundodoscalcados.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+29614,novainjecaoautopecas.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/238/058/themes/common/fb_catalog.xml?version=8142,https://novainjecaoautopecas.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,23477
+29637,inspiresemalu.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+29651,dstorecenter.com.br,https,Loja Integrada,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/2892851/gshopping,mercado shops, mercado shops,2892851,23508
+29713,brindescriei.com.br,http,WooCommerce,,OK,,,OK,,,,, Wordpress,,
+29743,lpgdistribuidora.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+29777,mokado.com.br,https,Wix,,OK,,,OK,,,,, wix,,23615
+29787,looksexshop.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,23623
+29866,bravio.shop,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,
+29989,decoradeira.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,23787
+29996,celga.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+29997,lipeinformatica.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/502841656/gshopping,mercado shops, mercado shops,502841656,
+30042,annarosasemijoias.com.br,https,NuvemShop,,OK,,,OK,,,,," vtex, nuvemshop",,23832
+30053,performancesk8.com.br,https,Shopify,,OK,,,OK,,,,, shopify,,
+30056,bkcalcados.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+30066,epistemeeditora.com.br,https,UOL Loja Virtual,,OK,,,OK,,,,, jet,,
+30096,alfaprodutosloja.com.br,https,NuvemShop,,OK,,,OK,,,,," nuvemshop, tray",,23877
+30104,themuller.com.br,https,,,OK,,,OK,,,,, nuvemshop,,23883
+30140,scdirecoes.com.br,https,Mercado Shops,,OK,,,OK,,,,," wix, mercadoshops",,
+30334,lojaharmoniamusic.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+30475,aquelemimo.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+30478,lolastorebsb.com.br,https,WooCommerce,,OK,,,OK,,,,, Loja Suspensa,,24195
+30485,lanalocacoes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+30586,alacompras.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/190208050/gshopping,mercado shops, mercadoshops,190208050,24279
+30658,associacaofafiman.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+30788,odnutilidades.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+30812,tuttoperlacasa.com.br,https,Vtex,,OK,,,OK,,,,, vtex,,24464
+30838,artexfato.com.br,https,Loja Integrada,,OK,,,OK,,,,, tray,,
+30885,pandalight.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/241719923/gshopping,mercado shops, mercado shops,241719923,24526
+30939,bizarraloja.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,24574
+30999,dudababyshop.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/256272483/gshopping,mercado shops, mercado shops,256272483,24620
+31058,belsshoes.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+31095,baraunainfo.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/422425321/gshopping,mercado shops, mercado shops,422425321,24698
+31159,zoeframes.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/345281784/gshopping,mercado shops, mercado shops,345281784,24747
+31267,triduar.com.br,https,,,OK,,,OK,,,,, woocommerce,,24830
+31276,dsimportados.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+31301,nikabeauty.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,24856
+31379,totalcomfortstore.com.br,https,Iluria,,OK,,,OK,,,,,Não identificada,,
+31528,practiaglobal.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,25032
+31542,jrprodutosdebeleza.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+31631,ferreiraflores.com.br,https,Vtex,,OK,,,OK,,,,, vtex,,25116
+31646,lacondesa.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+31738,rssmodasensual.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,25203
+31801,moneostore.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+31879,fabricadosonhos.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+31913,originauto.com.br,https,Mercado Shops,,OK,,,OK,,,,," vtex, woocommerce, mercadoshops",,25342
+31915,ilemagique.com.br,https,Shopify,,OK,,,OK,,,https://ilemagique.com.br/products.json,Shopify, shopify,,25343
+32005,idcuidados.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+32088,edsondosparafusos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,25474
+32185,bonviv.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce, wix",,
+32234,hugbox.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/43377143/gshopping,mercado shops, mercado shops,43377143,25593
+32245,soumirim.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/206/748/themes/common/fb_catalog.xml?version=534,NuvemShop, nuvemshop,,25602
+32305,cyclone.com.br,https,Vtex,,OK,,,OK,,,https://www.cyclone.com.br/XMLData/googleshopping.xml,Vtex, vtex,,25654
+32408,gutealimentos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,25738
+32465,buis.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+32542,rkcomp.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,25845
+32590,mariaseverina.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/136/917/themes/common/fb_catalog.xml?version=922,NuvemShop, nuvemshop,,25882
+32597,expressaodabelezaloja.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,25886
+32649,homegifts.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,25928
+32654,runnerfilmes.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,25933
+32779,grandtoyscollection.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+32830,nutcheese.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,26091
+32835,thalytastamp.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,26095
+33074,vasarabeachwear.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+33093,casadasmesas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+33110,artdecarol.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+33224,whear.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,26398
+33241,benqs.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+33244,weconnectoficial.com.br,https,E-Com Plus,,OK,,,OK,,,,, Loja Suspensa,,
+33310,zatty.com.br,https,Magento,,OK,,,OK,,,,, lynx,,26469
+33453,gallaxiapapelaria.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/393/215/themes/common/fb_catalog.xml?version=1083,https://gallaxiapapelaria.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,26579
+33502,ljequipamentos.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,26613
+33551,ladybeeonline.lojavirtualnuvem.com.br,https,Loja Integrada,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/453/129/themes/common/fb_catalog.xml?version=10637,https://ladybeeonline.lojavirtualnuvem.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,26649
+33557,requintearomasedecor.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,26651
+33569,blessinghands.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+33572,minerfortes.com.br,https,Loja Integrada,,OK,,,OK,,,,, lojaintegrada,,
+33780,3pontinhos.com.br,https,Iluria,,OK,,,OK,,,,,Não identificada,,
+33828,michelimelo.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,26850
+33842,amarenah.com.br,https,Loja Integrada,,OK,,,OK,,,,, tray,,26863
+33931,casaquatrodecor.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+33949,paconstrushop.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/468/378/themes/common/fb_catalog.xml?version=561,https://paconstrushop.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,26956
+33952,lojabhredesesportiva.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.lojabhredesesportiva.com.br/XMLData/facebook.xml,https://www.lojabhredesesportiva.com.br/FILES/_xml/facebook.xml",Jet, jet,,26959
+34020,drogasmil.com.br,https,Vtex,,OK,,,OK,,,https://www.drogasmil.com.br/products.json,Shopify, vtex,,27014
+34091,estilonucleo.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/130/581/themes/common/fb_catalog.xml?version=1395,NuvemShop, nuvemshop,,27071
+34107,catozzidecoracoes.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+34260,airtonpecas.com.br,https,Magento,,OK,,,OK,,,,,Não identificada,,
+34327,blat.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,27248
+34336,nezuni.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+34385,cepel.com.br,https,Vtex,,OK,,,OK,,,"https://www.cepel.com.br/XMLData/googleshopping.xml,https://www.cepel.com.br/media/amfeed/feeds/google.xml","Vtex,Magento"," vtex, wix",,27296
+34429,manequinsfpm.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/359/066/themes/common/fb_catalog.xml?version=83,NuvemShop, nuvemshop,,27328
+34473,etiquetamodas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,27358
+34505,dedinha.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+34517,ecaixas.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+34588,rsimonjoias.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,27437
+34645,margeluniformes.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+34734,luen.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,27546
+34789,ensicomsistemas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+34938,volcom.com.br,https,Vtex,,OK,,,OK,,,https://www.volcom.com.br/XMLData/googleshopping.xml,Vtex, vtex,,27678
+35009,papelariacastelo.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,27723
+35048,erkmagazine.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.erkmagazine.com.br/XMLData/facebook.xml,https://www.erkmagazine.com.br/FILES/_xml/facebook.xml",Jet, jet,,27743
+35124,linx.com.br:443,https,Linx,,OK,,,OK,,,,," vtex, loja integrada, nuvemshop, shopify, magento, linx, xtech, tray",,
+35139,samechvedacoes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,27785
+35185,kimonosdojo.com.br,https,Magento,,OK,,,OK,,,,, magento,,27817
+35206,antocarti.com,https,Wix,,OK,,,OK,,,,, woocommerce,,27831
+35223,ncsdobrasil.com,https,Magento,,OK,,,OK,,,,, magento,,27840
+35227,cervejariatrieste.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,27843
+35251,hpeninsula.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,27862
+35287,siquiplas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,27885
+35299,kanxalojista.com.br,https,Vtex,,OK,,,OK,,,,, woocommerce,,
+35478,vasconcelosembalagens.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+35561,reidocafe.com.br,https,Loja Integrada,,OK,,,OK,,,,," lojaintegrada, wix",,28094
+35584,eshops.mercadolivre.com.br,https,Mercado Shops,,OK,,,OK,,,,," mercado shops, tray",,
+35649,oliveirabrinquedos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,28161
+35698,salcas.com.br,https,Mercado Shops,,OK,,,OK,,,,," mercadoshops, xtech",,28207
+35841,dryzun.com.br,https,Vtex,,OK,,,OK,,,https://www.dryzun.com.br/XMLData/googleshopping.xml,Vtex, vtex,,28325
+35864,casasaopedro.com.br,https,Magento,,OK,,,OK,,,,, magento,,28341
+35907,lojavirtual.ijc.org.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+35919,albano.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,28371
+35927,lojastockdobrasil.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,28378
+36033,kron.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,28453
+36126,minalice.com.br,http,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,28508
+36279,revistadeliturgia.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,28603
+36289,fernandasollito.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+36295,natoon.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,28613
+36332,melitta.com.br,https,Vtex,,OK,,,OK,,,"https://www.melitta.com.br/XMLData/googleshopping.xml,https://www.melitta.com.br/media/amfeed/feeds/google.xml","Vtex,Magento", vtex,,28640
+36606,textilgreghi.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,28842
+36634,maxicabos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,28862
+36655,jmcautopecas.com,http,Mercado Shops,,OK,,,OK,,,,, mercadoshops,,
+36682,cafesantamonica.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+36703,pbcopia.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,28914
+36764,vip-systems.com.br,https,WooCommerce,,OK,,,OK,,,,," woocommerce, tray",,28958
+36788,armaniexchange.com.br,https,Vtex,,OK,,,OK,,,"https://www.armaniexchange.com.br/XMLData/googleshopping.xml,https://www.armaniexchange.com.br/XMLData/facebook.xml",Vtex, vtex,,28968
+36798,starflashlimpeza.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/621/305/themes/common/fb_catalog.xml?version=78,https://starflashlimpeza.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,28978
+36837,papelmagia.com.br,https,Jet Commerce,,OK,,,OK,,,,, jet,,29008
+36845,venica.com.br,https,Shopify,,OK,,,OK,,,https://www.venica.com.br/products.json,Shopify, shopify,,29015
+36882,i-sana.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+36894,biowatersystem.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,29057
+37053,ipontoquatro.com.br,https,Magento,,OK,,,OK,,,,, magento,,29189
+37102,chiquinhosom.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/30545014/gshopping,mercado shops, mercado shops,30545014,29229
+37137,stiloart.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,29259
+37177,sonoshowmoveis.com.br,https,Vtex,,OK,,,OK,,,"https://www.sonoshowmoveis.com.br/XMLData/googleshopping.xml,https://www.sonoshowmoveis.com.br/XMLData/facebook.xml",Vtex, vtex,,29283
+37254,arquitetura.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,29337
+37583,tena.com.br,https,Vtex,,OK,,,OK,,,"https://www.tena.com.br/XMLData/googleshopping.xml,https://www.tena.com.br/media/amfeed/feeds/google.xml","Vtex,Magento", vtex,,
+37592,impressoracartao.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,29571
+37596,luematecidos.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,29574
+37680,slnoficial.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/583/934/themes/common/fb_catalog.xml?version=1273,NuvemShop, nuvemshop,,29635
+37685,deucerto.com.br,https,Magento,,OK,,,OK,,,,, magento,,29640
+37777,paiste.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,29710
+37835,almightyenglishclasses.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,29748
+37891,kirosa.com.br,https,Magento,,OK,,,OK,,,,, magento,,29793
+37908,armarinhosjatop.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,29806
+37941,boutin.com.br,https,Vtex,,OK,,,OK,,,"https://www.boutin.com.br/XMLData/googleshopping.xml,https://www.boutin.com.br/media/amfeed/feeds/google.xml","Vtex,Magento", vtex,,29829
+38064,obarracao.com.br,https,Magento,,OK,,,OK,,,,, vtex,,29905
+38292,aveovision.com.br,https,Shopify,,OK,,,OK,,,https://aveovision.com.br/products.json,Shopify, shopify,,30082
+38299,eletropecasreal.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,30087
+38305,mannus.com.br,https,Wix,,OK,,,OK,,,,, wix,,30092
+38321,aromfrance.com.br,http,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+38337,esteticaarlete.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,30118
+38362,arcanjovelas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,30141
+38408,calhaumida.mercadoshops.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/136981981/gshopping,mercado shops, mercado shops,136981981,
+38499,vivelavie.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,30251
+38607,paradonoar.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,30335
+38623,inhousepresentes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+38636,enricorossi.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+38661,biona.com.br,https,Vtex,,OK,,,OK,,,,, vtex,,30381
+38682,polonortebh.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,
+38746,ampezzoitaly.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+38775,shopsolutions.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,30468
+38812,jlcasarin.com.br,https,NuvemShop,,OK,,,OK,,,https://www.jlcasarin.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,30495
+38842,similar.com.br,https,,,OK,,,OK,,,,,Não identificada,,30515
+38848,tamasapsicologia.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,30520
+38886,dinaamantino.com.br,https,Magento,,OK,,,OK,,,,, jet,,30549
+38971,autodromodetaruma.com.br,http,UOL Loja Virtual,,OK,,,OK,,,,,Não identificada,,30619
+39095,forteutil.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,30709
+39214,semprevivaflores.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+39505,coldrespremium.com.br,https,E-Com Plus,,OK,,,OK,,,,, loja integrada,,31013
+39648,astriano.com.br,https,Iluria,,OK,,,OK,,,,, wix,,31148
+39662,atelieestro.com.br,https,Iluria,,OK,,,OK,,,,," vtex, iluria",,31162
+39715,bindershop.com.br,https,Iluria,,OK,,,OK,,,,,Não identificada,,31207
+39747,byflyacessorios.com.br,https,Iluria,,OK,,,OK,,,,, iluria,,
+39774,carolinavecchietti.com.br,https,Iluria,,OK,,,OK,,,,," vtex, iluria",,31258
+39779,cebolaroxa.com.br,https,Iluria,,OK,,,OK,,,,,Não identificada,,31263
+39782,ceramique.com.br,https,Iluria,,OK,,,OK,,,,," vtex, iluria",,31266
+39826,cottonflower.com.br,https,Iluria,,OK,,,OK,,,,, iluria,,31304
+39889,ecartvelas.com.br,https,Iluria,,OK,,,OK,,,,," vtex, iluria",,31358
+39890,eccomama.com.br,https,Iluria,,OK,,,OK,,,,, loja integrada,,
+39917,entrelinhaseretalhos.com.br,https,Iluria,,OK,,,OK,,,,, iluria,,31384
+39928,estudiocoralina.com.br,http,Iluria,,OK,,,OK,,,,, iluria,,31395
+39954,fecolore.com.br,https,Iluria,,OK,,,OK,,,,," vtex, iluria",,31418
+39955,felipealvarez.com.br,https,Iluria,,OK,,,OK,,,,," vtex, iluria",,31419
+39966,finolook.com,https,Iluria,,OK,,,OK,,,,, iluria,,31428
+39969,firulapet.com.br,https,Iluria,,OK,,,OK,,,,," vtex, iluria",,
+40165,lojabylua.com.br,https,Iluria,,OK,,,OK,,,,,Não identificada,,
+40182,lojaguaipeca.com.br,https,Iluria,,OK,,,OK,,,,," vtex, iluria",,31623
+40183,lojahera.com.br,https,Iluria,,OK,,,OK,,,,,Não identificada,,
+40201,lojapurifike.com.br,https,Iluria,,OK,,,OK,,,,,Não identificada,,
+40300,mgwebdigital.com.br,https,Iluria,,OK,,,OK,,,,,Não identificada,,
+40323,miolito.com.br,https,Iluria,,OK,,,OK,,,,, nuvemshop,,
+40341,msimeao.com.br,https,Iluria,,OK,,,OK,,,,, iluria,,31769
+40342,mulequebom.com.br,https,Iluria,,OK,,,OK,,,,,Não identificada,,
+40344,murabeads.com.br,https,Iluria,,OK,,,OK,,,,,Não identificada,,
+40365,nineedle.com.br,https,Iluria,,OK,,,OK,,,,," vtex, iluria",,
+40378,nynacriativa.com.br,https,Iluria,,OK,,,OK,,,,, iluria,,31799
+40397,paineldeincentivo.com.br,https,Iluria,,OK,,,OK,,,,, iluria,,
+40422,pequenosobrado.com.br,https,Iluria,,OK,,,OK,,,,, iluria,,
+40478,rafaelafernandes.com.br,https,Iluria,,OK,,,OK,,,,, iluria,,31884
+40498,ritagabriela.com.br,https,Iluria,,OK,,,OK,,,,,Não identificada,,31901
+40574,sketbuke.com.br,https,Iluria,,OK,,,OK,,,,," vtex, iluria",,31972
+40621,temperopet.com.br,https,Iluria,,OK,,,OK,,,,, iluria,,
+40632,tipoeubolsas.com.br,https,Iluria,,OK,,,OK,,,,, iluria,,
+40685,vibracoespositivas.com.br,https,Iluria,,OK,,,OK,,,,," vtex, iluria",,
+40695,vivini.com.br,https,Iluria,,OK,,,OK,,,,, iluria,,
+40711,zarzamora.com.br,https,Iluria,,OK,,,OK,,,,," vtex, iluria",,32093
+40827,megamixeletro.com.br,https,Jet Commerce,,OK,,,OK,,,,, jet,,32183
+40861,sledecor.com.br,https,Jet Commerce,,OK,,,OK,,,,,Não identificada,,
+41016,12time.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+41196,agripower.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+41208,agrosupri.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,32462
+41239,akkemi.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+41293,allshirts.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,32531
+41349,amellielingerie.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+41351,amenna.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,32581
+41489,arbosbikeshop.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+41562,artdoar.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,32758
+41586,suaartepersonalizada.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,32781
+41659,atacadonascimento.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+41698,atelietoquedearte.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+41714,locacao.atualgames.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,32884
+41787,babymg.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,32951
+41862,bazarhome.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,33018
+42088,bittescosmeticos.com.br,https,Loja Integrada,,OK,,,OK,,,,," loja integrada, wix, lynx",,33198
+42138,boaformashop.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,33243
+42145,bodyboardshow.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+42149,bodyfitms.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+42154,bohosoul.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,33258
+42211,boutiqueeroticasexshop.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+42295,brindesdarroartes.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,33372
+42324,bsbgames.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+42416,caffezin.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,33480
+42422,caixazen.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,33485
+42476,cannabis.com.br,https,Loja Integrada,,OK,,,OK,,,,, lojaintegrada,,33530
+42527,carimbosararaquara.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+42644,catnip.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+42691,cepaclab.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,33711
+42714,cervejariatabuas.com.br,https,Loja Integrada,,OK,,,OK,,,,, Wordpress,,33730
+42725,ceudabocalingerie.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+42737,charutosnacionais.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+42749,cheirodealecrim.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,33757
+42761,chicenerd.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+42783,churrasking.com.br,https,Loja Integrada,,OK,,,OK,,,https://churrasking.com.br/products.json,Shopify, shopify,,33785
+42789,ciadacerveja.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+42792,ciadofio.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,33793
+42805,circuitohome.com.br,https,Loja Integrada,,OK,,,OK,,,,," vtex, loja integrada",,33803
+42891,cobragames.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,33871
+42912,coisasdefrancisco.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+42946,comercialse.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+43016,continentalstore.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,33979
+43043,correndopelorio.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,34000
+43063,countrybeef.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+43116,crokis.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,34064
+43172,daisygold.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,34110
+43178,dalmalhas.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+43199,darocaarmazem.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,34133
+43204,daterrasaboaria.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+43231,decor8express.com.br,http,Loja Integrada,,OK,,,OK,,,,," wix, tray",,
+43318,destaqueimperio.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,34231
+43342,diasmotorsport.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+43473,donagouveia.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,34366
+43503,doutordaspanelas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,34390
+43517,drewsports.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+43521,driferraz.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,34408
+43557,dudecompany.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,34438
+43574,dushop.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+43629,editoraephatha.com.br,https,Loja Integrada,,OK,,,OK,,,,," loja integrada, wix, lynx",,34498
+43670,ekipei.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,34535
+43683,elephone.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,34546
+43712,ellefmotopecas.com.br,https,Loja Integrada,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/426976565/gshopping,mercado shops, mercado shops,426976565,
+43723,elshadaidistribuidora.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,34579
+43803,energydog.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+43871,espacokriativo.com.br,https,Loja Integrada,,OK,,,OK,,,,, lojaintegrada,,
+43874,espacomall.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,34708
+43899,essencialprana.com.br,http,Loja Integrada,,OK,,,OK,,,,, tray,,
+44002,expresspublishing.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,34816
+44040,fadaazulatelie.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+44063,fantazziasexshop.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+44102,fbomoveis.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+44106,fecosmeticosrj.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+44113,feirasabornacional.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,34910
+44154,festinalli.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,34945
+44254,floriculturachannel.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,35036
+44273,fmloja.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,35051
+44348,frenteeverso.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,35111
+44520,giftpresentescriativos.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+44542,glame.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,35269
+44661,grupogilfire.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+44700,gvhw.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+44775,hidragt.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+44961,importsshoes.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+44986,infinitegames.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+45003,infotecsoft.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,35652
+45026,inovagrium.com.br,https,Loja Integrada,,OK,,,OK,,,,, wix,,
+45085,iral.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,35727
+45135,jamiluniformes.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,35771
+45139,janlumodas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,35774
+45153,jasminebaby.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+45188,jimmi.com.br,https,Loja Integrada,,OK,,,OK,,,,, lojaintegrada,,
+45221,jochinelosdecorados.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,35840
+45340,karinaheid.com.br,http,Loja Integrada,,OK,,,OK,,,,," lojaintegrada, wix",,35940
+45367,kellymendes.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+45413,kitbrands.com.br,https,Loja Integrada,,OK,,,OK,,,,, jet,,
+45430,klark.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,36008
+45487,lacruz.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,36055
+45566,lavieprofessional.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+45841,lojachocolatesitalia.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,36359
+45920,lojafeth.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,36419
+45927,lojaformulacerta.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,36425
+45941,lojainoxprodutos.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,36431
+45954,lojalbstore.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,36443
+45999,lojanutracaps.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+46098,lojatalu.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,36552
+46114,lojatulip.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+46242,luzenergiasolar.com.br,https,Loja Integrada,,OK,,,OK,,,,, lojaintegrada,,36666
+46311,magazinenanet.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+46379,mallutattoo.com.br,https,Loja Integrada,,OK,,,OK,,,,, jet,,
+46466,marcenariadzplan.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+46497,mariaroma.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+46523,marshoppresentes.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+46586,maxyweb.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,36950
+46593,mbfotocorrosao.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+46704,mercadocell.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,37044
+46721,merceariapetbh.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,37059
+46756,meuoriente.com.br,https,Loja Integrada,,OK,,,OK,,,https://meuoriente.com.br/products.json,Shopify, shopify,,37088
+46769,mevest.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,37098
+46785,micoguigui.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,37111
+46856,minirocket.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,37166
+46938,modulohome.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+46946,moldarerusticos.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+47012,movimenthacoescorporais.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+47075,mundocards.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+47087,mundofan.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,37356
+47114,musicmix.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,37380
+47157,nasciprorock.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,37416
+47263,nicetubs.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,37503
+47280,nkdistribuidora.com.br,https,Loja Integrada,,OK,,,OK,,,,, lynx,,
+47377,loja.observatoriumcervejas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+47453,opcoespresentes.com.br,https,Loja Integrada,,OK,,,OK,,,,," loja integrada, xtech",,37662
+47474,organizzei.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+47637,paranerds.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+47644,parispapelaria.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,37826
+47709,pelicanstore.com.br,http,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+47719,pepecanecas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+47875,pixterclothing.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+47934,pokasideia.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,38073
+47989,portoalmeida.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,38122
+48093,promarnauticos.com.br,https,Loja Integrada,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/463171979/gshopping,mercado shops, mercado shops,463171979,38205
+48121,psrtecnologia.com.br,https,Loja Integrada,,OK,,,OK,,,,, wix,,38227
+48212,raceroffroad.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,38298
+48281,recifeoriental.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,38357
+48287,reddiamond-store.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,38362
+48344,renatasecco.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,38410
+48410,ripporte.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+48455,romasarolamentos.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,38504
+48471,rosemonteiroestetica.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,38520
+48492,rpontor.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,38536
+48499,rruniformes.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,38541
+48611,santoimportado.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,38631
+48633,saudedobrasil.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,38649
+48806,aidc.startecdigital.com.br,https,Loja Integrada,,OK,,,OK,,,,, woocommerce,,
+48877,slamour.com.br,https,Loja Integrada,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/312701142/gshopping,mercado shops, mercado shops,312701142,38839
+48986,soulcalcados.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,38924
+48998,soupescador.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+49048,stampartz.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,38974
+49082,storetotravel.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+49088,stripling.com.br,https,Loja Integrada,,OK,,,OK,,,,, wix,,
+49158,supernutribh.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+49167,suplementoevida.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,39065
+49209,tabuleirosuno.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,39099
+49429,toassistiva.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+49528,triktrakutilidades.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+49534,trioverde.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+49550,tropiclothing.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+49552,truckyeah.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,39385
+49620,uffizi-moveis.com.br,https,Loja Integrada,,OK,,,OK,,,,," lojaintegrada, wix",,39441
+49663,uniphormulas.com.br,https,Loja Integrada,,OK,,,OK,,,,," woocommerce, lojaintegrada",,
+49727,useformiga.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+49736,usektah.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+49882,vestebemvoce.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+49891,vestutto.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+49903,viafratello.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+49974,virtualtag.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,39730
+50018,vivapiscinasonline.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+50035,voig.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,39780
+50068,wakagames.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+50119,wishinabox.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+50150,wsdesigner.com.br,https,Loja Integrada,,OK,,,OK,,,,," woocommerce, lojaintegrada",,39869
+50182,yamatec.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,39896
+50225,zappafiltros.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+50302,abcdebebe.com.br,https,Loja Integrada,,OK,,,OK,,,,," loja integrada, linx",,39997
+50304,abelhamix.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,39999
+50322,acfbrindes.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40015
+50332,acrilandia.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40025
+50403,alfamarcas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40087
+50445,amantesdaaventura.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+50517,arboreartes.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+50546,artbabys.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+50653,babybang.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,40317
+50745,bellovestido.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40399
+50797,bilheteriacerta.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40444
+50823,shop.blessedstoreonline.com.br,https,Loja Integrada,,OK,,,OK,,,https://shop.blessedstoreonline.com.br/XMLData/googleshopping.xml,Vtex, vtex,,40465
+50831,bluelov.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+50894,bravoarcade.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40531
+50987,camaraofortaleza.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40606
+50988,camilaandraus.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40607
+51044,casacaipira.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40652
+51052,loja.casadelli.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40659
+51114,centraldodiabetico.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40712
+51150,churrasqueirametavila.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40745
+51153,ciadoscabelos.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40748
+51211,coconutice.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40800
+51241,comprashop.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+51256,confetepapelaria.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+51269,coopershop.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+51277,corpomilmodafitness.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+51320,csmprodutosdelimpeza.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40903
+51355,danluck.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,40932
+51371,ddrabrasivos.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+51451,differenceiluminacao.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,41015
+51480,divinacarne.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+51536,drgenesiopacheco.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,41087
+51557,e-japan.com.br,https,Loja Integrada,,OK,,,OK,,,,," loja integrada, xtech",,
+51593,edubolsasstore.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,41130
+51625,eletronicaoriente.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,41157
+51654,emodelismominiaturas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,41179
+51661,emporioaromasebanho.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,41186
+51670,emporiodosbiquinis.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,41194
+51672,emporiofloriani.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,41196
+51797,fannypresentes.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+51915,formademae.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,41403
+51980,gamingcrew.com.br,https,Loja Integrada,,OK,,,OK,,,,," loja integrada, xtech",,
+52200,imabox.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+52352,jsplan.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,41768
+52434,laceintimates.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,41839
+52444,lafofura.com.br,https,Loja Integrada,,OK,,,OK,,,,," loja integrada, wix, lynx",,41849
+52445,lagocarpa.com.br,https,Loja Integrada,,OK,,,OK,,,,," loja integrada, wix",,41850
+52490,ldr-automotive.lojaintegrada.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+52524,lesteimper.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,41916
+52640,lojadatrizzi.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42022
+52648,lojadelbo.com.br,https,Loja Integrada,,OK,,,OK,,,,," vtex, loja integrada",,42029
+52658,lojadoavioesemusicas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42038
+52677,lojadynamus.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+52678,lojaecotrendbrasil.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42053
+52719,lojamaikaii.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42090
+52759,lojapottiroma.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42124
+52779,lojasanguinaria.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42143
+52806,lojasverdeblue.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+52868,lucianaacessorios.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42221
+52880,luluks.com.br,https,Loja Integrada,,OK,,,OK,,,,," loja integrada, xtech",,42232
+52970,manualdomachoalpha.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42310
+52992,maretoa.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42329
+53072,meninabrazil.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42396
+53193,moitoi.com.br,https,Loja Integrada,,OK,,,OK,,,,, lynx,,42499
+53217,motomulher.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42518
+53275,mundokawaii.com.br,https,Loja Integrada,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/758/128/themes/common/fb_catalog.xml?version=1239,https://mundokawaii.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,42570
+53340,netmutari.com.br,https,Loja Integrada,,OK,,,OK,,,,, Loja Suspensa,,
+53342,newagulhas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+53361,nmood.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+53370,nordikstore.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42649
+53410,occio.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42682
+53413,oescriba.com.br,https,Loja Integrada,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/192667002/gshopping,mercado shops, mercado shops,192667002,42685
+53414,oesmicrotech.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+53429,ohul.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42699
+53441,ondasports.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42710
+53446,onehit.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+53488,ousecosmeticos.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42754
+53520,pandoracosmeticos.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42782
+53601,perfectmax.net,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+53607,persaantiguidades.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42859
+53647,pinguinhodeleite.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+53674,planetmusicexpress.lojaintegrada.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,
+53690,pluscan.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42930
+53735,pralutashop.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42964
+53751,pribachuroficial.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,42977
+53797,quadrosdecor.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,43013
+53804,quartzodesign.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,43019
+53834,rangermilitaria.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,43047
+53868,reflitasports.com.br,https,Loja Integrada,,OK,,,OK,,,,," loja integrada, mercadoshops, lynx",,43078
+53883,rembrindespersonalizados.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,43091
+53999,santapausa.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,43189
+54006,santofuego.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+54039,segundofuro.com.br,https,Loja Integrada,,OK,,,OK,,,,," vtex, loja integrada",,43223
+54049,sementerara.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,43231
+54121,silveirajoias.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,43294
+54307,sylviazobaran.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,43449
+54380,thebricksimports.com.br,https,Loja Integrada,,OK,,,OK,,,,,Não identificada,,
+54468,tryvendas.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,43589
+54534,usegambler.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,43640
+54558,valadaomaqcosturaebordado.com.br,https,Loja Integrada,,OK,,,OK,,,,, loja integrada,,43662
+54813,abrahaosuplemento.com.br,https,Magento,,OK,,,OK,,,,,Não identificada,,
+54842,agenciaca.com.br,https,Magento,,OK,,,OK,,,,, magento,,43896
+54859,agilepecas.com.br,https,Magento,,OK,,,OK,,,,, magento,,43910
+54946,artemagento.com.br,https,Magento,,OK,,,OK,,,,," loja integrada, magento, iluria",,43977
+54947,artesaniaactual.com.br,https,Magento,,OK,,,OK,,,,," vtex, magento",,43978
+55093,bmbikewear.com.br,https,Magento,,OK,,,OK,,,,, magento,,44090
+55130,brincodanoiva.com.br,https,Magento,,OK,,,OK,,,,," vtex, magento",,
+55136,brohood.com.br,https,Magento,,OK,,,OK,,,,, magento,,44126
+55182,caneooficial.com.br,https,Magento,,OK,,,OK,,,,, nuvemshop,,44160
+55235,centralpesca.com.br,https,Magento,,OK,,,OK,,,,,Não identificada,,44201
+55437,diskforms.com.br,https,Magento,,OK,,,OK,,,,, wix,,
+55441,distribuidoraguarapuava.com.br,https,Magento,,OK,,,OK,,,,, magento,,
+55454,dogdesign.com.br,https,Magento,,OK,,,OK,,,,,Não identificada,,
+55470,driecor.com.br,http,Magento,,OK,,,OK,,,,," vtex, magento",,44373
+55557,enviou.com.br,https,Magento,,OK,,,OK,,,,," vtex, loja integrada, nuvemshop, magento, vnda, tray",,44446
+55615,famdvd.com.br,https,Magento,,OK,,,OK,,,,, magento,,
+55752,griffedasruas.com.br,https,Magento,,OK,,,OK,,,,, magento,,44597
+55802,hnutri.com.br,https,Magento,,OK,,,OK,,,,, magento,,44637
+55870,ionicasd.com.br,https,Magento,,OK,,,OK,,,,, magento,,44688
+56088,lojaranger.com.br,https,Magento,,OK,,,OK,,,,,Não identificada,,44847
+56107,lojaterradonunca.com.br,https,Magento,,OK,,,OK,,,,, magento,,44858
+56232,meandhome.com.br,https,Magento,,OK,,,OK,,,,,Não identificada,,44956
+56336,moveise.com.br,https,Magento,,OK,,,OK,,,,," magento, tray",,45033
+56457,ohanavest.com.br,https,Magento,,OK,,,OK,,,,, magento,,
+56458,ohsolucoes.com.br,https,Magento,,OK,,,OK,,,,, magento,,45117
+56540,perfumariaecosmeticos.com.br,https,Magento,,OK,,,OK,,,,, magento,,45176
+56687,revanchejeans.com.br,https,Magento,,OK,,,OK,,,,, lynx,,45279
+56703,risingsunmotorsports.com.br,https,Magento,,OK,,,OK,,,,, magento,,45294
+56756,santocongelado.com.br,https,Magento,,OK,,,OK,,,,, magento,,45325
+56876,soreluzautopecas.com.br,https,Magento,,OK,,,OK,,,,, magento,,
+56893,staaldesign.com.br,https,Magento,,OK,,,OK,,,,, lynx,,45424
+57025,unaculture.com.br,https,Magento,,OK,,,OK,,,,, magento,,
+57059,valorie.com.br,https,Magento,,OK,,,OK,,,,, magento,,
+57177,workless.com.br,https,Magento,,OK,,,OK,,,,,Não identificada,,
+57220,zonecar.com.br,https,Magento,,OK,,,OK,,,,, magento,,45652
+57365,aquapc.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/244221157/gshopping,mercado shops, mercado shops,244221157,
+57376,apptuts.bio,https,Mercado Shops,,OK,,,OK,,,,,Não identificada,,45780
+57410,artesanatocomfibra.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/56400852/gshopping,mercado shops, mercado shops,56400852,45809
+57511,beautymais.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/26958207/gshopping,mercado shops, mercado shops,26958207,45897
+57523,belevistore.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/374833358/gshopping,mercado shops, mercado shops,374833358,45907
+57554,bichonotelhado.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/5043218/gshopping,mercado shops, mercado shops,5043218,
+57598,brasilbiblias.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/43316870/gshopping,mercado shops, mercado shops,43316870,45970
+57626,bulletpepper.com,https,Mercado Shops,,OK,,,OK,,,,, mercadoshops,,
+57716,casasmario.com.br,https,Mercado Shops,,OK,,,OK,,,,, mercadoshops,,
+57747,cheffbag.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/566251276/gshopping,mercado shops, mercado shops,566251276,46081
+57767,citytoys.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/318488960/gshopping,mercado shops, mercado shops,318488960,46096
+57840,contrastdecor.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/265537089/gshopping,mercado shops, mercado shops,265537089,
+57846,salaodaleni.com.br,https,Mercado Shops,,OK,,,OK,,,,, loja integrada,,46153
+57904,daydecor.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/473308973/gshopping,mercado shops, mercado shops,473308973,46199
+58030,eletroccel.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/606456006/gshopping,mercado shops, mercado shops,606456006,
+58040,elitebikestore.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/154086048/gshopping,mercado shops, mercado shops,154086048,
+58084,eranovastore.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/179879019/gshopping,mercado shops, mercado shops,179879019,
+58136,fanlicebolsas.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/434792287/gshopping,mercado shops, mercado shops,434792287,46378
+58184,fiushop.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/307616681/gshopping,mercado shops, mercadoshops,307616681,46419
+58186,fkfsports.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/186842512/gshopping,mercado shops, mercado shops,186842512,
+58226,fredminiaturas.com.br,http,Mercado Shops,,OK,,,OK,,,,, tray,,
+58256,gbals.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/22163059/gshopping,mercado shops, mercado shops,22163059,46477
+58344,gveletrica.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/697795486/gshopping,mercado shops, mercado shops,697795486,46542
+58476,jetasolutions.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/3479572/gshopping,mercado shops, mercado shops,3479572,46644
+58499,justtashop.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/195419774/gshopping,mercado shops, mercado shops,195419774,46664
+58782,madonninasemijoias.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/359817010/gshopping,mercado shops, mercado shops,359817010,46895
+58800,maiorautopecas.com.br,https,Mercado Shops,,OK,,,OK,,,,,Não identificada,,
+58804,maisquebike.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/178627783/gshopping,mercado shops, mercado shops,178627783,46911
+58813,mandashop.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/765106195/gshopping,mercado shops, mercado shops,765106195,46918
+58914,meugintonica.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/74061387/gshopping,mercado shops, mercado shops,74061387,46998
+58965,moldpet.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/198676577/gshopping,mercado shops, mercado shops,198676577,47037
+58969,monpetitatelie.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/271257493/gshopping,mercado shops, mercado shops,271257493,47041
+59010,multestoque.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/33519758/gshopping,mercado shops, mercado shops,33519758,47072
+59033,musicalstore.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/177895521/gshopping,mercado shops, mercado shops,177895521,47094
+59063,necessarius.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/144813574/gshopping,mercado shops, mercado shops,144813574,47117
+59077,neurasmodas.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/183681858/gshopping,mercado shops, mercado shops,183681858,47129
+59153,organizesuasfinancas.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/422915578/gshopping,mercado shops, mercado shops,422915578,47188
+59163,outletlivros.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/20124704/gshopping,mercado shops, mercado shops,20124704,47195
+59166,outpet.mercadoshops.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/54959948/gshopping,mercado shops, mercado shops,54959948,
+59218,pepistore.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/759962078/gshopping,mercado shops, mercado shops,759962078,47238
+59270,plumamodas.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/190111671/gshopping,mercado shops, mercado shops,190111671,
+59353,qualeria.com.br,https,Mercado Shops,,OK,,,OK,,,,, loja integrada,,47354
+59409,refzerograu.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/712583538/gshopping,mercado shops, mercado shops,712583538,
+59458,robshop.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/4851304/gshopping,mercado shops, mercado shops,4851304,47439
+59489,rxmotorsports.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/788949966/gshopping,mercado shops, mercado shops,788949966,47462
+59571,shoppingospel.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/14835627/gshopping,mercado shops, mercado shops,14835627,47530
+59585,simplesdetalhes.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/3809264/gshopping,mercado shops, mercado shops,3809264,47541
+59694,talcar.com.br,https,Mercado Shops,,OK,,,OK,,,,,Não identificada,,
+59739,tinautica.com.br,https,Mercado Shops,,OK,,,OK,,,,," woocommerce, mercadoshops",,47662
+59762,torraestoque.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/139870274/gshopping,mercado shops, mercado shops,139870274,47678
+59772,tpcid.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/233207821/gshopping,mercado shops, mercado shops,233207821,47685
+59844,varalatelie.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/192726993/gshopping,mercado shops, mercado shops,192726993,47746
+59845,varejistacastilho.com.br,https,Mercado Shops,,OK,,,OK,,,,,Não identificada,,
+59890,virtualvarejo.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/459303554/gshopping,mercado shops, mercado shops,459303554,47783
+59906,vivafeira.com.br,http,Mercado Shops,,OK,,,OK,,,,, mercadoshops,,47796
+60151,avontuur.com.br,https,,,OK,,,OK,,,,, tray,,47957
+60164,badario.com.br,https,,,OK,,,OK,,,,,Não identificada,,
+60203,bemfarofeira.com.br,https,,,OK,,,OK,,,,,Não identificada,,
+60210,betolar.com.br,http,,,OK,,,OK,,,,,Não identificada,,
+60320,carloskadosh.com.br,https,,,OK,,,OK,,,,, woocommerce,,48074
+60519,destakstore.com.br,https,,,OK,,,OK,,,,,Não identificada,,48199
+60562,dumelo.com.br,https,,,OK,,,OK,,,,,Não identificada,,48229
+60613,equipamentoseguranca.com.br,https,,,OK,,,OK,,,,,Não identificada,,
+60632,estilocell.com.br,https,,,OK,,,OK,,,,, tray,,48274
+60773,marketup.com,https,,,OK,,,OK,,,,, jet,,48367
+60871,loja.ideiasdefestas.com.br,https,,,OK,,,OK,,,,, loja integrada,,
+60950,juanpabloimoveis.com.br,https,,,OK,,,OK,,,,, loja integrada,,48485
+60991,ladybugstyle.com.br,https,,,OK,,,OK,,,,, iluria,,48511
+61075,lojadosviajantes.com.br,https,,,OK,,,OK,,,,, tray,,
+61130,lojinhademoscas.com.br,https,,,OK,,,OK,,,,,Não identificada,,
+61145,lpdistribuicoes.com.br,http,,,OK,,,OK,,,,, woocommerce,,
+61257,matarazzoautoparts.com.br,https,,,OK,,,OK,,,,, wix,,48683
+61343,moriabike.com.br,https,,,OK,,,OK,,,https://moriabike.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,
+61352,movelsobmedida.com.br,https,,,OK,,,OK,,,,,Não identificada,,
+61383,narcizamaquiagens.com.br,https,,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/379/681/themes/common/fb_catalog.xml?version=1228,https://narcizamaquiagens.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,48757
+61387,nathaliamaison.com.br,https,,,OK,,,OK,,,,,Não identificada,,48759
+61538,pjbrinquedostore.com.br,https,,,OK,,,OK,,,,,Não identificada,,
+61575,princar.com.br,https,,,OK,,,OK,,,,, tray,,
+61584,psvbrasil.com.br,https,,,OK,,,OK,,,,,Não identificada,,
+61665,rsrobotica.com.br,https,,,OK,,,OK,,,,, loja integrada,,48931
+61697,sejacapi.com.br,https,,,OK,,,OK,,,,, loja integrada,,48949
+61743,shopwindow.com.br,https,,,OK,,,OK,,,,, Loja Suspensa,,
+61745,silviafederico.com.br,https,,,OK,,,OK,,,,," vtex, woocommerce",,
+61775,sommetbrand.com.br,https,,,OK,,,OK,,,,, magento,,48991
+61783,souhuma.com.br,https,,,OK,,,OK,,,,," vtex, iluria",,
+61860,tcexcursoes.com.br,https,,,OK,,,OK,,,,, woocommerce,,49052
+61883,tgieletrica.com.br,https,,,OK,,,OK,,,,, lojaintegrada,,
+61937,tuffoficial.com.br,https,,,OK,,,OK,,,"https://www.tuffoficial.com.br/XMLData/googleshopping.xml,https://www.tuffoficial.com.br/XMLData/facebook.xml,https://www.tuffoficial.com.br/media/amfeed/feeds/google.xml,https://www.tuffoficial.com.br/FILES/_xml/facebook.xml,https://www.tuffoficial.com.br/FILES/_xml/google.xml,https://www.tuffoficial.com.br/FILES/_xml/google1.xml","Vtex,Magento,EzCommerce/Lynx", tray,,49096
+61962,upcomercio.com.br,https,,,OK,,,OK,,,,, jet,,
+62053,webshopper.com.br,https,,,OK,,,OK,,,,, woocommerce,,
+62170,acjoias.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,49266
+62198,admito.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,49293
+62227,aguadolar.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/652/063/themes/common/fb_catalog.xml?version=1056,https://aguadolar.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,49321
+62268,alexiaboutique.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/736/791/themes/common/fb_catalog.xml?version=20,NuvemShop, nuvemshop,,49361
+62276,aliabrand.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/444/201/themes/common/fb_catalog.xml?version=2449,https://aliabrand.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,49369
+62326,amadopetshop.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+62328,amandamedrado.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/967/258/themes/common/fb_catalog.xml?version=374,NuvemShop, nuvemshop,,49417
+62395,anadolls.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/584/243/themes/common/fb_catalog.xml?version=89,NuvemShop, nuvemshop,,49478
+62444,anouk.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/610/067/themes/common/fb_catalog.xml?version=13,NuvemShop, nuvemshop,,49525
+62460,apartreina.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,
+62466,aplicadoralcance.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,49544
+62484,arcadextreme.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+62495,arijoias.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/680/942/themes/common/fb_catalog.xml?version=184,NuvemShop, nuvemshop,,49572
+62600,atelieanaavila.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,49670
+62603,ateliebelmarcato.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,49673
+62633,atelierdocebiscuit.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,49702
+62762,barrosatacado.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+62778,bbgcosmeticos.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/292/842/themes/common/fb_catalog.xml?version=1559,https://bbgcosmeticos.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,49837
+62843,bellarose.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+62854,belotrapoboutique.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/332/296/themes/common/fb_catalog.xml?version=233,https://belotrapoboutique.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,49906
+62930,blackmobile.com.br,https,NuvemShop,,OK,,,OK,,,,, woocommerce,,
+62944,bloomer.com.br,https,NuvemShop,,OK,,,OK,,,https://bloomer.com.br/google_shopping.xml/,NuvemShop," vtex, nuvem shop",,49989
+62964,bobnature.com.br,https,NuvemShop,,OK,,,OK,,,https://bobnature.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,50007
+62979,bombgirl.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/403/347/themes/common/fb_catalog.xml?version=537,NuvemShop, nuvemshop,,50021
+63039,brauerdesigner.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,50074
+63070,brimas.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/243/444/themes/common/fb_catalog.xml?version=176,https://brimas.com.br/google_shopping.xml/",NuvemShop," vtex, nuvem shop",,50102
+63116,bullneck.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/795/436/themes/common/fb_catalog.xml?version=1057,https://www.bullneck.com.br/google_shopping.xml/",NuvemShop," vtex, nuvemshop",,50144
+63166,cadixportoferreira.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/542/641/themes/common/fb_catalog.xml?version=13,NuvemShop, nuvemshop,,50189
+63278,carolmattioli.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/253/490/themes/common/fb_catalog.xml?version=456,NuvemShop, nuvemshop,,50290
+63344,casasbuzzo.com.br,https,NuvemShop,,OK,,,OK,,,https://casasbuzzo.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,50354
+63418,chicchicle.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,50423
+63426,chinelize.com.br,https,NuvemShop,,OK,,,OK,,,https://chinelize.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,50431
+63428,chiquedemaiss.com.br,https,NuvemShop,,OK,,,OK,,,,, jet,,50433
+63493,closetlit.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+63512,cocarbrasilacessorios.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,50508
+63536,colouadesivos.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/310/927/themes/common/fb_catalog.xml?version=606,https://colouadesivos.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,50532
+63570,conceitaria.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,
+63588,controlbeer.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,50579
+63602,coreluz.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/305/641/themes/common/google_shopping.xml?version=1,NuvemShop, nuvemshop,,50593
+63622,costureieamei.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,50611
+63637,creativebrazil.com.br,https,NuvemShop,,OK,,,OK,,,https://creativebrazil.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,50625
+63694,custtomize.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/139/525/themes/common/fb_catalog.xml?version=531,https://custtomize.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,50679
+63778,delichat.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,50756
+63799,deplean.com.br,https,NuvemShop,,OK,,,OK,,,https://deplean.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,50775
+63918,dogmaprint.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/189/919/themes/common/fb_catalog.xml?version=529,https://dogmaprint.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,50884
+63974,doraart.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/714/684/themes/common/fb_catalog.xml?version=1095,https://doraart.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,50938
+63979,dorei.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+64045,dvto.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/117/569/themes/common/fb_catalog.xml?version=113,NuvemShop, nuvemshop,,51003
+64085,edreamarte.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/067/282/themes/common/fb_catalog.xml?version=991,NuvemShop, nuvemshop,,51041
+64112,eletrobatbaterias.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,
+64154,emporiodoscilios.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/780/545/themes/common/fb_catalog.xml?version=3109,NuvemShop, nuvemshop,,51102
+64245,estilizarbrindes.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/613/994/themes/common/fb_catalog.xml?version=108,https://estilizarbrindes.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,51187
+64259,estrelajoias.com,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/590/158/themes/common/fb_catalog.xml?version=441,NuvemShop, nuvemshop,,51199
+64271,etal.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/539/427/themes/common/fb_catalog.xml?version=629,https://etal.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,51211
+64303,evoeletro.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,51241
+64357,fantasticafabricadelacos.com.br,https,NuvemShop,,OK,,,OK,,,https://fantasticafabricadelacos.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,51295
+64361,farkaskids.com.br,https,NuvemShop,,OK,,,OK,,,https://farkaskids.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,51299
+64380,fazaki.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,51316
+64398,felatina.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/173/335/themes/common/fb_catalog.xml?version=2186,https://felatina.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,51334
+64456,finosalto.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/926/218/themes/common/fb_catalog.xml?version=319,NuvemShop, nuvemshop,,51387
+64526,flyfitness.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/467/356/themes/common/fb_catalog.xml?version=58,NuvemShop, nuvemshop,,51452
+64546,forcefitness.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+64566,foue.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/062/264/themes/common/fb_catalog.xml?version=2035,NuvemShop, nuvemshop,,51488
+64609,fuxicandoart.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/657/847/themes/common/fb_catalog.xml?version=46,NuvemShop, nuvemshop,,51530
+64648,gamificationhumanizado.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+64681,ggreggaeshop.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,51598
+64700,gistore.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+64724,gogoyo.com.br,https,NuvemShop,,OK,,,OK,,,https://gogoyo.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,51638
+64819,habitoszentv.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/390/604/themes/common/fb_catalog.xml?version=1093,https://habitoszentv.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,51722
+64829,happybeestore.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+64848,hedrostudios.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+64943,hungerfit.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/790/336/themes/common/fb_catalog.xml?version=1075,https://hungerfit.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,51829
+64993,imperioplastic.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/880/041/themes/common/fb_catalog.xml?version=2310,https://imperioplastic.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,51874
+65006,imprimarte.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/259/737/themes/common/fb_catalog.xml?version=15,NuvemShop, nuvemshop,,51885
+65009,incasashop.com.br,https,NuvemShop,,OK,,,OK,,,https://incasashop.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,51888
+65037,innovatranspalet.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/023/409/themes/common/fb_catalog.xml?version=54,NuvemShop, nuvemshop,,51914
+65047,insitta.com.br,https,NuvemShop,,OK,,,OK,,,,, tray,,
+65131,jatobapastilhaslojavirtual.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+65160,jobarbosa.com.br,https,NuvemShop,,OK,,,OK,,,https://jobarbosa.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,
+65198,jubinhadeleao.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+65201,jucosmeticos.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+65258,kamisemijoias.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/422/218/themes/common/fb_catalog.xml?version=1485,https://kamisemijoias.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,52115
+65262,karaokecenter.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/817/876/themes/common/fb_catalog.xml?version=624,https://karaokecenter.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,52119
+65339,kowalastore.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/184/719/themes/common/fb_catalog.xml?version=4045,https://kowalastore.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,52192
+65347,krozzdevices.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/850/099/themes/common/fb_catalog.xml?version=180,NuvemShop," vtex, nuvemshop",,52200
+65355,kzuau.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/333/437/themes/common/fb_catalog.xml?version=1934,https://kzuau.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,52205
+65408,lalazices.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/178/239/themes/common/fb_catalog.xml?version=11573,NuvemShop, nuvemshop,,52252
+65429,larababystore.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+65464,leaogold.com.br,https,NuvemShop,,OK,,,OK,,,https://leaogold.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,52304
+65598,littlelu.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,
+65610,livrarialua.com.br,https,NuvemShop,,OK,,,OK,,,https://livrarialua.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,52438
+65649,lojabbcoruja.com.br,https,NuvemShop,,OK,,,OK,,,https://lojabbcoruja.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,52474
+65684,lojaconfecsul.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,52505
+65728,lojadodote.com.br,https,NuvemShop,,OK,,,OK,,,https://lojadodote.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,52543
+65778,guriaperfeita.com.br,https,NuvemShop,,OK,,,OK,,,,, vtex,,52588
+65818,lojamimmo.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+65922,lojastudiol.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/480/717/themes/common/fb_catalog.xml?version=450,NuvemShop, nuvemshop,,52720
+65960,lolavalentin.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/755/653/themes/common/fb_catalog.xml?version=114,https://lolavalentin.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,52753
+65981,looksbabilice.com.br,https,NuvemShop,,OK,,,OK,,,https://looksbabilice.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,52770
+66018,lowentry.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,52800
+66068,lulukidsimportados.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,52849
+66349,masturbadores.com.br,https,NuvemShop,,OK,,,OK,,,https://masturbadores.com.br/google_shopping.xml/,NuvemShop," vtex, nuvem shop",,53103
+66371,mcbabystore.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/896/062/themes/common/fb_catalog.xml?version=1633,https://mcbabystore.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,53125
+66398,memacessorios.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,53148
+66621,momentosdeprazer.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,53356
+66647,loja.mooven.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,53381
+66655,morenavelas.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/489/285/themes/common/fb_catalog.xml?version=162,NuvemShop, nuvemshop,,53387
+66698,mundodascanetas.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,53426
+66710,mundoisla.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/833/477/themes/common/fb_catalog.xml?version=3363,https://mundoisla.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,53438
+66800,nazcosmeticos.com.br,https,NuvemShop,,OK,,,OK,,,https://nazcosmeticos.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,53524
+66880,nostyllo.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/605/484/themes/common/fb_catalog.xml?version=2404,NuvemShop, nuvemshop,,53596
+66907,nuvemcoracao.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,53620
+66925,octtane.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/169/949/themes/common/fb_catalog.xml?version=724,https://octtane.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,53638
+67007,orientesemijoias.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+67056,outletr9.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,53759
+67070,ozzystore.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+67085,pandanerd.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/297/188/themes/common/fb_catalog.xml?version=265,https://pandanerd.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,53785
+67123,papointtimo.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,53821
+67127,parafinapapelaria.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/044/457/themes/common/fb_catalog.xml?version=199,NuvemShop, nuvemshop,,53825
+67181,pecasparasplit.com.br,https,NuvemShop,,OK,,,OK,,,,," vtex, nuvem shop",,
+67190,pedeboneca.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+67235,perseanatural.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/158/400/themes/common/fb_catalog.xml?version=1178,https://perseanatural.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,53922
+67250,petiscopetcia.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/060/994/themes/common/fb_catalog.xml?version=64,https://petiscopetcia.com.br/google_shopping.xml/",NuvemShop," nuvemshop, wix",,53936
+67279,phiphicamisas.com.br,https,NuvemShop,,OK,,,OK,,,https://phiphicamisas.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,53964
+67513,puroprazersexshop.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/316/169/themes/common/fb_catalog.xml?version=3801,https://puroprazersexshop.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,54178
+67525,quadrosartdesign.com.br,https,NuvemShop,,OK,,,OK,,,https://quadrosartdesign.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,54188
+67539,queroloja.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/965/379/themes/common/fb_catalog.xml?version=1181,https://queroloja.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,54200
+67556,radari.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/393/224/themes/common/fb_catalog.xml?version=738,NuvemShop, nuvemshop,,54215
+67575,ranked.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/370/297/themes/common/fb_catalog.xml?version=553,NuvemShop, nuvemshop,,54233
+67612,redbuck.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/444/281/themes/common/fb_catalog.xml?version=67,https://redbuck.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,54267
+67669,rfadesivos.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+67671,rgbalancas.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/391/892/themes/common/fb_catalog.xml?version=465,https://rgbalancas.com.br/google_shopping.xml/",NuvemShop, nuvem shop,,54321
+67735,rosaalgodaoacessorios.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+67745,rosastylosa.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/099/958/themes/common/fb_catalog.xml?version=1890,https://rosastylosa.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,54386
+67805,saldeprata.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/055/961/themes/common/fb_catalog.xml?version=701,NuvemShop, nuvemshop,,54440
+67826,sanbox.com.br,https,NuvemShop,,OK,,,OK,,,https://sanbox.com.br/google_shopping.xml/,NuvemShop," vtex, nuvemshop",,54457
+67911,semprebellamodas.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,54535
+67928,sersinergia.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,54550
+67946,sexshoptete.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,54567
+67967,shmagazine.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,54587
+67971,shop100.com.br,https,NuvemShop,,OK,,,OK,,,,, woocommerce,,
+68011,siiimseguidores.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+68027,simpl3.com.br,https,NuvemShop,,OK,,,OK,,,https://www.simpl3.com.br/products.json,Shopify, shopify,,54641
+68048,skocicpaisagismo.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,54661
+68062,smellbaby.com.br,https,NuvemShop,,OK,,,OK,,,https://www.smellbaby.com.br/products.json,Shopify, shopify,,54673
+68093,solalli.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+68176,srtimbre.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/114/229/themes/common/fb_catalog.xml?version=2010,https://srtimbre.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,54781
+68196,stickard.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,
+68198,loja.stoneinbox.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/586/162/themes/common/fb_catalog.xml?version=2840,https://loja.stoneinbox.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,
+68224,studiomstore.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+68311,tapeteshop.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/797/215/themes/common/fb_catalog.xml?version=194,NuvemShop, nuvemshop,,54903
+68350,telcompany.com.br,https,NuvemShop,,OK,,,OK,,,,, tray,,54938
+68439,todaxilique.com.br,https,NuvemShop,,OK,,,OK,,,https://todaxilique.com.br/google_shopping.xml/,NuvemShop," vtex, nuvemshop",,55014
+68574,unanime.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,55136
+68597,upalupababyboom.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,
+68630,usefreeborn.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+68666,useuniformesp.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/129/241/themes/common/fb_catalog.xml?version=6294,NuvemShop, nuvemshop,,55223
+68670,usewake.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/371/761/themes/common/fb_catalog.xml?version=953,https://usewake.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,55227
+68764,vestdance.com.br,https,NuvemShop,,OK,,,OK,,,https://vestdance.com.br/google_shopping.xml/,NuvemShop, nuvemshop,,55313
+68784,viazevedo.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/787/173/themes/common/fb_catalog.xml?version=174,NuvemShop, nuvemshop,,55331
+68797,viladabelezastore.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/205/250/themes/common/fb_catalog.xml?version=1814,NuvemShop, nuvemshop,,
+68841,vistarainbow.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+68849,vitiflora.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/577/122/themes/common/fb_catalog.xml?version=337,NuvemShop, nuvemshop,,55393
+68866,vivianecoimbrastore.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+68890,vonheld.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/179/565/themes/common/fb_catalog.xml?version=60,NuvemShop, nuvemshop,,55432
+68930,wiccaa.com.br,https,NuvemShop,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/167/457/themes/common/fb_catalog.xml?version=2205,NuvemShop, nuvemshop,,55471
+68953,woodmaster.com.br,https,NuvemShop,,OK,,,OK,,,,, nuvemshop,,
+69012,zapassos.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+69020,zenhood.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/380/101/themes/common/fb_catalog.xml?version=5394,https://zenhood.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,55551
+69083,agrosocial.com.br,http,PrestaShop,,OK,,,OK,,,,, prestashop,,
+69088,alarg.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,
+69114,armazemdopet.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,55628
+69233,coceno.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,
+69344,ervadoceperfumaria.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,
+69380,fixxo.com.br,https,PrestaShop,,OK,,,OK,,,,," vtex, prestashop",,
+69426,greenvalvulas.com.br,http,PrestaShop,,OK,,,OK,,,,, prestashop,,55881
+69558,loja-taygra.com.br,http,PrestaShop,,OK,,,OK,,,,, prestashop,,55988
+69649,modulosprestashop.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,
+69651,moreninhabonecas.com.br,http,PrestaShop,,OK,,,OK,,,,, prestashop,,
+69722,parceiros-solucaotravel.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,56113
+69765,pratsdf.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,
+69792,realtoolslojavirtual.com.br,https,PrestaShop,,OK,,,OK,,,,," vtex, prestashop",,56165
+69888,sweetlucy.com.br,https,PrestaShop,,OK,,,OK,,,,, prestashop,,56231
+70036,adrianapino.com.br,https,Shopify,,OK,,,OK,,,https://adrianapino.com.br/products.json,Shopify, shopify,,56334
+70082,allthethings.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+70143,aoinfinito.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,56416
+70282,becava.com.br,https,Shopify,,OK,,,OK,,,https://becava.com.br/products.json,Shopify, shopify,,56506
+70293,belasaudavel.com,https,Shopify,,OK,,,OK,,,https://www.belasaudavel.com/products.json,Shopify, shopify,,56512
+70327,betacenter.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+70365,blessedshopping.com.br,https,Shopify,,OK,,,OK,,,https://www.blessedshopping.com.br/products.json,Shopify, shopify,,56564
+70386,bombeefsantos.com.br,https,Shopify,,OK,,,OK,,,https://www.bombeefsantos.com.br/products.json,Shopify, shopify,,56578
+70504,caonutri.com.br,https,Shopify,,OK,,,OK,,,https://caonutri.com.br/products.json,Shopify, shopify,,56657
+70579,cerebraltech.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+70714,cordolario.com.br,https,Shopify,,OK,,,OK,,,https://cordolario.com.br/products.json,Shopify, shopify,,56794
+70731,criativacase.com.br,https,Shopify,,OK,,,OK,,,https://criativacase.com.br/products.json,Shopify, shopify,,56806
+70752,daisyshop.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+70753,daliashop.com.br,https,Shopify,,OK,,,OK,,,https://daliashop.com.br/products.json,Shopify, shopify,,56821
+70936,elafitness.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+70942,eleganti.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+71079,faro9.com.br,https,Shopify,,OK,,,OK,,,https://www.faro9.com.br/products.json,Shopify, shopify,,57034
+71145,foundandpet.com.br,https,Shopify,,OK,,,OK,,,https://www.foundandpet.com.br/products.json,Shopify, shopify,,57073
+71192,galucciflex.com.br,https,Shopify,,OK,,,OK,,,,, shopify,,
+71247,goinfo.com.br,https,Shopify,,OK,,,OK,,,https://goinfo.com.br/products.json,Shopify, shopify,,57133
+71282,gringshop.com.br,http,Shopify,,OK,,,OK,,,,, shopify,,
+71307,hashid.com.br,https,Shopify,,OK,,,OK,,,https://www.hashid.com.br/products.json,Shopify," shopify, wix, lynx",,57173
+71346,holospetstore.com.br,https,Shopify,,OK,,,OK,,,https://holospetstore.com.br/products.json,Shopify, shopify,,57197
+71428,inovacaoshop.tech,https,Shopify,,OK,,,OK,,,https://inovacaoshop.tech/products.json,Shopify, shopify,,
+71439,inspiremulher.com.br,https,Shopify,,OK,,,OK,,,https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/887/519/themes/common/fb_catalog.xml?version=2,NuvemShop, nuvemshop,,57252
+71465,itseco.com.br,https,Shopify,,OK,,,OK,,,https://itseco.com.br/products.json,Shopify, shopify,,57268
+71680,livroembranco.com.br,https,Shopify,,OK,,,OK,,,https://livroembranco.com.br/products.json,Shopify, shopify,,57419
+71745,lojaimperial.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,57458
+71778,lojarinove.com.br,https,Shopify,,OK,,,OK,,,https://lojarinove.com.br/products.json,Shopify, shopify,,57481
+71803,lojasunny.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,57494
+71827,lojinhaoteatromagico.com.br,https,Shopify,,OK,,,OK,,,https://lojinhaoteatromagico.com.br/products.json,Shopify, shopify,,57509
+71907,magazinedp.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,57562
+71946,mamacria.com.br,https,Shopify,,OK,,,OK,,,https://www.mamacria.com.br/products.json,Shopify, shopify,,57584
+71975,mariaeulalia.com.br,https,Shopify,,OK,,,OK,,,https://www.mariaeulalia.com.br/products.json,Shopify, shopify,,57607
+71998,materiaisdolafa.com.br,https,Shopify,,OK,,,OK,,,https://materiaisdolafa.com.br/products.json,Shopify, shopify,,
+72082,milamilou.com.br,https,Shopify,,OK,,,OK,,,https://milamilou.com.br/products.json,Shopify, shopify,,57672
+72088,milkes.com.br,https,Shopify,,OK,,,OK,,,https://www.milkes.com.br/products.json,Shopify, shopify,,57675
+72129,modabeauty.com.br,https,Shopify,,OK,,,OK,,,https://www.modabeauty.com.br/products.json,Shopify, shopify,,57705
+72142,modernizado.com.br,https,Shopify,,OK,,,OK,,,https://www.modernizado.com.br/products.json,Shopify, shopify,,57711
+72153,monenfant.com.br,https,Shopify,,OK,,,OK,,,https://monenfant.com.br/products.json,Shopify, shopify,,57720
+72173,mulheresbionicas.com.br,https,Shopify,,OK,,,OK,,,https://www.mulheresbionicas.com.br/products.json,Shopify, shopify,,57732
+72327,ofertasdia.com.br,https,Shopify,,OK,,,OK,,,,," shopify, tray",,
+72411,outlettshop.com.br,https,Shopify,,OK,,,OK,,,https://outlettshop.com.br/products.json,Shopify, shopify,,57891
+72431,pantynova.com,https,Shopify,,OK,,,OK,,,https://www.pantynova.com/products.json,Shopify, shopify,,57904
+72442,pattyskitchen.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+72493,piassaquec.com.br,https,Shopify,,OK,,,OK,,,https://piassaquec.com.br/products.json,Shopify," vtex, shopify",,57953
+72556,portalcasashop.com.br,https,Shopify,,OK,,,OK,,,https://portalcasashop.com.br/products.json,Shopify, shopify,,57992
+72678,recargaclub.com.br,https,Shopify,,OK,,,OK,,,https://www.recargaclub.com.br/products.json,Shopify," shopify, tray",,58073
+72895,shoppweb.com.br,https,Shopify,,OK,,,OK,,,https://shoppweb.com.br/products.json,Shopify, shopify,,
+72907,showhobby.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+72909,shoyoroll.com.br,https,Shopify,,OK,,,OK,,,,, shopify,,58224
+72934,slomashop.com.br,https,Shopify,,OK,,,OK,,,https://slomashop.com.br/products.json,Shopify, shopify,,58243
+72955,sohappy.com.br,https,Shopify,,OK,,,OK,,,https://sohappy.com.br/products.json,Shopify, shopify,,58257
+72970,sooplyinbox.com.br,https,Shopify,,OK,,,OK,,,https://sooplyinbox.com.br/products.json,Shopify, shopify,,
+73059,suspire.com.br,https,Shopify,,OK,,,OK,,,,, shopify,,58319
+73067,tasuave.com.br,https,Shopify,,OK,,,OK,,,https://tasuave.com.br/products.json,Shopify, shopify,,58323
+73200,triangl.com,https,Shopify,,OK,,,OK,,,https://triangl.com/products.json,Shopify, shopify,,58400
+73263,uoro.com.br,https,Shopify,,OK,,,OK,,,https://uoro.com.br/products.json,Shopify, shopify,,58444
+73307,vainanet.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+73331,velvetstudio.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+73383,vitairis.com.br,https,Shopify,,OK,,,OK,,,https://www.vitairis.com.br/products.json,Shopify, shopify,,58519
+73474,yourcard.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+73518,164beauty.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.164beauty.com.br/XMLData/facebook.xml,https://www.164beauty.com.br/FILES/_xml/facebook.xml",Jet, jet,,58613
+73545,allinboxes.com.br,https,UOL Loja Virtual,,OK,,,OK,,,,, tray,,
+73630,biribol.com,https,UOL Loja Virtual,,OK,,,OK,,,,,Não identificada,,58696
+73673,cappadociaacessorios.com.br,https,UOL Loja Virtual,,OK,,,OK,,,,, jet,,
+73696,chocolateecia.com.br,https,UOL Loja Virtual,,OK,,,OK,,,https://www.chocolateecia.com.br/XMLData/facebook.xml,Vtex, jet,,58746
+73729,daguardalfg.com.br,https,UOL Loja Virtual,,OK,,,OK,,,,,Não identificada,,
+73745,dfreitasprodutosnaturais.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.dfreitasprodutosnaturais.com.br/XMLData/facebook.xml,https://www.dfreitasprodutosnaturais.com.br/FILES/_xml/facebook.xml",Jet, jet,,
+73825,farmaciadroganova.com.br,https,UOL Loja Virtual,,OK,,,OK,,,,,Não identificada,,
+73879,guinastore.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.guinastore.com.br/XMLData/facebook.xml,https://www.guinastore.com.br/FILES/_xml/facebook.xml",Jet, jet,,
+73929,jfmilitar.com.br,https,UOL Loja Virtual,,OK,,,OK,,,,, jet,,
+73932,jsisuprimentos.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.jsisuprimentos.com.br/XMLData/googleshopping.xml,https://www.jsisuprimentos.com.br/XMLData/facebook.xml,https://www.jsisuprimentos.com.br/media/amfeed/feeds/google.xml,https://www.jsisuprimentos.com.br/FILES/_xml/facebook.xml,https://www.jsisuprimentos.com.br/FILES/_xml/google.xml,https://www.jsisuprimentos.com.br/FILES/_xml/google1.xml,https://www.jsisuprimentos.com.br/api/comparadores/googleshopping","Vtex,Magento,EzCommerce/Lynx,Moovin", jet,,58920
+73940,kesiaartes.com.br,https,UOL Loja Virtual,,OK,,,OK,,,,, loja integrada,,
+74023,lojaneurouptec.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.lojaneurouptec.com.br/XMLData/facebook.xml,https://www.lojaneurouptec.com.br/FILES/_xml/facebook.xml",Jet, jet,,58992
+74026,lojapaulaxavier.com.br,https,UOL Loja Virtual,,OK,,,OK,,,,,Não identificada,,58994
+74112,miradesign.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.miradesign.com.br/XMLData/facebook.xml,https://www.miradesign.com.br/FILES/_xml/facebook.xml","Vtex,EzCommerce/Lynx",Não identificada,,
+74114,mitigaction.com.br,https,UOL Loja Virtual,,OK,,,OK,,,,, wix,,59056
+74134,mspuniformes.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.mspuniformes.com.br/XMLData/googleshopping.xml,https://www.mspuniformes.com.br/XMLData/facebook.xml,https://www.mspuniformes.com.br/FILES/_xml/facebook.xml",Jet, jet,,
+74162,novaesquadrias.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.novaesquadrias.com.br/XMLData/facebook.xml,https://www.novaesquadrias.com.br/FILES/_xml/facebook.xml",Jet, jet,,59094
+74268,revestbr.com.br,https,UOL Loja Virtual,,OK,,,OK,,,,, jet,,
+74314,skinconfort.com.br,https,UOL Loja Virtual,,OK,,,OK,,,"https://www.skinconfort.com.br/XMLData/facebook.xml,https://www.skinconfort.com.br/FILES/_xml/facebook.xml","Vtex,EzCommerce/Lynx",Não identificada,,
+74478,lovestyle.com.br,https,VNDA,,OK,,,OK,,,,, vnda,,
+74672,dazroupaz.com.br,https,Vtex,,OK,,,OK,,,https://www.dazroupaz.com.br/XMLData/facebook.xml,Vtex, vtex,,59444
+74730,ene2ese.com.br,https,Vtex,,OK,,,OK,,,https://www.ene2ese.com.br/XMLData/googleshopping.xml,Vtex, vtex,,59469
+74762,flamingocasa.com.br,https,Vtex,,OK,,,OK,,,https://www.flamingocasa.com.br/media/amfeed/feeds/google.xml,Magento, vtex,,
+74873,karinreiter.com.br,https,Vtex,,OK,,,OK,,,https://www.karinreiter.com.br/XMLData/googleshopping.xml,Vtex, vtex,,59540
+74922,lojahd.com.br,http,Vtex,,OK,,,OK,,,,, Wordpress,,59568
+75245,12amplus.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+75303,adaptwear.com.br,https,Wix,,OK,,,OK,,,,, wix,,59778
+75448,apparenceformen.com.br,https,Wix,,OK,,,OK,,,,, wix,,59891
+75454,aqualungrecords.com.br,https,Wix,,OK,,,OK,,,,, wix,,59894
+75569,auto700.com.br,https,Wix,,OK,,,OK,,,,, wix,,59984
+75594,bagport.com.br,https,Wix,,OK,,,OK,,,,, wix,,60007
+75805,camilabrandao.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+75840,carloshusekfotografia.com.br,https,Wix,,OK,,,OK,,,,,Não identificada,,60196
+75876,casamizta.com.br,https,Wix,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/001/999/947/themes/common/fb_catalog.xml?version=69,https://casamizta.com.br/google_shopping.xml/",NuvemShop, nuvemshop,,60223
+75968,cilfrapisos.com.br,https,Wix,,OK,,,OK,,,,, wix,,60293
+75986,clicktvprepago.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+75993,clothesstyles.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+76020,expertisenegocios.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+76072,cozinhaecasa.com.br,https,Wix,,OK,,,OK,,,,, wix,,60368
+76125,danielarosina.com.br,https,Wix,,OK,,,OK,,,,, wix,,60397
+76237,dolceperte.com.br,https,Wix,,OK,,,OK,,,,, wix,,60477
+76238,domgemiv.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+76250,doupsp.com.br,https,Wix,,OK,,,OK,,,,, wix,,60488
+76276,easyhomedesign.com.br,https,Wix,,OK,,,OK,,,,, wix,,60507
+76286,ecomakers.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+76287,ecommerceintegrado.com.br,https,Wix,,OK,,,OK,,,,, wix,,60517
+76358,lojasdiamante.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+76469,fashionjeans.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+76499,ferronattochocolatesfinos.com.br,https,Wix,,OK,,,OK,,,,, wix,,60686
+76516,fio2.com.br,https,Wix,,OK,,,OK,,,,, wix,,60700
+76570,fortunatamoda.com.br,https,Wix,,OK,,,OK,,,,, wix,,60742
+76660,gomeat.com.br,https,Wix,,OK,,,OK,,,,, wix,,60809
+76677,graficahbprint.com.br,https,Wix,,OK,,,OK,,,,, wix,,60824
+76736,hcerimonial.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+76759,historiasqueosrostoscontam.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+76819,importingcenter.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+76830,injetarecursos.com.br,https,Wix,,OK,,,OK,,,,, wix,,60939
+76924,kartclub.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+77025,levami.com.br,https,Wix,,OK,,,OK,,,,, wix,,61084
+77059,livecohabitats.com.br,https,Wix,,OK,,,OK,,,,, wix,,61108
+77064,en.livrariacolegial.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+77084,lojachico.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+77115,lojamusicaearte.com.br,https,Wix,,OK,,,OK,,,,, wix,,61149
+77153,loubuccaemariee.com.br,https,Wix,,OK,,,OK,,,,, wix,,61176
+77192,lyradasartes.com.br,https,Wix,,OK,,,OK,,,,, wix,,61209
+77273,mariahercilia.com.br,https,Wix,,OK,,,OK,,,,, wix,,61274
+77315,medcodigos.com.br,https,Wix,,OK,,,OK,,,,, wix,,61305
+77349,gunthersolucoes.com,https,Wix,,OK,,,OK,,,,, wix,,
+77394,misssaigon.com.br,https,Wix,,OK,,,OK,,,,, wix,,61363
+77421,mokshayoga.com.br,https,Wix,,OK,,,OK,,,,, wix,,61386
+77532,newvisioon.com.br,https,Wix,,OK,,,OK,,,,, wix,,61476
+77639,opticaestrela.com.br,https,Wix,,OK,,,OK,,,,, wix,,61552
+77742,perfumebarmilano.com.br,https,Wix,,OK,,,OK,,,,, wix,,61632
+77853,pratu.com.br,https,Wix,,OK,,,OK,,,,, wix,,61717
+77888,projetosfuncionais.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+78044,sableblancoficial.com.br,https,Wix,,OK,,,OK,,,,, wix,,61869
+78058,saliens.com.br,https,Wix,,OK,,,OK,,,,, wix,,61878
+78063,samadhico.com.br,https,Wix,,OK,,,OK,,,,, wix,,61881
+78099,schultz44.com.br,https,Wix,,OK,,,OK,,,,, wix,,61910
+78119,sejapreciosa.com.br,https,Wix,,OK,,,OK,,,,, wix,,61922
+78138,seuzeformen.com.br,https,Wix,,OK,,,OK,,,,, wix,,61937
+78165,showupstudio.com.br,https,Wix,,OK,,,OK,,,,, wix,,61956
+78181,sixsunglasses.com.br,https,Wix,,OK,,,OK,,,,, wix,,
+78182,skellig.com.br,https,Wix,,OK,,,OK,,,,,Não identificada,,
+78192,sndistribuidora.com.br,https,Wix,,OK,,,OK,,,,, wix,,61980
+78214,soraquetes.com.br,https,Wix,,OK,,,OK,,,,, wix,,61999
+78358,terepraserfeliz.com.br,https,Wix,,OK,,,OK,,,,, wix,,62111
+78406,toazzaimoveis.com.br,https,Wix,,OK,,,OK,,,,, wix,,62146
+78710,wishlistbrecho.com.br,https,Wix,,OK,,,OK,,,,, wix,,62367
+78744,zafferalfaiataria.com.br,https,Wix,,OK,,,OK,,,,, wix,,62390
+78751,zblsemijoias.com,https,Wix,,OK,,,OK,,,,, wix,,
+78753,zemeo.com.br,https,Wix,,OK,,,OK,,,,, wix,,62398
+78874,abolha.com.br,http,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+78969,dobran.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+79031,affigueiredo.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,62629
+79052,agenciaformuladigital.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,62647
+79234,alldresses.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+79260,almofadasmagicas.com.br,http,WooCommerce,,OK,,,OK,,,,, Loja Suspensa,,
+79272,alphamultimarcasbh.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,62817
+79286,altotrico.com.br,https,WooCommerce,,OK,,,OK,,,,, Wordpress,,
+79350,amendoimramosloja.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+79354,americanburrsnails.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce, tray",,62886
+79424,anapamplona.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,62949
+79434,ancorapublicacoes.com.br,https,WooCommerce,,OK,,,OK,,,"https://ancorapublicacoes.com.br/XMLData/googleshopping.xml/,https://ancorapublicacoes.com.br/XMLData/facebook.xml/,https://ancorapublicacoes.com.br/media/amfeed/feeds/google.xml/,https://ancorapublicacoes.com.br/FILES/_xml/facebook.xml/,https://ancorapublicacoes.com.br/FILES/_xml/google.xml/,https://ancorapublicacoes.com.br/FILES/_xml/google1.xml/","Vtex,Magento,EzCommerce/Lynx", woocommerce,,62957
+79455,mardejoias.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,62977
+79477,animalart.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,62996
+79499,anotheroom.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,63015
+79509,antoniobandeiras.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+79606,arduinosantaefigenia.com.br,https,WooCommerce,,OK,,,OK,,,,," woocommerce, wix",,
+79717,arteemeva.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+79726,artenaescrita.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+79830,atacadaodocabelo.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,63288
+79857,ateliecrislima.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,63313
+79875,ateliekarinegermanowicz.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+79895,atelierlindalele.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+79922,atitudewines.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,63364
+79930,atmawine.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,63370
+80001,autopecasmcqueen.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,63429
+80025,aymesemprebela.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+80055,babyfarm.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+80135,bandasueste.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,63538
+80169,baronlulu.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,63566
+80171,barraybarra.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,63568
+80190,baskabrasil.com.br,https,WooCommerce,,OK,,,OK,,,,, linx,,63585
+80239,becflores.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+80305,bellaintime.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+80398,betopia.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+80513,bisolebolzan.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+80551,blessimportstore.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+80575,bmedph.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,63884
+80697,boutiquemiss7.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,63986
+80759,bravapesca.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+80824,distakpresentes.com,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,64085
+80848,brothersinarmsbrasil.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,64104
+80855,brunacalejon.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,64110
+80946,bydarling.com.br,https,WooCommerce,,TemporaryRedirect,,,TemporaryRedirect,,,,,,,64180
+81062,calantha.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+81072,callastore.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+81075,camaboxoutlet.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,64283
+81121,canaldeofertasepromocoes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,64322
+81199,cariocafitmoda.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+81212,carminasagricola.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+81218,carolcoxinhas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,64402
+81303,casadocriadorpetshop.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+81341,casamaju.com.br,https,WooCommerce,,OK,,,OK,,,,, tray,,
+81362,casasoave.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,64514
+81411,cavessantacruz.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+81558,checkofertas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+81594,choicevibe.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,64714
+81634,cidade2000.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+81668,citroervas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,64769
+81698,cleanallguarulhos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,64793
+81788,coachsuplementos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,64860
+81797,codegarage.com.br,https,WooCommerce,,OK,,,OK,,,,, jet,,
+81963,conectarsites.com.br,https,WooCommerce,,OK,,,OK,,,,, jet,,64998
+82034,cookcoifas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,65056
+82185,crislaverie.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,65181
+82228,cuidesebem.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+82277,curtoesporte.com,https,WooCommerce,,OK,,,OK,,,,, Wordpress,,
+82338,danibarretopatisserie.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,65299
+82347,danielmoreno.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,65308
+82352,danividiz.com.br,https,WooCommerce,,OK,,,OK,,,,, Loja Suspensa,,
+82360,darksidebeer.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,65319
+82388,dayannecalcados.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,65342
+82438,decoratoatelie.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,65386
+82586,despertandovalor.com.br,https,WooCommerce,,OK,,,OK,,,,, Loja Suspensa,,
+82655,diferentemente.com.br,https,WooCommerce,,OK,,,OK,,,,, Loja Suspensa,,65553
+82744,distrilife.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+82762,divinusdoceria.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,65636
+82774,dksite.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,65644
+82784,dmrosadodeserto.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+82805,docemaison.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,65672
+82859,donaatela.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce, shopify, magento, wix",,
+82872,donalouacessorios.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,65725
+82955,drevil.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+82991,drsom.com.br,https,WooCommerce,,OK,,,OK,,,,, Wordpress,,65820
+83060,dynamicstyle.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,65882
+83134,edesigner.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+83181,editorarobecca.com.br,https,WooCommerce,,OK,,,OK,,,,, wix,,65981
+83264,elegantmodas.com.br,https,WooCommerce,,OK,,,OK,,,,, nuvemshop,,66046
+83266,elementarium.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,66048
+83365,emporioandreresende.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+83502,eroticasexy.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,66241
+83519,escoladedrones.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+83542,espacoandaluz.com.br,https,WooCommerce,,OK,,,OK,,,,," woocommerce, wix",,66276
+83576,esquematizei.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+83632,estoquemedico.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,66350
+83665,eticacongressos.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+83685,euprecisovoceprecisa.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,66396
+83689,eurobooks.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,66399
+83702,eutenhosonhos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,66408
+83706,evandrosilva.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,66411
+83821,falandodeecommerce.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+83822,falcaoveiculos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,66505
+83878,fatimabolosesalgados.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,66551
+83905,fcartes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,66570
+84007,filtrosmax.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+84021,finoourojoias.com.br,https,WooCommerce,,OK,,,OK,,,,, Wordpress,,66661
+84026,fioresehortifruti.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,66666
+84124,floriculturagrupounidas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,66743
+84153,fluxorsuits.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+84215,formasebandejas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,66820
+84225,fortalezatour.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,66829
+84246,foxeer.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,66846
+84277,freebiz.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,66869
+84336,furodeorelhas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,66914
+84384,gallanicarshop.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+84507,gicds.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,67049
+84539,gissabicalho.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,67076
+84605,goobie.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,67129
+84712,gritaah.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+84808,guriaamei.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+84975,hobamini.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,67429
+85044,hoteljardimemilia.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,67482
+85251,imperiomusic.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+85255,implantcare.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,67642
+85395,institutobiblicoteologico.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+85410,institutoipb.com.br,https,WooCommerce,,OK,,,OK,,,,," woocommerce, wix",,67773
+85447,inventosistemas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,67803
+85449,invictusmultimarcas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+85510,itechrp.com.br,https,WooCommerce,,OK,,,OK,,,,," woocommerce, wix",,
+85553,janepresentes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+85575,jcbandeiras.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,67908
+85607,jfriasgomes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,67933
+85720,jrctecnologia.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+85726,jrossetto.com.br,https,WooCommerce,,OK,,,OK,,,,," woocommerce, magento",,68031
+85768,jussaranunes.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,68067
+85790,kahdog.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,68084
+85805,kamark.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,68099
+85808,kamoo.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,68102
+85911,kirituhi.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+86017,lacasapresentes.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,68266
+86065,lalaonline.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,68308
+86069,laliepulali.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,68312
+86126,laslinrj.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,68360
+86177,lbabo.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+86284,letsgomanaus.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+86301,levteck.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,68498
+86371,lilyroseacessorios.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,68559
+86374,limaorosabeachwear.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,68562
+86426,literaturaerrante.com.br,https,WooCommerce,,OK,,,OK,,,,," woocommerce, wix",,
+86470,ljduchaeaquecedores.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,68640
+86571,lojadasestantes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,68722
+86572,lojadaslentes.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,68723
+86717,lojanectarplus.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,68831
+86722,lojanutrifit.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,68835
+86879,loucasporjoias.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+86934,ludorosemijoias.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,69007
+86976,lumnenlustres.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,69042
+87019,lylymodas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+87038,maclemon.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+87117,maiscestas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+87247,maracarevestimentos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+87250,maratonacantareira.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,69261
+87318,mariannefitas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,69313
+87322,mariarendeiraacessorios.com.br,https,WooCommerce,,OK,,,OK,,,,, tray,,
+87340,mariquinhastore.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,69335
+87428,maurilioetiquetas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,69407
+87494,mdfearte.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,69466
+87642,mercadodosfornecedores.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,69576
+87685,merrycloud.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+87696,mestresdabarbearia.com.br,https,WooCommerce,,OK,,,OK,,,,, jet,,69619
+87700,metalbrindes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,69622
+87706,metaltelhascuritiba.com.br,https,WooCommerce,,OK,,,OK,,,,, jet,,69627
+87745,mezanini.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+87746,mezmiz.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,69658
+87836,minascenterpneus.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,69728
+87873,minoxidilsp.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+87934,mminfoseg.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,69804
+88001,momstogether.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce, tray",,69860
+88017,monpetitparfum.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,69874
+88040,morenarecicla.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+88091,movelinteligente.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,69932
+88122,mrtonline.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+88127,msdentalshop.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,69964
+88204,mundodospersonalizados.com.br,https,WooCommerce,,OK,,,OK,,,,, vtex,,70024
+88256,myimports.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,70069
+88306,nandafreire.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,70105
+88365,natuorganics.com,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,70153
+88381,naturezapet.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,70163
+88475,newlifeessencias.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,70237
+88480,newtontenis.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,70242
+88482,newwaycosmeticos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+88550,noeh.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,70298
+88675,nutrisin.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,70388
+88788,ohmarket.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,70475
+88809,olbeer.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,70491
+88828,oliq.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,70508
+88875,onebe.com.br,https,WooCommerce,,OK,,,OK,,,,, Loja Suspensa,,
+88915,optlaser.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+88946,orgonicos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,70598
+88956,originaloutlet.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+89033,ousee.com.br,https,WooCommerce,,OK,,,OK,,,,, loja integrada,,
+89050,clubeoutshop.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+89328,pequenosol.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,70919
+89385,petfleur.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,70964
+89405,petponterasa.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,70981
+89469,pimentaseconservas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,71027
+89506,piscinasportorico.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,71057
+89557,plantaefert.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+89641,polohipica.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,71166
+89688,pordios.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,71205
+89712,portalnogueira.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,71223
+89736,possessive.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,71242
+89754,powermang.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,71257
+89889,progripbrazil.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,71371
+89943,psicologiaaplicadaintegral.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,71417
+89960,pulseiraparafestabrasilia.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+89991,qishop.com.br,https,WooCommerce,,OK,,,OK,,,,," woocommerce, wix",,
+90059,quironpharma.com,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,71505
+90211,redspace.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+90267,relogiospremium.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,71670
+90303,reptiliano.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,71699
+90309,resgatecnica.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,71705
+90359,revival.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+90360,revivanutricao.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+90414,ripecas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,71786
+90457,rocketandroll.com.br,http,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+90472,rodolfolasermdf.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+90558,rrsmart.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+90575,rumocomunicacao.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,71909
+90610,sabresafety.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,71937
+90628,sageneditora.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,71953
+90663,salsamalagueta.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,71984
+90776,saudehappy.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,72065
+90864,semearnutricaoinfantil.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+90913,serenov9.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+91061,shopwoman.com.br,https,WooCommerce,,OK,,,OK,,,https://shopwoman.com.br/products.json/,Shopify, woocommerce,,72296
+91122,sintoniadasaude.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,72346
+91175,slsbrasil.com.br,http,WooCommerce,,OK,,,OK,,,,, woocommerce,,72388
+91188,smartmaq.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,72398
+91208,snoozedesign.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,72416
+91232,sofaemesa.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+91244,sogenericos.com.br,https,WooCommerce,,OK,,,OK,,,,, Loja Suspensa,,
+91290,somoletons.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+91296,sonhodecristal.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,72485
+91422,squashpro.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,72583
+91441,st4rt.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,72597
+91471,sterila.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+91515,studioak2.com.br,https,WooCommerce,,OK,,,OK,,,,, jet,,72657
+91526,studiokor.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,72665
+91543,suacarapresentes.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,72679
+91564,subsmart.com.br,https,WooCommerce,,OK,,,OK,,,https://www.subsmart.com.br/products.json/,Shopify, woocommerce,,72692
+91583,sunata.com.br,https,WooCommerce,,OK,,,OK,,,,, tray,,72708
+91589,sunsexshop.com.br,https,WooCommerce,,OK,,,OK,,,,, Loja Suspensa,,
+91641,supremavidro.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,72753
+91729,tanamaoshop.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,
+91799,moveispapucaia.com,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+91866,teray.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,72930
+91869,terkpecas.com.br,https,WooCommerce,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/140472176/gshopping,mercado shops, mercado shops,140472176,72932
+91951,thrivia.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+92030,tonavaranda.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,73051
+92105,trampolimbrinquedos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,73107
+92110,transpirex.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,73110
+92162,triotecidos.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+92185,tropicaliaswimwear.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+92218,tudoatual.com.br,https,WooCommerce,,OK,,,OK,,,https://tudoatual.com.br/products.json/,Shopify, woocommerce,,73197
+92274,uaifly.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,73244
+92458,usewow.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,73396
+92578,vendasoliveira.com.br,https,WooCommerce,,OK,,,OK,,,,,Não identificada,,73499
+92663,victoriacosmetico.com.br,https,WooCommerce,,OK,,,OK,,,,, Loja Suspensa,,
+92741,vinicolathomasi.com.br,http,WooCommerce,,OK,,,OK,,,,,Não identificada,,
+92831,vivaespetos.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,73710
+92882,voluphia.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,73751
+92908,vximper.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+92917,wakpecas.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,
+92949,webarchitect.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,73805
+93012,williamimportados.com.br,https,WooCommerce,,OK,,,OK,,,,, Wordpress,,
+93057,wounner.com.br,https,WooCommerce,,OK,,,OK,,,,," vtex, woocommerce",,73892
+93115,yamuna.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,73945
+93219,zeusphp.com.br,https,WooCommerce,,OK,,,OK,,,,, woocommerce,,74033
+93346,dasmaria.com.br,https,xTech,,OK,,,OK,,,,, Loja Suspensa,,
+93392,fineshoes.com.br,https,xTech,,OK,,,OK,,,,,Não identificada,,
+93594,femendonca.com,https,Shopify,,OK,,,OK,,,https://femendonca.com/products.json,Shopify, shopify,,74266
+93603,icohjoias.com,https,Shopify,,OK,,,OK,,,https://icohjoias.com/products.json,Shopify, shopify,,74272
+93665,skaday.com.br,https,Shopify,,OK,,,OK,,,,, shopify,,
+93746,alissicbr.co,https,Shopify,,OK,,,OK,,,https://alissicbr.co/products.json,Shopify, shopify,,74375
+93787,texpapel.net,https,Shopify,,OK,,,OK,,,https://www.texpapel.net/products.json,Shopify, shopify,,74408
+93820,passoapassomodas.com.br,https,Shopify,,OK,,,OK,,,https://passoapassomodas.com.br/products.json,Shopify, shopify,,74433
+93845,applefontis.com,https,Shopify,,OK,,,OK,,,https://applefontis.com/products.json,Shopify, shopify,,74453
+93848,pathylimareal.com.br,https,Shopify,,OK,,,OK,,,https://pathylimareal.com.br/products.json,Shopify, shopify,,74455
+93897,mensbazar.com.br,https,Shopify,,OK,,,OK,,,,, shopify,,
+93980,delou.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+94018,nillosjeans.com,http,Shopify,,OK,,,OK,,,,,Não identificada,,
+94023,animetododialoja.com.br,https,Shopify,,OK,,,OK,,,,, prestashop,,74597
+94058,loja.amorespresso.com.br,https,Shopify,,OK,,,OK,,,https://loja.amorespresso.com.br/products.json,Shopify, shopify,,74627
+94107,zonitshop.com.br,https,Shopify,,OK,,,OK,,,https://zonitshop.com.br/products.json,Shopify, shopify,,74662
+94208,superie.com.br,https,Shopify,,OK,,,OK,,,https://www.superie.com.br/products.json,Shopify, shopify,,74736
+94312,tudoparaseupet.com,https,Shopify,,OK,,,OK,,,https://tudoparaseupet.com/products.json,Shopify, shopify,,74818
+94327,joydecoracao.com,https,Shopify,,OK,,,OK,,,https://joydecoracao.com/products.json,Shopify, shopify,,74830
+94427,weenatikuna.com,https,Shopify,,OK,,,OK,,,https://weenatikuna.com/products.json,Shopify, shopify,,74903
+94432,pyramid.cc,https,Shopify,,OK,,,OK,,,,, shopify,,
+94445,amityamity.com.br,https,Shopify,,OK,,,OK,,,https://amityamity.com.br/products.json,Shopify, shopify,,74915
+94559,fonesimportados.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+94570,loja.novosparanos.com.br,https,Shopify,,OK,,,OK,,,https://loja.novosparanos.com.br/products.json,Shopify, shopify,,75011
+94580,tendenciamodas.com,https,Shopify,,OK,,,OK,,,https://tendenciamodas.com/products.json,Shopify, shopify,,75018
+94582,bazarvitoriabonito.com,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+94636,petalasdamoda.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,75064
+94683,copclub.com.br,https,Shopify,,OK,,,OK,,,https://www.copclub.com.br/products.json,Shopify, shopify,,75097
+94717,vimdela.com.br,https,Shopify,,OK,,,OK,,,https://vimdela.com.br/products.json,Shopify, shopify,,75127
+94805,amazwall.com.br,https,Shopify,,OK,,,OK,,,https://www.amazwall.com.br/products.json,Shopify, shopify,,75198
+94816,biancabouzon.com,https,Shopify,,OK,,,OK,,,https://biancabouzon.com/products.json,Shopify, shopify,,75204
+94837,umaacessorios.com,https,Shopify,,OK,,,OK,,,https://umaacessorios.com/products.json,Shopify, shopify,,75222
+94860,ayapitaya.com.br,https,Shopify,,OK,,,OK,,,https://www.ayapitaya.com.br/products.json,Shopify, shopify,,75241
+94920,santaplantabrasil.com,https,Shopify,,OK,,,OK,,,https://santaplantabrasil.com/products.json,Shopify, shopify,,75285
+94923,agencygrowup.com,https,Shopify,,OK,,,OK,,,https://agencygrowup.com/products.json,Shopify, shopify,,75288
+95046,xodoacessorios.com.br,https,Shopify,,OK,,,OK,,,https://www.xodoacessorios.com.br/products.json,Shopify, shopify,,75384
+95050,gijostore.com.br,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+95215,leconceptt.com.br,https,Shopify,,OK,,,OK,,,https://leconceptt.com.br/products.json,Shopify, shopify,,75527
+95264,jayspecs.com.br,https,Shopify,,OK,,,OK,,,https://jayspecs.com.br/products.json,Shopify, shopify,,75569
+95265,paraisodasofertas.shop,https,Shopify,,OK,,,OK,,,https://www.paraisodasofertas.shop/products.json,Shopify, shopify,,75570
+95454,barbaroot.com.br,https,Shopify,,OK,,,OK,,,,, shopify,,75718
+95550,beeliv.club,https,Shopify,,OK,,,OK,,,https://beeliv.club/products.json,Shopify, shopify,,75794
+95593,shippays.com,https,Shopify,,OK,,,OK,,,https://www.shippays.com/products.json,Shopify, shopify,,75823
+95658,linhavictoriaferrari.com.br,https,Shopify,,OK,,,OK,,,https://linhavictoriaferrari.com.br/products.json,Shopify, shopify,,75877
+95688,inovacontroles.com.br,https,Shopify,,OK,,,OK,,,https://www.inovacontroles.com.br/products.json,Shopify, shopify,,75903
+95700,arushamodafesta.com.br,https,Shopify,,OK,,,OK,,,https://arushamodafesta.com.br/products.json,Shopify, shopify,,75912
+95725,somrio.com,https,Shopify,,OK,,,OK,,,https://somrio.com/products.json,Shopify, shopify,,75933
+95732,apostolosonline.iclbrasil.org,https,Shopify,,OK,,,OK,,,https://apostolosonline.iclbrasil.org/products.json,Shopify, shopify,,75940
+95786,aurora-collection.com,https,Shopify,,OK,,,OK,,,,,Não identificada,,
+95874,mercurytech.com.br,http,Shopify,,OK,,,OK,,,,,Não identificada,,76066
+95970,ecasadecor.com.br,https,Vtex,,OK,Impossível conectar-se ao servidor remoto,,OK,,,,,Não identificada,,76160
+96014,atelierclararosas.com,http,xTech,,OK,,,OK,,,,,Não identificada,,76204
+96060,lojadocomandante.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'lojadocomandante.com.br',,Erro,O nome remoto não pôde ser resolvido: 'lojadocomandante.com.br',,,,,,76248
+96151,portajaleco.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'portajaleco.com.br',,Erro,O nome remoto não pôde ser resolvido: 'portajaleco.com.br',,,,,,76338
+96152,jubilababy.com.br,http,xTech,,Erro,O nome remoto não pôde ser resolvido: 'jubilababy.com.br',,Erro,O nome remoto não pôde ser resolvido: 'jubilababy.com.br',,,,,,76339
+96210,minoxidilkirklanddobrasil.com,http,NuvemShop,,OK,,,OK,,,,,Não identificada,,76394
+96240,valkyriasclothing.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,76423
+96258,sotaramps.com.br,https,Vtex,,OK,,,OK,,,,,Não identificada,,76441
+96290,mlacessorios.net.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'mlacessorios.net.br',,Erro,O nome remoto não pôde ser resolvido: 'mlacessorios.net.br',,,,,,76473
+96378,lbelle.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'lbelle.com.br',,Erro,O nome remoto não pôde ser resolvido: 'lbelle.com.br',,,,,,76560
+96405,oficinafu.com.br,https,Vtex,,OK,,,OK,,,,, tray,,76586
+96541,marcialmaquinas.com.br,https,xTech,,OK,,,OK,,,,,Não identificada,,76718
+96555,amoraeditora.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'amoraeditora.com.br',,Erro,O nome remoto não pôde ser resolvido: 'amoraeditora.com.br',,,,,,76732
+96596,noktadetectores.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'noktadetectores.com.br',,Erro,O nome remoto não pôde ser resolvido: 'noktadetectores.com.br',,,,,,76771
+96611,amaro.com,https,,,OK,,,OK,,,,,Não identificada,,76786
+96630,twinklepiercing.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,76805
+96652,miagrife.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,76826
+96659,evolutesports.com.br,https,xTech,,OK,,,OK,,,,," vtex, lynx",,76833
+96704,ww25.smartdeal.com.br,http,Shopify,,OK,,,OK,,,,,Não identificada,,
+96712,dynamitebrazil.com.br/?lang=en,https,Vtex,,OK,,,OK,,,,,Não identificada,,
+96734,vanillatshirt.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'vanillatshirt.com.br',,Erro,O nome remoto não pôde ser resolvido: 'vanillatshirt.com.br',,,,,,
+96737,logati.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'logati.com.br',,Erro,O nome remoto não pôde ser resolvido: 'logati.com.br',,,,,,76911
+96782,unnishop.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,76952
+96796,planetapresentes.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'planetapresentes.com.br',,Erro,O nome remoto não pôde ser resolvido: 'planetapresentes.com.br',,,,,,76966
+96872,estiloshopping.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/002/059/948/themes/common/fb_catalog.xml?version=18,https://estiloshopping.com.br/google_shopping.xml/",NuvemShop,Não identificada,,77040
+96961,silviacarvalho.com,https,xTech,,OK,,,OK,,,,, vtex,,77128
+96968,truz.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'truz.com.br',,Erro,O nome remoto não pôde ser resolvido: 'truz.com.br',,,,,,77135
+97057,senhorageleia.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,77220
+97102,ntnoutlet.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'ntnoutlet.com.br',,Erro,O nome remoto não pôde ser resolvido: 'ntnoutlet.com.br',,,,,,
+97145,isloja.com.br,https,Shopify,,OK,,,OK,,,,, shopify,,77305
+97162,lojalambari.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'lojalambari.com.br',,Erro,O nome remoto não pôde ser resolvido: 'lojalambari.com.br',,,,,,
+97215,showcaseimports.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'showcaseimports.com.br',,Erro,O nome remoto não pôde ser resolvido: 'showcaseimports.com.br',,,,,,77374
+97254,faculfashion.com,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'faculfashion.com',,Erro,O nome remoto não pôde ser resolvido: 'faculfashion.com',,,,,,77413
+97255,pisano.com.ar,https,Vtex,,OK,,,OK,,,"https://www.pisano.com.ar/XMLData/googleshopping.xml,https://www.pisano.com.ar/products.json","Vtex,Shopify", vtex,,77414
+97284,acarlota.com.br,https,NuvemShop,,OK,,,OK,,,,, Wordpress,,77443
+97389,lojamagma.com.br,https,Vtex,,OK,,,OK,,,"https://www.lojamagma.com.br/XMLData/googleshopping.xml,https://www.lojamagma.com.br/XMLData/facebook.xml",Vtex, vtex,,77543
+97392,ibiacessorios.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,77546
+97454,kebalatelier.com,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'kebalatelier.com',,Erro,O nome remoto não pôde ser resolvido: 'kebalatelier.com',,,,,,77604
+97519,bananacool.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'bananacool.com.br',,Erro,O nome remoto não pôde ser resolvido: 'bananacool.com.br',,,,,,77666
+97594,hangarmotoshop.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'hangarmotoshop.com.br',,Erro,O nome remoto não pôde ser resolvido: 'hangarmotoshop.com.br',,,,,,77740
+97647,claudiabenini.com.br,http,xTech,,Erro,O nome remoto não pôde ser resolvido: 'claudiabenini.com.br',,Erro,O nome remoto não pôde ser resolvido: 'claudiabenini.com.br',,,,,,77791
+97674,cachacawardu.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,77818
+97770,rbmotos.com.br,https,Moovin,,OK,,,OK,,,https://www.rbmotos.com.br/api/comparadores/googleshopping,Moovin, moovin,,77912
+97799,mainbardolol.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'mainbardolol.com.br',,Erro,O nome remoto não pôde ser resolvido: 'mainbardolol.com.br',,,,,,77940
+97828,usediosmio.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'usediosmio.com.br',,Erro,O nome remoto não pôde ser resolvido: 'usediosmio.com.br',,,,,,77969
+97854,ideiasdefada.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'ideiasdefada.com.br',,Erro,O nome remoto não pôde ser resolvido: 'ideiasdefada.com.br',,,,,,77994
+97908,casatc.com.br,http,Moovin,,Erro,O nome remoto não pôde ser resolvido: 'casatc.com.br',,Erro,O nome remoto não pôde ser resolvido: 'casatc.com.br',,,,,,78046
+97928,casaimport.com.br,http,xTech,,Erro,O nome remoto não pôde ser resolvido: 'casaimport.com.br',,Erro,O nome remoto não pôde ser resolvido: 'casaimport.com.br',,,,,,78063
+97970,luckysdesign.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'luckysdesign.com.br',,Erro,O nome remoto não pôde ser resolvido: 'luckysdesign.com.br',,,,,,78104
+97986,mundooutlet.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'mundooutlet.com.br',,Erro,O nome remoto não pôde ser resolvido: 'mundooutlet.com.br',,,,,,78120
+97993,redsportonline.com.ar,https,Vtex,,OK,,,OK,,,https://www.redsportonline.com.ar/media/amfeed/feeds/google.xml,Magento, vtex,,78127
+98040,bomtravel.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'bomtravel.com.br',,Erro,O nome remoto não pôde ser resolvido: 'bomtravel.com.br',,,,,,78174
+98114,treinoecorrida.com.br,http,Moovin,,Erro,O nome remoto não pôde ser resolvido: 'treinoecorrida.com.br',,Erro,O nome remoto não pôde ser resolvido: 'treinoecorrida.com.br',,,,,,78246
+98140,marianedesign.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'marianedesign.com.br',,Erro,O nome remoto não pôde ser resolvido: 'marianedesign.com.br',,,,,,78272
+98193,nicoleleeusa.com.br,http,Vtex,,OK,,,OK,,,,,Não identificada,,78323
+98245,lojadocuteleiro.com,https,NuvemShop,,OK,,,OK,,,https://lojadocuteleiro.com/google_shopping.xml/,NuvemShop, nuvemshop,,
+98251,lojaviajaro.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'lojaviajaro.com.br',,Erro,O nome remoto não pôde ser resolvido: 'lojaviajaro.com.br',,,,,,78380
+98295,use1895.com.br/use1895,https,xTech,,OK,,,OK,,,,,Não identificada,,
+98359,revolucaokids.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'revolucaokids.com.br',,Erro,O nome remoto não pôde ser resolvido: 'revolucaokids.com.br',,,,,,78485
+98387,vergeimports.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'vergeimports.com.br',,Erro,O nome remoto não pôde ser resolvido: 'vergeimports.com.br',,,,,,78511
+98392,dropboy.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'dropboy.com.br',,Erro,O nome remoto não pôde ser resolvido: 'dropboy.com.br',,,,,,78516
+98404,vetshowclub.com.br,https,xTech,,OK,,,OK,,,,, tray,,78528
+98436,moovbydexter.com.ar,https,Vtex,,OK,,,OK,,,,,Não identificada,,78560
+98479,exceler.com.br,https,xTech,,OK,,,OK,,,,," vtex, lynx",,78600
+98491,conexaomobile.net,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'conexaomobile.net',,Erro,O nome remoto não pôde ser resolvido: 'conexaomobile.net',,,,,,78612
+98622,lee-jeans.com.ar,http,Vtex,,OK,,,OK,,,,,Não identificada,,78740
+98758,brunasbrand.com.br,https,xTech,,OK,,,OK,,,,, vtex,,78871
+98818,brinquebrilhe.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'brinquebrilhe.com.br',,Erro,O nome remoto não pôde ser resolvido: 'brinquebrilhe.com.br',,,,,,78929
+98862,pecasbrastempconsul.com.br,https,NuvemShop,,OK,,,OK,,,,," vtex, nuvem shop",,
+98922,eomundogira.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'eomundogira.com.br',,Erro,O nome remoto não pôde ser resolvido: 'eomundogira.com.br',,,,,,79029
+99035,belinhacalcados.com.br,https,Moovin,,OK,,,OK,,,https://www.belinhacalcados.com.br/api/comparadores/googleshopping,Moovin, moovin,,79136
+99065,digitalstamp.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'digitalstamp.com.br',,Erro,O nome remoto não pôde ser resolvido: 'digitalstamp.com.br',,,,,,79165
+99083,docevidastore.com.br,https,Vtex,,OK,,,OK,,,,, tray,,79182
+99123,drinkfinity.com.br,http,Vtex,,OK,,,OK,,,,, wix,,79219
+99149,rizeway.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'rizeway.com.br',,Erro,O nome remoto não pôde ser resolvido: 'rizeway.com.br',,,,,,79244
+99154,dancershoes.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'dancershoes.com.br',,Erro,O nome remoto não pôde ser resolvido: 'dancershoes.com.br',,,,,,79249
+99333,tintanopano.com,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,
+99439,rackshoes.com.ec,https,Vtex,,OK,,,OK,,,https://rackshoes.com.ec/products.json,Shopify, shopify,,79519
+99498,polipartes.com.br,http,Vtex,,Erro,O nome remoto não pôde ser resolvido: 'www.polipartes.com.br',,Erro,O nome remoto não pôde ser resolvido: 'www.polipartes.com.br',,,,,,79575
+99521,123utilidades.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: '123utilidades.com.br',,Erro,O nome remoto não pôde ser resolvido: '123utilidades.com.br',,,,,,79598
+99531,rabelopaiva.com.br,http,xTech,,OK,,,Erro,O nome remoto não pôde ser resolvido: 'www.rabelopaiva.com.br',,,,,,79608
+99580,fabchina.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'fabchina.com.br',,Erro,O nome remoto não pôde ser resolvido: 'fabchina.com.br',,,,,,79655
+99581,essencialbianco.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'essencialbianco.com.br',,Erro,O nome remoto não pôde ser resolvido: 'essencialbianco.com.br',,,,,,79656
+99588,vourezze.com.br,https,xTech,,OK,,,OK,,,,, tray,,79662
+99607,ufanatico.com,https,NuvemShop,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/185458250/gshopping,mercado shops, mercado shops,185458250,79681
+99670,poes.com.br,https,Shopify,,OK,,,OK,,,,," woocommerce, Wordpress",,79742
+99761,freebirdbrazil.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'freebirdbrazil.com.br',,Erro,O nome remoto não pôde ser resolvido: 'freebirdbrazil.com.br',,,,,,79831
+99765,coliseum.com.pe,https,Vtex,,OK,,,OK,,,"https://www.coliseum.com.pe/XMLData/googleshopping.xml,https://www.coliseum.com.pe/media/amfeed/feeds/google.xml","Vtex,Magento", vtex,,79835
+99766,dahli.com.br,http,xTech,,Erro,O nome remoto não pôde ser resolvido: 'dahli.com.br',,Erro,O nome remoto não pôde ser resolvido: 'dahli.com.br',,,,,,79836
+99767,doctore.com.br,https,NuvemShop,,OK,,,OK,,,,,Não identificada,,79837
+99769,metro.pe,https,Vtex,,OK,,,OK,,,,, vtex,,79839
+99776,universosmart.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'universosmart.com.br',,Erro,O nome remoto não pôde ser resolvido: 'universosmart.com.br',,,,,,79846
+99835,cubtech.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'cubtech.com.br',,Erro,O nome remoto não pôde ser resolvido: 'cubtech.com.br',,,,,,79904
+99886,byara.com.br,https,Shopify,,OK,,,OK,,,,, vtex,,79953
+99917,amieshoes.com.br,https,xTech,,OK,,,OK,,,,,Não identificada,,79983
+99941,kambogarimpos.com,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'kambogarimpos.com',,Erro,O nome remoto não pôde ser resolvido: 'kambogarimpos.com',,,,,,80007
+99953,bolsashop.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'bolsashop.com.br',,Erro,O nome remoto não pôde ser resolvido: 'bolsashop.com.br',,,,,,
+99981,prateleirasparaloja.com.br,https,xTech,,OK,,,OK,,,,, vtex,,80046
+99992,rosen.com.co,https,Vtex,,OK,,,OK,,,,, vtex,,80056
+100011,suplementosbefit.com.br,http,NuvemShop,,OK,,,OK,,,"http://suplementosbefit.com.br/XMLData/googleshopping.xml,http://suplementosbefit.com.br/XMLData/facebook.xml,http://suplementosbefit.com.br/media/amfeed/feeds/google.xml,http://suplementosbefit.com.br/FILES/_xml/facebook.xml,http://suplementosbefit.com.br/FILES/_xml/google.xml,http://suplementosbefit.com.br/FILES/_xml/google1.xml","Vtex,Magento,EzCommerce/Lynx"," woocommerce, Wordpress",,80073
+100025,nuni.com.br,https,xTech,,OK,,,OK,,,,," vtex, lynx",,80086
+100147,hootcuequeria.com.br,https,Shopify,,OK,,,OK,,,,, loja integrada,,80206
+100156,cognos.vc,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/291/249/themes/common/fb_catalog.xml?version=821,https://cognos.vc/google_shopping.xml/",NuvemShop, nuvemshop,,80215
+100157,golfhouse.com.br,http,xTech,,Erro,O nome remoto não pôde ser resolvido: 'golfhouse.com.br',,Erro,O nome remoto não pôde ser resolvido: 'golfhouse.com.br',,,,,,80216
+100159,masterconcursos.com,https,NuvemShop,,OK,,,OK,,,,," woocommerce, Wordpress",,80218
+100200,pulseirasbr.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'pulseirasbr.com.br',,Erro,O nome remoto não pôde ser resolvido: 'pulseirasbr.com.br',,,,,,80257
+100257,xalabaiastore.com.br,https,NuvemShop,,OK,,,OK,,,"https://s3-sa-east-1.amazonaws.com/tiendanube/stores/836/817/themes/common/fb_catalog.xml?version=1055,https://xalabaiastore.com.br/google_shopping.xml/",NuvemShop," vtex, nuvemshop",,80314
+100289,naturalbebe.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'naturalbebe.com.br',,Erro,O nome remoto não pôde ser resolvido: 'naturalbebe.com.br',,,,,,80344
+100294,mahna.com.br,https,xTech,,OK,,,OK,,,,," vtex, lynx",,80348
+100332,herazus.com.br,http,NuvemShop,,Erro,O nome remoto não pôde ser resolvido: 'herazus.com.br',,Erro,O nome remoto não pôde ser resolvido: 'herazus.com.br',,,,,,80385
+100423,brunafarias.com,http,NuvemShop,,Erro,O servidor remoto retornou um erro: (404) Não Localizado.,,Erro,O servidor remoto retornou um erro: (404) Não Localizado.,,,,,,80472
+100428,foryouacessorios.com,http,,,Erro,O nome remoto não pôde ser resolvido: 'foryouacessorios.com',,Erro,O nome remoto não pôde ser resolvido: 'foryouacessorios.com',,,,,,80477
+100458,lojapedaleria.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'lojapedaleria.com.br',,Erro,O nome remoto não pôde ser resolvido: 'lojapedaleria.com.br',,,,,,80506
+100556,casawolker.com.br,https,xTech,,OK,,,OK,,,,, tray,,80602
+100611,acbrazil.com,https,Vtex,,OK,,,OK,,,https://www.acbrazil.com/XMLData/googleshopping.xml,Vtex, vtex,,80655
+100772,xaimer.com.br,https,xTech,,OK,,,OK,,,,," vtex, wix",,80810
+100810,vult.com.br,https,Vtex,,OK,,,OK,,,,,Não identificada,,80847
+100818,vianastores.com.br,http,Shopify,,Erro,O nome remoto não pôde ser resolvido: 'vianastores.com.br',,Erro,O nome remoto não pôde ser resolvido: 'vianastores.com.br',,,,,,80855
+100930,sopcgamer.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/20277883/gshopping,mercado shops,mercado shops,20277883,
+100959,shopjwa.com.br,https,Mercado Shops,,OK,,,OK,,,https://www.mercadoshops.com.br/darwin/rss/182935915/gshopping,mercado shops,mercado shops,182935915,80995
