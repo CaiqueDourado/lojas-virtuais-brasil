@@ -37,6 +37,23 @@ respondendo "A loja X é confiável?". Esta base é o banco de dados do site.
 | Dados da empresa | CNPJ lido do WHOIS e cruzado com a base da Receita Federal (razão social, CNAE, endereço, sócios, contatos) | Não (dados pessoais) |
 | Texto | Escrito pelo GPT-3.5 a partir do nome da loja | Sim, marcado como sintético |
 
+## Arquivos
+
+| Arquivo | Linhas | O que tem |
+|---|---:|---|
+| `lojas` | 63.974 | domínio, nome, plataforma, sinais da plataforma no HTML, produtos no feed, SSL, status e nota no Reclame Aqui |
+| `plataformas` | 13 | plataformas do leitor de feeds de produtos do autor |
+| `reclame_aqui` | 19.335 | o perfil do Reclame Aqui ligado a cada loja: status, nota, reclamações, percentual resolvido |
+| `reclame_aqui_candidatos` | 217.507 | todos os perfis que a busca do Reclame Aqui devolveu, com o escolhido |
+| `textos_gpt` | 63.933 | páginas "A loja X é confiável?" do GPT-3.5, de 12/04/2023: **sintéticas, não são fatos** |
+| `censo_2022` | 81.018 | censo de 2022: plataforma declarada, duas checagens de online, URL do feed, id do Mercado Shops |
+| `censo_2022_feeds` | 20.284 | feeds testados nos domínios do censo e produtos lidos |
+| `feeds_importados` | 13.804 | feeds de lojas importados no crawler de produtos do autor |
+
+Os arquivos completos (Parquet) estão no [Kaggle](https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil), com um [notebook de análise](https://www.kaggle.com/code/caiquedourado/notebook-lojas-virtuais-brasil).
+Este repositório tem os scripts, a documentação e a pasta `sample/`, com todas as linhas de 500 lojas sorteadas
+e amostras do censo e dos feeds.
+
 ## Um olhar nos dados
 
 **Uma loja em todas as tabelas**, `estrela10.com.br` (`id_loja` 11187), da pasta `sample/`:

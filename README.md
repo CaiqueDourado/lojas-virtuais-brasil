@@ -33,6 +33,23 @@ In 2023 the author ran **Tudo Sobre Lojas**, a site with one page per Brazilian 
 | Company data | CNPJ read from WHOIS and crossed with the Receita Federal register (legal name, CNAE, address, partners, contacts) | No (personal data) |
 | Text | Written by GPT-3.5 from the store name | Yes, marked synthetic |
 
+## Files
+
+| File | Rows | What |
+|---|---:|---|
+| `lojas` | 63,974 | domain, name, platform, HTML signs of the platform, products in the feed, SSL, Reclame Aqui status and score |
+| `plataformas` | 13 | platforms of the author's product feed reader |
+| `reclame_aqui` | 19,335 | the Reclame Aqui profile linked to each store: status, score, complaints, share solved |
+| `reclame_aqui_candidatos` | 217,507 | every profile the Reclame Aqui search returned, with the one chosen |
+| `textos_gpt` | 63,933 | "A loja X é confiável?" pages by GPT-3.5, 12 April 2023: **synthetic, not facts** |
+| `censo_2022` | 81,018 | 2022 census: declared platform, two online checks, feed URL, Mercado Shops id |
+| `censo_2022_feeds` | 20,284 | feeds tested for the census domains and products read |
+| `feeds_importados` | 13,804 | store feeds imported into the author's product crawler |
+
+The full files (Parquet) are on [Kaggle](https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil), with an [exploratory notebook](https://www.kaggle.com/code/caiquedourado/notebook-lojas-virtuais-brasil).
+This repository has the scripts, the documentation and `sample/`: every row of 500 random stores, plus samples
+of the census and feeds.
+
 ## A look at the data
 
 **One store across the tables**, `estrela10.com.br` (`id_loja` 11187), from `sample/`:
