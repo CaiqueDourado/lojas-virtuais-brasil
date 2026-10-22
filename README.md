@@ -14,27 +14,24 @@ size, SSL certificate and Reclame Aqui reputation. The dataset also has the **20
 81,018 domains and their product feeds, and the **63,933 pages GPT-3.5 wrote** about the stores: a record of
 what a language model says when it knows nothing about the subject.
 
-## The site behind the data
+## The site: tudosobrelojas.com (2023)
 
-In 2023 the author ran **Tudo Sobre Lojas** (tudosobrelojas.com), a site with one page per Brazilian online
-store, each answering "A loja X é confiável?" ("Is store X reliable?"). The site is offline; a page of it is
-kept on the [Web Archive](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/). This dataset is the database behind the site: the stores it covered, what was
-checked about each one (platform, catalog, certificate, Reclame Aqui) and the text of its pages.
+[![tudosobrelojas.com](https://raw.githubusercontent.com/CaiqueDourado/CaiqueDourado/main/assets/tudosobrelojas.com_screenshot.png)](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/)
 
-| File | Rows | What |
-|---|---:|---|
-| `lojas` | 63,974 | domain, name, platform, HTML signs of the platform, products in the feed, SSL, Reclame Aqui status and score |
-| `plataformas` | 13 | platforms of the author's product feed reader |
-| `reclame_aqui` | 19,335 | the Reclame Aqui profile linked to each store: status, score, complaints, share solved |
-| `reclame_aqui_candidatos` | 217,507 | every profile the Reclame Aqui search returned, with the one chosen |
-| `textos_gpt` | 63,933 | "A loja X é confiável?" pages by GPT-3.5, 12 April 2023: **synthetic, not facts** |
-| `censo_2022` | 81,018 | 2022 census: declared platform, two online checks, feed URL, Mercado Shops id |
-| `censo_2022_feeds` | 20,284 | feeds tested for the census domains and products read |
-| `feeds_importados` | 13,804 | store feeds imported into the author's product crawler |
+*Tudo Sobre Lojas, [archived on the Wayback Machine](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/).*
 
-The full files (Parquet) are on [Kaggle](https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil).
-This repository has the scripts, the documentation and `sample/`: every row of 500 random stores, plus samples
-of the census and feeds.
+In 2023 the author ran **Tudo Sobre Lojas**, a site with one page per Brazilian online store, each answering
+"A loja X é confiável?" ("Is store X reliable?"). This dataset is the database behind it.
+
+| Part | How it worked | In this dataset |
+|---|---|---|
+| Pages | One per store: is it reliable, is it safe, benefits, payment and shipping, coupons, order tracking, customer service | Text in `textos_gpt` |
+| Platform | Fingerprinting of the e-commerce platform (Shopify, VTEX, WooCommerce, NuvemShop…) by three tests | `lojas.plataforma`, `sinais_no_html`, census feeds |
+| Security | SSL certificate checked for every store | `certificado_*` |
+| Reputation | Reclame Aqui profile found by a Selenium-driven search, plus links to search the store on Consumidor.gov.br, Jusbrasil and Reclame Aqui | `reclame_aqui`, `reclame_aqui_candidatos` |
+| Visual evidence | Screenshots of the store's home page and of its Reclame Aqui page, taken with C# and Selenium | No (images) |
+| Company data | CNPJ read from WHOIS and crossed with the Receita Federal register (legal name, CNAE, address, partners, contacts) | No (personal data) |
+| Text | Written by GPT-3.5 from the store name | Yes, marked synthetic |
 
 ## A look at the data
 
@@ -89,6 +86,50 @@ Reclame Aqui does not recommend.
 - **Products read from census feeds:** 14.6 million, most from Mercado Shops (8.5 million), NuvemShop (3.1
   million), Vtex (1.2 million) and Shopify (1.0 million).
 - **GPT pages:** 63,933 pages; 63,538 answer "yes, reliable", 4 answer no, 391 have no readable answer.
+
+## How it was built
+
+Where the domains came from and what became of them:
+
+```mermaid
+flowchart LR
+  A["Stores in the<br/>product crawler"] --> D["113,926 domains<br/>visited in Apr 2023"]
+  B["2022 e-commerce census<br/>81,018 domains"] --> D
+  C["Third-party list<br/>(domains only)"] --> D
+  D -->|"confirmed name"| L[("lojas<br/>63,974")]
+  D -.->|"no name: left out"| X["49,952"]:::dead
+  L --> P["Platform<br/>declared · HTML · feed path"]
+  L --> S["SSL certificate"]
+  L -->|"Selenium search"| R[("reclame_aqui<br/>+ candidatos")]
+  L -->|"store name only"| G[("textos_gpt<br/>GPT-3.5, synthetic")]
+  B --> F[("censo_2022<br/>+ feeds")]
+  classDef dead fill:#f3f3f3,stroke:#bbbbbb,color:#777777;
+```
+
+What happened to each store in April 2023:
+
+```mermaid
+flowchart LR
+  D["Domain<br/>crawler · 2022 census · third-party list"] --> H["Home page visited<br/>April 2023"]
+  H --> N{"Store name<br/>title · og:site_name · DC.title"}
+  N -.->|"generic title or<br/>name of another domain"| X["left out"]:::dead
+  N -->|"confirmed"| K[("Store<br/>lojas")]
+  K --> P["Platform, three tests<br/>declared · names in the HTML · feed path"]
+  K --> S["SSL certificate<br/>issuer · expiry"]
+  K --> R["Reclame Aqui search<br/>Selenium, by store name"]
+  R --> C[("reclame_aqui_candidatos<br/>every profile returned")]
+  C --> M{"Rules on<br/>website and name"}
+  M -->|"match"| RA[("reclame_aqui")]
+  M -.->|"no match"| NR["no profile"]:::dead
+  K -->|"name only"| G[("textos_gpt<br/>GPT-3.5 page")]
+  P --> W["Page on Tudo Sobre Lojas<br/>A loja X é confiável?"]
+  S --> W
+  RA --> W
+  G --> W
+  classDef dead fill:#f3f3f3,stroke:#bbbbbb,color:#777777;
+```
+
+Step by step, with counts: [methodology](docs/methodology.md).
 
 ## Platforms
 

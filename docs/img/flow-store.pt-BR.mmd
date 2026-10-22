@@ -1,0 +1,18 @@
+flowchart LR
+  D["Domínio<br/>crawler · censo 2022 · lista de terceiros"] --> H["Home visitada<br/>abril de 2023"]
+  H --> N{"Nome da loja<br/>title · og:site_name · DC.title"}
+  N -.->|"título genérico ou<br/>nome de outro domínio"| X["fora"]:::dead
+  N -->|"confirmado"| K[("Loja<br/>lojas")]
+  K --> P["Plataforma, três testes<br/>declarada · nomes no HTML · caminho do feed"]
+  K --> S["Certificado SSL<br/>emissor · validade"]
+  K --> R["Busca no Reclame Aqui<br/>Selenium, pelo nome da loja"]
+  R --> C[("reclame_aqui_candidatos<br/>todos os perfis devolvidos")]
+  C --> M{"Regras de<br/>site e nome"}
+  M -->|"casou"| RA[("reclame_aqui")]
+  M -.->|"não casou"| NR["sem perfil"]:::dead
+  K -->|"só o nome"| G[("textos_gpt<br/>página do GPT-3.5")]
+  P --> W["Página no Tudo Sobre Lojas<br/>A loja X é confiável?"]
+  S --> W
+  RA --> W
+  G --> W
+  classDef dead fill:#f3f3f3,stroke:#bbbbbb,color:#777777;

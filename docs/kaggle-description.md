@@ -2,12 +2,24 @@
 
 ![Brazilian online stores](https://raw.githubusercontent.com/CaiqueDourado/lojas-virtuais-brasil/main/docs/img/cover.png)
 
-## The site behind the data
+## The site: tudosobrelojas.com (2023)
 
-In 2023 the author ran **Tudo Sobre Lojas** (tudosobrelojas.com), a site with one page per Brazilian online
-store, each answering "A loja X é confiável?" ("Is store X reliable?"). The site is offline; a page of it is
-kept on the [Web Archive](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/). This dataset is the database behind the site: the stores it covered, what was
-checked about each one (platform, catalog, certificate, Reclame Aqui) and the text of its pages.
+[![tudosobrelojas.com](https://raw.githubusercontent.com/CaiqueDourado/CaiqueDourado/main/assets/tudosobrelojas.com_screenshot.png)](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/)
+
+*Tudo Sobre Lojas, [archived on the Wayback Machine](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/).*
+
+In 2023 the author ran **Tudo Sobre Lojas**, a site with one page per Brazilian online store, each answering
+"A loja X é confiável?" ("Is store X reliable?"). This dataset is the database behind it.
+
+| Part | How it worked | In this dataset |
+|---|---|---|
+| Pages | One per store: is it reliable, is it safe, benefits, payment and shipping, coupons, order tracking, customer service | Text in `textos_gpt` |
+| Platform | Fingerprinting of the e-commerce platform (Shopify, VTEX, WooCommerce, NuvemShop…) by three tests | `lojas.plataforma`, `sinais_no_html`, census feeds |
+| Security | SSL certificate checked for every store | `certificado_*` |
+| Reputation | Reclame Aqui profile found by a Selenium-driven search, plus links to search the store on Consumidor.gov.br, Jusbrasil and Reclame Aqui | `reclame_aqui`, `reclame_aqui_candidatos` |
+| Visual evidence | Screenshots of the store's home page and of its Reclame Aqui page, taken with C# and Selenium | No (images) |
+| Company data | CNPJ read from WHOIS and crossed with the Receita Federal register (legal name, CNAE, address, partners, contacts) | No (personal data) |
+| Text | Written by GPT-3.5 from the store name | Yes, marked synthetic |
 
 63,974 Brazilian online stores found and checked in April 2023, with three tests of the e-commerce platform (declared, names in the HTML, a feed path that answered), catalog size from the feed, SSL certificate and the Reclame Aqui profile chosen among the search results. With them, the 2022 census of 81,018 e-commerce domains and their product feeds.
 
@@ -85,6 +97,10 @@ Reclame Aqui does not recommend.
 ## How it was collected
 
 ![Sources and tables](https://raw.githubusercontent.com/CaiqueDourado/lojas-virtuais-brasil/main/docs/img/flow.png)
+
+What happened to each store in April 2023:
+
+![Per store](https://raw.githubusercontent.com/CaiqueDourado/lojas-virtuais-brasil/main/docs/img/flow-store.png)
 
 Partners, contact lists, raw WHOIS, the CNPJ/CPF field of Reclame Aqui profiles and author meta tags were never exported. The data quality report lists every fix and every known limit, including how to check a Reclame Aqui match.
 

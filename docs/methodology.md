@@ -5,6 +5,10 @@ from `stats.json`.
 
 ![Sources and tables](img/flow.png)
 
+![Per store](img/flow-store.png)
+
+The site this data was built for: [Tudo Sobre Lojas on the Wayback Machine](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/).
+
 ## 1. Finding the stores (2019–2023)
 
 The author's product crawler (from 2019) needed store feeds, and his site **Tudo Sobre Lojas**
