@@ -5,7 +5,7 @@
 [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 [![Kaggle](https://img.shields.io/badge/Kaggle-dataset-20BEFF.svg)](https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil)
 
-[Leia em português](README.pt-BR.md)
+[Leia em português](README.pt-BR.md) · [The archived site](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/)
 
 ![Brazilian online stores](docs/img/cover.png)
 
@@ -13,6 +13,13 @@
 size, SSL certificate and Reclame Aqui reputation. The dataset also has the **2022 e-commerce census** of
 81,018 domains and their product feeds, and the **63,933 pages GPT-3.5 wrote** about the stores: a record of
 what a language model says when it knows nothing about the subject.
+
+## The site behind the data
+
+In 2023 the author ran **Tudo Sobre Lojas** (tudosobrelojas.com), a site with one page per Brazilian online
+store, each answering "A loja X é confiável?" ("Is store X reliable?"). The site is offline; a page of it is
+kept on the [Web Archive](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/). This dataset is the database behind the site: the stores it covered, what was
+checked about each one (platform, catalog, certificate, Reclame Aqui) and the text of its pages.
 
 | File | Rows | What |
 |---|---:|---|
@@ -28,6 +35,60 @@ what a language model says when it knows nothing about the subject.
 The full files (Parquet) are on [Kaggle](https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil).
 This repository has the scripts, the documentation and `sample/`: every row of 500 random stores, plus samples
 of the census and feeds.
+
+## A look at the data
+
+**One store across the tables**, `estrela10.com.br` (`id_loja` 11187), from `sample/`:
+
+| Table | What it has for this store |
+|---|---|
+| `lojas` | name "Estrela 10", platform Linx, 5,178 products in the feed, Let's Encrypt certificate valid until 2023-07-03, Reclame Aqui RA1000 with score 8.8, profile `estrela10` |
+| `reclame_aqui` | profile `estrela10`: 866 complaints, 95.4% solved, status RA1000 |
+| `reclame_aqui_candidatos` | every profile the search for "Estrela 10" returned, with `escolhido = true` on the one kept |
+| `textos_gpt` | the page GPT-3.5 wrote on 12 April 2023 (excerpt below) |
+
+> **A loja Estrela 10 é confiável?**
+> Sim, a loja Estrela 10 é confiável. A loja tem um alto índice de avaliações positivas por parte de seus
+> clientes. […]
+>
+> *("Is Estrela 10 reliable? Yes, Estrela 10 is reliable. The store has a high rate of positive reviews from
+> its customers.")*
+
+The model got only the store name. The founding year the page gives (2008) and the "high rate of positive
+reviews" come from no source. Here Reclame Aqui happens to agree; the model says the same about the 360 stores
+Reclame Aqui does not recommend.
+
+**Feeds found by the 2022 census** (`censo_2022` + `censo_2022_feeds`):
+
+| Domain | Declared platform | Feed that answered | Products |
+|---|---|---|---:|
+| uniformes25.com.br | NuvemShop | `…/tiendanube/stores/…/fb_catalog.xml` | 111 |
+| solshine.com.br | Shopify | `/products.json` | 362 |
+| obeleza.com.br | Mercado Shops | `mercadoshops.com.br/darwin/rss/150043409/gshopping` | 919 |
+| cyclone.com.br | Vtex | `/XMLData/googleshopping.xml` | 582 |
+
+## In numbers
+
+| Reclame Aqui status | Stores | Mean score |
+|---|---:|---:|
+| RA1000 | 88 | 8.95 |
+| GREAT | 309 | 8.52 |
+| GOOD | 325 | 7.45 |
+| REGULAR | 182 | 6.53 |
+| BAD | 67 | 5.49 |
+| NOT_RECOMMENDED | 366 | 3.98 |
+| UNDER_REVIEW | 19 | |
+| NO_INDEX (too few complaints to rate) | 17,320 | |
+| no profile found | 45,298 | |
+
+- **Domains:** 61,129 stores on `.com.br`, 2,250 on `.com`, a few hundred on other endings.
+- **Certificates:** 53,668 stores had an SSL certificate in April 2023.
+- **Catalog size:** 6,749 stores have the number of products read from their feed.
+- **2022 census:** 81,018 domains; 78,295 answered both online checks and 2,406 failed both; 55,707 are also in
+  `lojas`.
+- **Products read from census feeds:** 14.6 million, most from Mercado Shops (8.5 million), NuvemShop (3.1
+  million), Vtex (1.2 million) and Shopify (1.0 million).
+- **GPT pages:** 63,933 pages; 63,538 answer "yes, reliable", 4 answer no, 391 have no readable answer.
 
 ## Platforms
 
@@ -49,8 +110,7 @@ explains how to check it.
 
 ## What GPT said about them
 
-The author's site Tudo Sobre Lojas ([Web Archive](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/))
-had one page per store, written by GPT-3.5 from the store's name alone, with the headings "A loja X é
+Each page of Tudo Sobre Lojas ([Web Archive](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/)) was written by GPT-3.5 from the store's name alone, with the headings "A loja X é
 confiável?" and "A loja X é segura?". Of the 63,542 pages with a readable answer, 63,538 say yes: all 1,320
 pages about stores rated by Reclame Aqui, including the 360 it does not recommend. Most invent a founding year, a city, a share of
 positive reviews or a Reclame Aqui reputation. The pages are published because they show, at scale and next to

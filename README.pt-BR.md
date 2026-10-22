@@ -5,7 +5,7 @@
 [![Código: MIT](https://img.shields.io/badge/c%C3%B3digo-MIT-blue.svg)](LICENSE)
 [![Kaggle](https://img.shields.io/badge/Kaggle-dataset-20BEFF.svg)](https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil)
 
-[Read in English](README.md)
+[Read in English](README.md) · [O site arquivado](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/)
 
 ![Lojas virtuais do Brasil](docs/img/cover.pt-BR.png)
 
@@ -17,6 +17,13 @@ A base também traz:
 - o **censo de e-commerce de 2022**, com 81.018 domínios e os feeds de produtos deles;
 - as **63.933 páginas que o GPT-3.5 escreveu** sobre as lojas. Elas registram o que um modelo de linguagem diz
   quando não sabe nada sobre o assunto.
+
+## O site por trás dos dados
+
+Em 2023 o autor mantinha o **Tudo Sobre Lojas** (tudosobrelojas.com), um site com uma página por loja virtual
+brasileira, cada uma respondendo "A loja X é confiável?". O site saiu do ar; uma das páginas está guardada no
+[Web Archive](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/). Esta base é o banco de dados do site: as lojas que ele cobria, o que foi checado de cada
+uma (plataforma, catálogo, certificado, Reclame Aqui) e o texto das páginas.
 
 | Arquivo | Linhas | O que tem |
 |---|---:|---|
@@ -32,6 +39,57 @@ A base também traz:
 Os arquivos completos (Parquet) estão no [Kaggle](https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil).
 Este repositório tem os scripts, a documentação e a pasta `sample/`, com todas as linhas de 500 lojas sorteadas
 e amostras do censo e dos feeds.
+
+## Um olhar nos dados
+
+**Uma loja em todas as tabelas**, `estrela10.com.br` (`id_loja` 11187), da pasta `sample/`:
+
+| Tabela | O que tem desta loja |
+|---|---|
+| `lojas` | nome "Estrela 10", plataforma Linx, 5.178 produtos no feed, certificado Let's Encrypt válido até 03/07/2023, Reclame Aqui RA1000 com nota 8,8, perfil `estrela10` |
+| `reclame_aqui` | perfil `estrela10`: 866 reclamações, 95,4% resolvidas, status RA1000 |
+| `reclame_aqui_candidatos` | todos os perfis que a busca por "Estrela 10" devolveu, com `escolhido = true` no que ficou |
+| `textos_gpt` | a página que o GPT-3.5 escreveu em 12/04/2023 (trecho abaixo) |
+
+> **A loja Estrela 10 é confiável?**
+> Sim, a loja Estrela 10 é confiável. A loja tem um alto índice de avaliações positivas por parte de seus
+> clientes. […]
+
+O modelo recebeu só o nome da loja. O ano de fundação que a página dá (2008) e o "alto índice de avaliações
+positivas" não vêm de fonte nenhuma. Aqui o Reclame Aqui por acaso concorda; o modelo diz o mesmo das 360 lojas
+que o Reclame Aqui não recomenda.
+
+**Feeds achados pelo censo de 2022** (`censo_2022` + `censo_2022_feeds`):
+
+| Domínio | Plataforma declarada | Feed que respondeu | Produtos |
+|---|---|---|---:|
+| uniformes25.com.br | NuvemShop | `…/tiendanube/stores/…/fb_catalog.xml` | 111 |
+| solshine.com.br | Shopify | `/products.json` | 362 |
+| obeleza.com.br | Mercado Shops | `mercadoshops.com.br/darwin/rss/150043409/gshopping` | 919 |
+| cyclone.com.br | Vtex | `/XMLData/googleshopping.xml` | 582 |
+
+## Em números
+
+| Status no Reclame Aqui | Lojas | Nota média |
+|---|---:|---:|
+| RA1000 | 88 | 8,95 |
+| GREAT | 309 | 8,52 |
+| GOOD | 325 | 7,45 |
+| REGULAR | 182 | 6,53 |
+| BAD | 67 | 5,49 |
+| NOT_RECOMMENDED | 366 | 3,98 |
+| UNDER_REVIEW | 19 | |
+| NO_INDEX (poucas reclamações para ter nota) | 17.320 | |
+| sem perfil encontrado | 45.298 | |
+
+- **Domínios:** 61.129 lojas em `.com.br`, 2.250 em `.com`, algumas centenas em outras terminações.
+- **Certificados:** 53.668 lojas tinham certificado SSL em abril de 2023.
+- **Tamanho do catálogo:** 6.749 lojas têm o número de produtos lido do feed.
+- **Censo de 2022:** 81.018 domínios; 78.295 responderam às duas checagens e 2.406 falharam nas duas; 55.707
+  também estão em `lojas`.
+- **Produtos lidos dos feeds do censo:** 14,6 milhões, a maioria do Mercado Shops (8,5 milhões), NuvemShop
+  (3,1 milhões), Vtex (1,2 milhão) e Shopify (1,0 milhão).
+- **Páginas do GPT:** 63.933; 63.538 respondem "sim, é confiável", 4 respondem não, 391 sem resposta legível.
 
 ## Plataformas
 

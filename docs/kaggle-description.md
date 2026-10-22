@@ -2,6 +2,13 @@
 
 ![Brazilian online stores](https://raw.githubusercontent.com/CaiqueDourado/lojas-virtuais-brasil/main/docs/img/cover.png)
 
+## The site behind the data
+
+In 2023 the author ran **Tudo Sobre Lojas** (tudosobrelojas.com), a site with one page per Brazilian online
+store, each answering "A loja X é confiável?" ("Is store X reliable?"). The site is offline; a page of it is
+kept on the [Web Archive](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/). This dataset is the database behind the site: the stores it covered, what was
+checked about each one (platform, catalog, certificate, Reclame Aqui) and the text of its pages.
+
 63,974 Brazilian online stores found and checked in April 2023, with three tests of the e-commerce platform (declared, names in the HTML, a feed path that answered), catalog size from the feed, SSL certificate and the Reclame Aqui profile chosen among the search results. With them, the 2022 census of 81,018 e-commerce domains and their product feeds.
 
 ![Stores per platform](https://raw.githubusercontent.com/CaiqueDourado/lojas-virtuais-brasil/main/docs/img/platforms.png)
@@ -9,6 +16,60 @@
 **About `textos_gpt`.** The author's site had one page per store, "A loja X é confiável?", written by GPT-3.5 from the store name alone. 63,538 of the 63,542 pages with a readable answer say the store is reliable, including all 360 about stores Reclame Aqui does not recommend, and most invent a founding year, a city or a reputation. They are published as a record of model output next to real reputation data, **not as facts about the stores**.
 
 ![GPT x Reclame Aqui](https://raw.githubusercontent.com/CaiqueDourado/lojas-virtuais-brasil/main/docs/img/gpt-vs-reclame-aqui.png)
+
+## A look at the data
+
+**One store across the tables**, `estrela10.com.br` (`id_loja` 11187):
+
+| Table | What it has for this store |
+|---|---|
+| `lojas` | name "Estrela 10", platform Linx, 5,178 products in the feed, Let's Encrypt certificate valid until 2023-07-03, Reclame Aqui RA1000 with score 8.8, profile `estrela10` |
+| `reclame_aqui` | profile `estrela10`: 866 complaints, 95.4% solved, status RA1000 |
+| `reclame_aqui_candidatos` | every profile the search for "Estrela 10" returned, with `escolhido = true` on the one kept |
+| `textos_gpt` | the page GPT-3.5 wrote on 12 April 2023 (excerpt below) |
+
+> **A loja Estrela 10 é confiável?**
+> Sim, a loja Estrela 10 é confiável. A loja tem um alto índice de avaliações positivas por parte de seus
+> clientes. […]
+>
+> *("Is Estrela 10 reliable? Yes, Estrela 10 is reliable. The store has a high rate of positive reviews from
+> its customers.")*
+
+The model got only the store name. The founding year the page gives (2008) and the "high rate of positive
+reviews" come from no source. Here Reclame Aqui happens to agree; the model says the same about the 360 stores
+Reclame Aqui does not recommend.
+
+**Feeds found by the 2022 census** (`censo_2022` + `censo_2022_feeds`):
+
+| Domain | Declared platform | Feed that answered | Products |
+|---|---|---|---:|
+| uniformes25.com.br | NuvemShop | `…/tiendanube/stores/…/fb_catalog.xml` | 111 |
+| solshine.com.br | Shopify | `/products.json` | 362 |
+| obeleza.com.br | Mercado Shops | `mercadoshops.com.br/darwin/rss/150043409/gshopping` | 919 |
+| cyclone.com.br | Vtex | `/XMLData/googleshopping.xml` | 582 |
+
+## In numbers
+
+| Reclame Aqui status | Stores | Mean score |
+|---|---:|---:|
+| RA1000 | 88 | 8.95 |
+| GREAT | 309 | 8.52 |
+| GOOD | 325 | 7.45 |
+| REGULAR | 182 | 6.53 |
+| BAD | 67 | 5.49 |
+| NOT_RECOMMENDED | 366 | 3.98 |
+| UNDER_REVIEW | 19 | |
+| NO_INDEX (too few complaints to rate) | 17,320 | |
+| no profile found | 45,298 | |
+
+- **Domains:** 61,129 stores on `.com.br`, 2,250 on `.com`, a few hundred on other endings.
+- **Certificates:** 53,668 stores had an SSL certificate in April 2023.
+- **Catalog size:** 6,749 stores have the number of products read from their feed.
+- **2022 census:** 81,018 domains; 78,295 answered both online checks and 2,406 failed both; 55,707 are also in
+  `lojas`.
+- **Products read from census feeds:** 14.6 million, most from Mercado Shops (8.5 million), NuvemShop (3.1
+  million), Vtex (1.2 million) and Shopify (1.0 million).
+- **GPT pages:** 63,933 pages; 63,538 answer "yes, reliable", 4 answer no, 391 have no readable answer.
 
 ## Files
 
