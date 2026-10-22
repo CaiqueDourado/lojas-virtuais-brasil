@@ -222,6 +222,7 @@ stats.json     counts of every build step
 ## Related
 
 - [BrCommerceKit](https://github.com/CaiqueDourado/BrCommerceKit): platform detection and feed reading for Brazilian stores.
+- [scrapladder](https://github.com/CaiqueDourado/scrapladder): fetch pages from HTTP up to a browser, learning per domain which method works.
 - [DomainCheck](https://github.com/CaiqueDourado/DomainCheck): whether a domain is free (DNS, Registro.br, WHOIS).
 - [catalogo-produtos-ecommerce-brasil](https://github.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil): products and prices collected from 17,899 Brazilian stores.
 - [reviews-produtos-ptbr](https://github.com/CaiqueDourado/reviews-produtos-ptbr): 2.87 million product reviews from Brazilian stores.
