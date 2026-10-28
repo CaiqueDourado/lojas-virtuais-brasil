@@ -246,8 +246,8 @@ stats.json     contagens de cada etapa do build
 - [BrCommerceKit](https://github.com/CaiqueDourado/BrCommerceKit): detecção de plataforma e leitura de feeds de lojas brasileiras.
 - [scrapladder](https://github.com/CaiqueDourado/scrapladder): baixa páginas do HTTP comum até o navegador, aprendendo por domínio qual método funciona.
 - [DomainCheck](https://github.com/CaiqueDourado/DomainCheck): se um domínio está livre (DNS, Registro.br, WHOIS).
-- [catalogo-produtos-ecommerce-brasil](https://github.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil): produtos e preços coletados de 17.899 lojas brasileiras.
-- [reviews-produtos-ptbr](https://github.com/CaiqueDourado/reviews-produtos-ptbr): 2,87 milhões de reviews de produtos de lojas brasileiras.
+- [brazilian-ecommerce-products](https://github.com/CaiqueDourado/brazilian-ecommerce-products): produtos e preços coletados de 17.899 lojas brasileiras.
+- [portuguese-product-reviews](https://github.com/CaiqueDourado/portuguese-product-reviews): 2,87 milhões de reviews de produtos de lojas brasileiras.
 
 ## Licença
 
