@@ -1,0 +1,74 @@
+{
+  "id_loja": 11187,
+  "dominio": "estrela10.com.br",
+  "nome": "Estrela 10",
+  "slug": "estrela10",
+  "plataforma": "Linx",
+  "plataforma_original": "Linx",
+  "sinais_no_html": null,
+  "protocolo": "https",
+  "tld": ".com.br",
+  "total_produtos": 5178,
+  "titulo_pagina": null,
+  "og_site_name": null,
+  "certificado_dominio": "estrela10.com.br",
+  "certificado_emissor": "Let's Encrypt",
+  "certificado_validade": "2023-07-03",
+  "certificado_com_erro": false,
+  "fontes_no_crawler": 1,
+  "reclame_aqui_status": "RA1000",
+  "reclame_aqui_nota": 8.8,
+  "reclame_aqui_perfil": "estrela10",
+  "tem_texto_gpt": true,
+  "reclame_aqui": [
+    {
+      "id": 87273,
+      "id_loja": 11187,
+      "nome": "Estrela10",
+      "nome_fantasia": "Estrela10",
+      "razao_social": "Estrela10",
+      "shortname": "estrela10",
+      "url": "http://www.estrela10.com.br",
+      "logo": "https://raichu-uploads.s3.amazonaws.com/companypageconfiguration_cbf5744b-5ae6-41a0-a887-c28bf5c8fa49.png",
+      "acronym": null,
+      "nota": 8.8,
+      "reclamacoes": 866,
+      "percentual_resolvido": 95.4,
+      "status": "RA1000",
+      "segmento": null,
+      "ra_id": "28542",
+      "marcas": null,
+      "nomes_anteriores": null,
+      "principal": true
+    }
+  ],
+  "reclame_aqui_candidatos": [
+    {
+      "id": 221378,
+      "id_loja": 11187,
+      "nome": "Estrela10",
+      "razao_social": "Estrela10",
+      "shortname": "estrela10",
+      "url": "http://www.estrela10.com.br",
+      "nota": 8.8,
+      "reclamacoes": 866,
+      "status": "RA1000",
+      "segmento": null,
+      "ra_id": "28542",
+      "escolhido": true
+    }
+  ],
+  "textos_gpt": [
+    {
+      "id": 1218059,
+      "id_loja": 11187,
+      "nome_loja": "Estrela 10",
+      "titulo": "A loja Estrela 10 é confável? ✔️ Tudo sobre a Loja Estrela 10!",
+      "meta_description": "✔️ Estrela 10 é Segura? ✔️ Central de Atendimento e Telefone ✔️ Rastreamento de Pedidos ✔️ Reclame Aqui ✔️ Procon ✔️ Trabalhe Conosco ✔️ Como comprar? ✔️ Formas de pagamento e frete",
+      "data": "2023-04-12",
+      "modelo": "gpt-3.5"
+    }
+  ],
+  "censo_2022": [],
+  "feeds_importados": []
+}

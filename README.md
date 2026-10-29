@@ -50,6 +50,16 @@ The full files (Parquet) are on [Kaggle](https://www.kaggle.com/datasets/caiqued
 This repository has the scripts, the documentation and `sample/`: every row of 500 random stores, plus samples
 of the census and feeds.
 
+## How a store is structured
+
+![One store as nested JSON](docs/img/store-json.png)
+
+One store, `estrela10.com.br`, with its rows from the other tables nested under it by `id_loja`: platform Linx,
+5,178 products in the feed, a Let's Encrypt certificate, and the Reclame Aqui profile `estrela10` (RA1000, score
+8.8, 866 complaints, 95.4% solved) chosen as the only candidate the search returned. This store is not in the
+census or feeds samples, so those lists are empty. Full record: [`docs/example-store.json`](docs/example-store.json),
+built by [`scripts/make_json.py`](scripts/make_json.py) from `sample/`.
+
 ## A look at the data
 
 **One store across the tables**, `estrela10.com.br` (`id_loja` 11187), from `sample/`:

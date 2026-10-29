@@ -54,6 +54,17 @@ Os arquivos completos (Parquet) estão no [Kaggle](https://www.kaggle.com/datase
 Este repositório tem os scripts, a documentação e a pasta `sample/`, com todas as linhas de 500 lojas sorteadas
 e amostras do censo e dos feeds.
 
+## Como uma loja é estruturada
+
+![Uma loja em JSON aninhado](docs/img/store-json.png)
+
+Uma loja, `estrela10.com.br`, com as linhas dela nas outras tabelas aninhadas por `id_loja`: plataforma Linx,
+5.178 produtos no feed, certificado Let's Encrypt e o perfil `estrela10` no Reclame Aqui (RA1000, nota 8,8, 866
+reclamações, 95,4% resolvidas), escolhido como o único candidato que a busca devolveu. Esta loja não está nas
+amostras do censo e dos feeds, então essas listas vêm vazias. Registro completo:
+[`docs/example-store.json`](docs/example-store.json), gerado por [`scripts/make_json.py`](scripts/make_json.py) a
+partir de `sample/`.
+
 ## Um olhar nos dados
 
 **Uma loja em todas as tabelas**, `estrela10.com.br` (`id_loja` 11187), da pasta `sample/`:

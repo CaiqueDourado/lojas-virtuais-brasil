@@ -94,6 +94,12 @@ Reclame Aqui does not recommend.
 - `censo_2022_feeds.parquet`: feeds tested and products read.
 - `feeds_importados.parquet`: 13,804 feeds imported into the author's crawler.
 
+## How a store is structured
+
+![One store as nested JSON](https://raw.githubusercontent.com/CaiqueDourado/lojas-virtuais-brasil/main/docs/img/store-json.png)
+
+One store, `estrela10.com.br`, with its rows from the other tables nested under it by `id_loja`: platform Linx, 5,178 products in the feed, a Let's Encrypt certificate, and the Reclame Aqui profile `estrela10` (RA1000, score 8.8, 866 complaints, 95.4% solved) chosen as the only candidate the search returned. Full record: [`docs/example-store.json`](https://github.com/CaiqueDourado/lojas-virtuais-brasil/blob/main/docs/example-store.json), built by [`scripts/make_json.py`](https://github.com/CaiqueDourado/lojas-virtuais-brasil/blob/main/scripts/make_json.py).
+
 ## How it was collected
 
 ![Sources and tables](https://raw.githubusercontent.com/CaiqueDourado/lojas-virtuais-brasil/main/docs/img/flow.png)
