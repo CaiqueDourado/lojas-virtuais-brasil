@@ -9,10 +9,12 @@
 
 ![Brazilian online stores](docs/img/cover.png)
 
-**63,974 Brazilian online stores** found and checked in April 2023: domain, e-commerce platform, catalog
-size, SSL certificate and Reclame Aqui reputation. The dataset also has the **2022 e-commerce census** of
-81,018 domains and their product feeds, and the **63,933 pages GPT-3.5 wrote** about the stores: a record of
-what a language model says when it knows nothing about the subject.
+**63,974 Brazilian online stores**, found and checked in April 2023. For each one: domain, e-commerce platform, catalog size, SSL certificate and Reclame Aqui reputation.
+
+The dataset also has:
+
+- the **2022 e-commerce census**, with 81,018 domains and their product feeds;
+- the **63,933 pages GPT-3.5 wrote** about the stores. They show what a language model says when it knows nothing about the subject.
 
 ## The site: tudosobrelojas.com (2023)
 
@@ -20,7 +22,7 @@ what a language model says when it knows nothing about the subject.
 
 *Tudo Sobre Lojas, [archived on the Wayback Machine](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/).*
 
-In 2023 the author ran **Tudo Sobre Lojas**, a site with one page per Brazilian online store, each answering
+In 2023 I ran **Tudo Sobre Lojas**, a site with one page per Brazilian online store, each answering
 "A loja X é confiável?" ("Is store X reliable?"). This dataset is the database behind it.
 
 | Part | How it worked | In this dataset |
@@ -38,13 +40,13 @@ In 2023 the author ran **Tudo Sobre Lojas**, a site with one page per Brazilian 
 | File | Rows | What |
 |---|---:|---|
 | `lojas` | 63,974 | domain, name, platform, HTML signs of the platform, products in the feed, SSL, Reclame Aqui status and score |
-| `plataformas` | 13 | platforms of the author's product feed reader |
+| `plataformas` | 13 | platforms of my product feed reader |
 | `reclame_aqui` | 19,335 | the Reclame Aqui profile linked to each store: status, score, complaints, share solved |
 | `reclame_aqui_candidatos` | 217,507 | every profile the Reclame Aqui search returned, with the one chosen |
 | `textos_gpt` | 63,933 | "A loja X é confiável?" pages by GPT-3.5, 12 April 2023: **synthetic, not facts** |
 | `censo_2022` | 81,018 | 2022 census: declared platform, two online checks, feed URL, Mercado Shops id |
 | `censo_2022_feeds` | 20,284 | feeds tested for the census domains and products read |
-| `feeds_importados` | 13,804 | store feeds imported into the author's product crawler |
+| `feeds_importados` | 13,804 | store feeds imported into my product crawler |
 
 The full files (Parquet) are on [Kaggle](https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil), with an [exploratory notebook](https://www.kaggle.com/code/caiquedourado/notebook-lojas-virtuais-brasil).
 This repository has the scripts, the documentation and `sample/`: every row of 500 random stores, plus samples
@@ -170,7 +172,7 @@ and a known feed path that answered (NuvemShop's `fb_catalog.xml`, Shopify's `pr
 
 ## Reclame Aqui
 
-For each store with a page on the author's site, a browser searched its name on Reclame Aqui, Brazil's main consumer complaint site, and kept
+For each store with a page on my site, a browser searched its name on Reclame Aqui, Brazil's main consumer complaint site, and kept
 every profile returned; matching rules on name and website chose the store's. 18,676 stores got a profile, but
 17,320 of those are NO_INDEX, too small to be rated. For the 1,337 rated stores, the average score
 goes from 3.98 (NOT_RECOMMENDED) to 8.95 (RA1000). The match can be wrong for common names: the [data quality report](docs/data-quality.md)

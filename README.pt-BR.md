@@ -24,7 +24,7 @@ A base também traz:
 
 *Tudo Sobre Lojas, [arquivado no Wayback Machine](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/).*
 
-Em 2023 o autor mantinha o **Tudo Sobre Lojas**, um site com uma página por loja virtual brasileira, cada uma
+Em 2023 eu mantinha o **Tudo Sobre Lojas**, um site com uma página por loja virtual brasileira, cada uma
 respondendo "A loja X é confiável?". Esta base é o banco de dados do site.
 
 | Parte | Como funcionava | Nesta base |
@@ -42,13 +42,13 @@ respondendo "A loja X é confiável?". Esta base é o banco de dados do site.
 | Arquivo | Linhas | O que tem |
 |---|---:|---|
 | `lojas` | 63.974 | domínio, nome, plataforma, sinais da plataforma no HTML, produtos no feed, SSL, status e nota no Reclame Aqui |
-| `plataformas` | 13 | plataformas do leitor de feeds de produtos do autor |
+| `plataformas` | 13 | plataformas do meu leitor de feeds de produtos |
 | `reclame_aqui` | 19.335 | o perfil do Reclame Aqui ligado a cada loja: status, nota, reclamações, percentual resolvido |
 | `reclame_aqui_candidatos` | 217.507 | todos os perfis que a busca do Reclame Aqui devolveu, com o escolhido |
 | `textos_gpt` | 63.933 | páginas "A loja X é confiável?" do GPT-3.5, de 12/04/2023: **sintéticas, não são fatos** |
 | `censo_2022` | 81.018 | censo de 2022: plataforma declarada, duas checagens de online, URL do feed, id do Mercado Shops |
 | `censo_2022_feeds` | 20.284 | feeds testados nos domínios do censo e produtos lidos |
-| `feeds_importados` | 13.804 | feeds de lojas importados no crawler de produtos do autor |
+| `feeds_importados` | 13.804 | feeds de lojas importados no meu crawler de produtos |
 
 Os arquivos completos (Parquet) estão no [Kaggle](https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil), com um [notebook de análise](https://www.kaggle.com/code/caiquedourado/notebook-lojas-virtuais-brasil).
 Este repositório tem os scripts, a documentação e a pasta `sample/`, com todas as linhas de 500 lojas sorteadas
@@ -177,7 +177,7 @@ Esses testes viraram o `PlatformDetector` da [BrCommerceKit](https://github.com/
 
 ## Reclame Aqui
 
-Para cada loja com página no site do autor, um navegador buscou o nome dela no Reclame Aqui, o principal site
+Para cada loja com página no meu site, um navegador buscou o nome dela no Reclame Aqui, o principal site
 de reclamações de consumidores do Brasil, e guardou todos os perfis devolvidos. Regras de casamento por nome e
 site escolheram o perfil da loja.
 
@@ -188,7 +188,7 @@ O casamento pode errar em nomes comuns. O [relatório de qualidade](docs/data-qu
 
 ## O que o GPT disse sobre elas
 
-O site Tudo Sobre Lojas, do autor ([Web Archive](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/)),
+O meu site Tudo Sobre Lojas ([Web Archive](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/)),
 tinha uma página por loja. Cada página foi escrita pelo GPT-3.5 só a partir do nome da loja, com os
 intertítulos "A loja X é confiável?" e "A loja X é segura?".
 

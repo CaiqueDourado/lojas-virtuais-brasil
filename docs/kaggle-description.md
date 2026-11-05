@@ -8,7 +8,7 @@
 
 *Tudo Sobre Lojas, [archived on the Wayback Machine](https://web.archive.org/web/20250618081809/https://tudosobrelojas.com/a-loja-saboreat-e-confavel-tudo-sobre-a-loja-saboreat/).*
 
-In 2023 the author ran **Tudo Sobre Lojas**, a site with one page per Brazilian online store, each answering
+In 2023 I ran **Tudo Sobre Lojas**, a site with one page per Brazilian online store, each answering
 "A loja X é confiável?" ("Is store X reliable?"). This dataset is the database behind it.
 
 | Part | How it worked | In this dataset |
@@ -25,7 +25,7 @@ In 2023 the author ran **Tudo Sobre Lojas**, a site with one page per Brazilian 
 
 ![Stores per platform](https://raw.githubusercontent.com/CaiqueDourado/lojas-virtuais-brasil/main/docs/img/platforms.png)
 
-**About `textos_gpt`.** The author's site had one page per store, "A loja X é confiável?", written by GPT-3.5 from the store name alone. 63,538 of the 63,542 pages with a readable answer say the store is reliable, including all 360 about stores Reclame Aqui does not recommend, and most invent a founding year, a city or a reputation. They are published as a record of model output next to real reputation data, **not as facts about the stores**.
+**About `textos_gpt`.** My site had one page per store, "A loja X é confiável?", written by GPT-3.5 from the store name alone. 63,538 of the 63,542 pages with a readable answer say the store is reliable, including all 360 about stores Reclame Aqui does not recommend, and most invent a founding year, a city or a reputation. They are published as a record of model output next to real reputation data, **not as facts about the stores**.
 
 ![GPT x Reclame Aqui](https://raw.githubusercontent.com/CaiqueDourado/lojas-virtuais-brasil/main/docs/img/gpt-vs-reclame-aqui.png)
 
@@ -86,13 +86,13 @@ Reclame Aqui does not recommend.
 ## Files
 
 - `lojas.parquet`: 63,974 stores: domain, name, platform, HTML signs, products in the feed, SSL, Reclame Aqui status and score.
-- `plataformas.parquet`: 13 platforms of the author's feed reader.
+- `plataformas.parquet`: 13 platforms of my feed reader.
 - `reclame_aqui.parquet`: the Reclame Aqui profile linked to each store.
 - `reclame_aqui_candidatos.parquet`: every profile the search returned, with the one chosen.
 - `textos_gpt.parquet`: 63,933 synthetic pages by GPT-3.5 (12 April 2023).
 - `censo_2022.parquet`: 81,018 domains, declared platform, two online checks, feed, Mercado Shops id.
 - `censo_2022_feeds.parquet`: feeds tested and products read.
-- `feeds_importados.parquet`: 13,804 feeds imported into the author's crawler.
+- `feeds_importados.parquet`: 13,804 feeds imported into my crawler.
 
 ## How a store is structured
 
